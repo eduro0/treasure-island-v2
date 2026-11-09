@@ -12,7 +12,7 @@ replies, so a changed rule is caught and a reworded one isn't.
 `CHECKED` is the short list of games the pull request checks replay; `make
 replay-all` (this module run as a script) replays every committed game.
 
-Implements: treasure-island/quicksand, treasure-island/first-rules-archived, event-log/asked-or-walked, treasure-island/forced-discovery, runs/replay-by-actions, runs/replay-checks, results/results-stay-checkable, treasure-island/everything-cached
+Implements: treasure-island/quicksand, treasure-island/first-rules-archived, event-log/asked-or-walked, treasure-island/forced-discovery, runs/replay-by-actions, runs/replay-checks, runs/sweep-games-kept, results/results-stay-checkable, treasure-island/everything-cached
 """
 
 import json
@@ -26,8 +26,9 @@ from treasure_island.brain import Decision
 from treasure_island.config import parse_config
 from treasure_island.game_loop import GameStopped, write_game
 
-# The games every pull request replays: the examples, the committed runs, and one
-# game of each result. Any other committed game replays with `make replay-all`.
+# The games every pull request replays: the examples, the committed runs (one per
+# cell of the incentives sweep, `sweep-games-kept`), and one game of each result.
+# Any other committed game replays with `make replay-all`.
 # Games played under the first rules (before readings, free talk and orders)
 # stay committed but can't replay under these rules, so none is listed, and
 # `make replay-all` passes them by, saying how many (`first-rules-archived`).

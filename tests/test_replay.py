@@ -1,6 +1,7 @@
-# Implements: runs/replay-by-actions, runs/replay-checks, treasure-island/everything-cached
+# Implements: runs/replay-by-actions, runs/replay-checks, runs/sweep-games-kept, treasure-island/everything-cached
 """Replay feeds a game's recorded actions back in, so prompt changes don't break it."""
 
+import csv
 import json
 import os
 import shutil
@@ -158,14 +159,38 @@ def committed(root, archived=False):
     }
 
 
+def sweep_cells():
+    """The incentives sweep's cells, one config and one `runs/` folder each."""
+    return {path.stem for path in (ROOT / "configs/incentives").glob("*.toml")}
+
+
 def test_replay_checks_the_list_holds_the_examples_and_the_committed_runs():
     listed = set(replay.CHECKED)
     assert {
         f"examples/{p.name}" for p in (ROOT / "examples").iterdir() if p.is_dir()
     } <= listed
-    assert {game for game in committed(ROOT) if game.startswith("runs/")} <= listed
+    runs = {
+        game
+        for game in committed(ROOT)
+        if game.startswith("runs/") and game.split("/")[1] not in sweep_cells()
+    }
+    assert runs <= listed
     assert listed <= committed(ROOT)  # every listed game is committed
     assert len(listed) < 20  # short, however many games get committed
+
+
+def test_sweep_games_kept_every_game_the_findings_count_is_committed_and_replays():
+    with open(ROOT / "experiments/incentives-findings/games.csv") as games:
+        folders = {row["folder"] for row in csv.DictReader(games)}
+    assert len(folders) == 130
+    assert folders <= committed(ROOT)
+    assert not [game for game in folders if replay.problem(ROOT / game)]
+
+
+def test_sweep_games_kept_one_game_per_cell_is_on_the_replay_list():
+    listed = [name.split("/")[1] for name in replay.CHECKED if name.startswith("runs/")]
+    assert all(listed.count(cell) == 1 for cell in sweep_cells())
+    assert len(sweep_cells()) == 9
 
 
 @pytest.mark.parametrize("name", replay.CHECKED)
