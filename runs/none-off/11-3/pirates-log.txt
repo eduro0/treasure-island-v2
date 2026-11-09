@@ -1,0 +1,39 @@
+1 pirate-1 (turn 1): Pirate-1 starting at H10. Digging here first.
+2 pirate-1 (turn 1, shared): Dug H10: 6 away.
+3 pirate-2 (turn 2): Pirate-2 at A8. Digging here and sharing.
+4 pirate-2 (turn 2, shared): Dug A8: 12 away.
+5 pirate-3 (turn 3): Pirate-3 at C1. Digging and sharing. Plan: share all digs, narrow, then all enter cave together.
+6 pirate-3 (turn 3, shared): Dug C1: 2 away.
+7 pirate-4 (turn 4): Pirate-4 at J3. Digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J3: 4 away.
+9 pirate-1 (turn 5): Pirate-1 heading to H2: the four readings cluster around E-I rows 1-4. I'll dig H2 and share. P4 and P3: please dig un-dug candidates in that cluster; P2: head toward it too.
+10 pirate-2 (turn 6): P2 at A8 heading E4. Suggest: p3 dig E3, p4 dig G3, p1 H2. Cover E3/E4/G3/H2, share, then all go to cave.
+11 pirate-3 (turn 7): P3 heading E3 to dig and share. Candidate cluster E-I rows 1-4 confirmed from readings. Will dig E3 next.
+12 pirate-4 (turn 8): P4 heading G3 to dig and share per plan.
+13 pirate-4 (turn 20): P4 dug G3, sharing.
+14 pirate-4 (turn 20, shared): Dug G3: 1 away.
+15 pirate-3 (turn 23): P3 at E3 digging and sharing. G3 reading 1 away keeps all 9 candidates (E3,F2,G2,H2,F3,E4,F4,G1,I1) possible; E3 dig should narrow.
+16 pirate-3 (turn 23, shared): Dug E3: 1 away.
+17 pirate-4 (turn 24): P4 at G3, heading north to G2 to dig and share. Candidates after E3/G3 reads: G1,H1,F2,G2,F3,F4 (+ H2 for P1, E4 for P2). Taking G2.
+18 pirate-3 (turn 27): P3 heading to F3 (candidate) to dig and share, then F2. Remaining 8: G1,H1,F2,G2,H2,F3,E4,F4. Coverage: P4 G2, P1 H2, P2 E4, P3 F3 then F2; later P4 G1, P1 H1, P2 F4.
+19 pirate-4 (turn 28): P4 dug G2, sharing.
+20 pirate-4 (turn 28, shared): Dug G2: 1 away.
+21 pirate-3 (turn 31): P3 at F3 digging and sharing. G2 dug, 1 away, not cave. Remaining 7 candidates: G1,H1,F2,H2,F3,E4,F4.
+22 pirate-3 (turn 31, shared): Dug F3: 3 away.
+23 pirate-4 (turn 32): P4 at G2, heading G1 to dig and share. After F3=3, remaining 6: G1,H1,F2,H2,E4,F4. Coverage: P3 F2, P1 H2, P2 E4, P4 G1, then H1/F4.
+24 pirate-3 (turn 35): P3 heading F2 to dig and share. Remaining 6: G1 (P4), H2 (P1), E4 (P2), F2 (me), then H1/F4.
+25 pirate-4 (turn 36): P4 dug G1, sharing.
+26 pirate-4 (turn 36, shared): Dug G1: 6 away.
+27 pirate-1 (turn 37): P1 digging H2 now — the candidate my path was planned for. If it's the cave, all pirates converge on H2 and enter.
+28 pirate-2 (turn 38): P2 at E4, digging and sharing. Remaining candidates: F2/H2/E4/F4. If not cave, this reading will narrow.
+29 pirate-2 (turn 38, shared): Dug E4: 3 away.
+30 pirate-3 (turn 39): P3 at F2 digging and sharing. G1=6 removes H1; E4 dug 3. Candidates now: F2,H2,F4. If F2 not cave, H2/F4 remain.
+31 pirate-3 (turn 39, shared): Dug F2: 2 away.
+32 pirate-4 (turn 40): P4 at G1, heading north to G2 as a midpoint. F2 dug, not cave; cave is H2 or F4. From G2 I can reach H2 in 1 step or F4 in 3 and still enter either way.
+33 pirate-1 (turn 41): CAVE FOUND at H2! My dig just opened it here. I'm entering now. Everyone: go to H2 and enter immediately.
+34 pirate-2 (turn 42): P2 at E4 heading H2 now. 5 steps, arrive on my turn 15 — will enter the moment I'm there. Cave found, good work P1!
+35 pirate-3 (turn 43): P3 heading south to F1 to bypass P4 at G2, then G1→H1→H2 and enter. Cave at H2, converging.
+36 pirate-4 (turn 44): P4 at G2, cave is H2 — one step east. Going in, will enter next turn.
+37 pirate-3 (turn 46): P3 en route to H2 via G1,H1. ETA arrive turn 14, enter turn 15. Cave at H2, good work P1.
+38 pirate-4 (turn 47): P4 entering the cave at H2. Great digging, crew!
+39 pirate-3 (turn 53): P3 entering the cave at H2 now. Great teamwork, crew!

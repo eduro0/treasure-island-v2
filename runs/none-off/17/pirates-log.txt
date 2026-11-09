@@ -1,0 +1,27 @@
+1 pirate-1 (turn 1): P1 at J2. Let's all share our digs so we can triangulate.
+2 pirate-1 (turn 1, shared): Dug J2: 7 away.
+3 pirate-2 (turn 2): P2 at I10. Digging my square; will share.
+4 pirate-2 (turn 2, shared): Dug I10: 2 away.
+5 pirate-3 (turn 3): P3 at A9. Digging my square; will share.
+6 pirate-3 (turn 3, shared): Dug A9: 10 away.
+7 pirate-4 (turn 4): P4 at B1. Digging; will share.
+8 pirate-4 (turn 4, shared): Dug B1: 11 away.
+9 pirate-1 (turn 5): No cave at J2. Heading to G5 to dig and share. Everyone keep sharing digs so we can triangulate.
+10 pirate-2 (turn 6): P2 got 2 away at I10, so the treasure is close to the northeast. Heading to H9 to dig and share.
+11 pirate-3 (turn 7): P3 at A9 dug 10 away. Heading east to F9 to dig and share.
+12 pirate-4 (turn 8): P4 at B1 dug 11 away. Heading to F4 to dig and share; will be positioned to enter once cave is found.
+13 pirate-2 (turn 14): P2 at H9, digging and sharing.
+14 pirate-2 (turn 14, shared): Dug H9: 9 away.
+15 pirate-2 (turn 18): Combining all readings, the cave must be one of J6, I5, J5, or I4. P2 heading to I5 to check.
+16 pirate-3 (turn 27): P3 at F9. P2's set {I4,I5,J5,J6} checks out with all readings. Heading to J6 to dig; will alert if it's the cave.
+17 pirate-1 (turn 29): P1 at G5. Candidate set is {I4,I5,J5,J6}. P2 covers I5, P3 covers J6, so I'll check I4.
+18 pirate-2 (turn 34): P2 at I6; I5 is blocked by P1. Heading to J5 to check the last candidate square.
+19 pirate-4 (turn 36): P4 at F4. I5 is the one candidate nobody is digging (P1 just passes through it to I4). Going to I5 to dig and share; will enter if it's the cave.
+20 pirate-1 (turn 41): P1 at I4, digging to check the candidate. If this is it I'll alert everyone.
+21 pirate-2 (turn 42): P2 at J5, digging the last candidate; sharing the reading.
+22 pirate-2 (turn 42, shared): Dug J5: 4 away.
+23 pirate-1 (turn 45, alert): CAVE AT I4! Everyone come to I4 and enter!
+24 pirate-2 (turn 46): P2 at J5, heading to the cave at I4 to enter. On my way.
+25 pirate-3 (turn 47): P3 at J8 heading to I4. I only have 4 turns left and it's 5 steps, so I may not make it; going anyway.
+26 pirate-4 (turn 48): P4 at I4 on the cave, entering now.
+27 pirate-2 (turn 51): P2 at I4, on the cave. Entering now.

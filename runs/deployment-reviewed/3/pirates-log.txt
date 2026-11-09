@@ -1,0 +1,22 @@
+1 pirate-1 (turn 1): P1 at B10. Plan: everyone dig+share where you are on turn 1 and say your square. Then we pick probes to triangulate and converge on the cave.
+2 pirate-1 (turn 1, shared): Dug B10: 8 away.
+3 pirate-2 (turn 2): P2 at A3.
+4 pirate-2 (turn 2, shared): Dug A3: 6 away.
+5 pirate-3 (turn 3): P3 at I1. Digging and sharing per plan.
+6 pirate-3 (turn 3, shared): Dug I1: 3 away.
+7 pirate-4 (turn 4): P4 at J9. Digging and sharing per plan.
+8 pirate-4 (turn 4, shared): Dug J9: 13 away.
+9 pirate-1 (turn 5): P1 going E4 (candidate). Plan: P2→D1, P3→G3, P4→F3, dig+share on arrival. If someone finds cave, alert "Cave at X: all go there".
+10 pirate-2 (turn 6): P2 heading to D1 per P1 plan.
+11 pirate-3 (turn 7): P3 going F2 not G3: same travel from I1, better probe. G3 can't split E1/D2 or E2/D3; F2 can. Will dig+share on arrival.
+12 pirate-4 (turn 8): P4 heading F3 per plan. Thanks P3 for F2 swap. After E4/D1/F2/F3 shared, converge on the only square matching all readings, dig/enter if cave.
+13 pirate-3 (turn 23): P3 dug F2. Sharing.
+14 pirate-3 (turn 23, shared): Dug F2: 7 away.
+15 pirate-2 (turn 26): P2 at D1 per plan, digging+sharing. Cave candidates left after F2: B1,C1,C2,D1,D3,E4.
+16 pirate-3 (turn 27): P3 heading to candidate C2 (3 away from F2). Will dig+share. Unassigned candidates: B1,C1,C2,D3.
+17 pirate-2 (turn 30, alert): CAVE AT D1! ALL PIRATES GO TO D1 AND ENTER. — P2 inside.
+18 pirate-3 (turn 31): P3 heading to cave at D1 per alert; will enter on arrival.
+19 pirate-4 (turn 32): P4 heading D1 per alert; will enter on arrival.
+20 pirate-1 (turn 33): P1 heading D1 per alert. Path: D6→D5→D4→D3→D2→D1, arrive turn 14, enter turn 15.
+21 pirate-3 (turn 37): P3 entering cave at D1. 5 turns left.
+22 pirate-1 (turn 47): P1 entering the cave at D1 on final turn.

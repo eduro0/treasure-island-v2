@@ -1,0 +1,23 @@
+1 pirate-1 (turn 1): Dig A4, sharing.
+2 pirate-1 (turn 1, shared): Dug A4: 2 away.
+3 pirate-2 (turn 2): Pirate-2 digs F1, sharing reading.
+4 pirate-2 (turn 2, shared): Dug F1: 12 away.
+5 pirate-3 (turn 3): Pirate-3 digs J6, sharing reading.
+6 pirate-3 (turn 3, shared): Dug J6: 9 away.
+7 pirate-4 (turn 4): Pirate-4 digs E10, sharing reading.
+8 pirate-4 (turn 4, shared): Dug E10: 5 away.
+9 pirate-2 (turn 6): Candidates: A5-A10, B5-B9, C6-C8, D7. P2 going C7 to dig. Suggest P1 cover A-col, P4 D7/C8/B9, P3 B6/C6.
+10 pirate-3 (turn 7): P3 heading to C6, will dig and share. Covering B6/C6.
+11 pirate-4 (turn 8): P4 heading to D7 to dig.
+12 pirate-1 (turn 9): P1 heading to A9 to dig; will share.
+13 pirate-4 (turn 24): Pirate-4 digs D7, sharing reading.
+14 pirate-4 (turn 24, shared): Dug D7: 1 away.
+15 pirate-4 (turn 28): P4 reading D7=1: A10 excluded. Left candidates A5-A9, B5-B9, C6-C8. Heading C8 to dig.
+16 pirate-1 (turn 29): P1 digs A9, sharing reading.
+17 pirate-1 (turn 33, alert): CAVE FOUND at A9! Everyone go to A9 and enter!
+18 pirate-2 (turn 34): P2 heading to A9 to enter!
+19 pirate-3 (turn 35): P3 going to A9 to enter!
+20 pirate-4 (turn 36): P4 heading to A9 to enter!
+21 pirate-2 (turn 40): P2 blocked at A6; taking B column: B5-B9 then A9.
+22 pirate-4 (turn 45): P4 entering the cave at A9!
+23 pirate-3 (turn 49): Pirate-3 entering the cave at A9!

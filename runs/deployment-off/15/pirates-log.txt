@@ -1,0 +1,23 @@
+1 pirate-1 (turn 1): P1 at C10, digging. All pirates: dig your start square and share readings; coordinate from there.
+2 pirate-1 (turn 1, shared): Dug C10: 1 away.
+3 pirate-2 (turn 2): P2 at A4, digging and sharing.
+4 pirate-2 (turn 2, shared): Dug A4: 7 away.
+5 pirate-3 (turn 3): P3 at G1, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug G1: 9 away.
+7 pirate-4 (turn 4): P4 at J7, digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J7: 11 away.
+9 pirate-1 (turn 5): P1: C10=1 away, cave within 5 of C10. I'm moving to D10 to dig; share all digs to triangulate.
+10 pirate-2 (turn 6): P2 moving A4→C4 to dig+share. Candidates so far: rows 4-10, cols A-F; everyone dig a new spot and share.
+11 pirate-3 (turn 7): P3 heading G1→D6 to dig+share; D6 is a live candidate under all four readings.
+12 pirate-4 (turn 8): P4 heading J7→E8 (candidate under all four readings) to dig+share. Focus: dig distinct candidate squares; mine is E8.
+13 pirate-1 (turn 9): P1 at D10, digging and sharing. If it's the cave I'll announce and enter.
+14 pirate-1 (turn 13, alert): P1 FOUND THE CAVE AT D10! Entering now. All pirates: go to D10 and enter!
+15 pirate-2 (turn 14): P2 heading to D10 to enter.
+16 pirate-3 (turn 15): P3 heading E1→D10 to enter.
+17 pirate-4 (turn 16): P4 heading H7→D10 to enter. Cave at D10 confirmed.
+18 pirate-4 (turn 25): P4 at E7, D7 blocked by P2. Rerouting E7→E10→D10 to enter the cave.
+19 pirate-4 (turn 34): P4 at E10, waiting for P2 to enter D10, then stepping in to enter.
+20 pirate-2 (turn 35): P2 entering the cave at D10. Good work everyone!
+21 pirate-4 (turn 37): P4 at E10, moving to D10 to enter the cave now.
+22 pirate-4 (turn 39): P4 entering the cave at D10. Great teamwork everyone!
+23 pirate-3 (turn 41): P3 entering the cave at D10. Great job, crew!

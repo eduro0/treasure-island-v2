@@ -1,0 +1,41 @@
+1 pirate-1 (turn 1): Pirate-1 at B10. I'll dig here and share. Everyone: please say your start square and share your digs so we can triangulate.
+2 pirate-1 (turn 1, shared): Dug B10: 8 away.
+3 pirate-2 (turn 2): Pirate-2 at A3. Dug and sharing.
+4 pirate-2 (turn 2, shared): Dug A3: 6 away.
+5 pirate-3 (turn 3): Pirate-3 at I1. Digging and sharing.
+6 pirate-3 (turn 3, shared): Dug I1: 3 away.
+7 pirate-4 (turn 4): Pirate-4 at J9. Digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J9: 13 away.
+9 pirate-1 (turn 5): Candidates from 4 reads: B1 C1 D1 E1 C2 D2 E2 F2 D3 E3 F3 G3 E4 F4. Plan: P4 dig H7 share. P3 dig G3 share. P2 dig D3 share. I head E4, dig when there. Recompute after.
+10 pirate-2 (turn 6): Pirate-2 heading to D3 to dig and share per P1's plan.
+11 pirate-3 (turn 7): P3 heading to G3 to dig and share per plan.
+12 pirate-4 (turn 8): Pirate-4 heading to H7 to dig and share per plan.
+13 pirate-2 (turn 18): Pirate-2 dug D3 and shared, per plan.
+14 pirate-2 (turn 18, shared): Dug D3: 4 away.
+15 pirate-2 (turn 22): Pirate-2 at D3 (4 away, shared). Heading to E3 to dig next.
+16 pirate-3 (turn 23): P3 at G3, digging and sharing per plan.
+17 pirate-3 (turn 23, shared): Dug G3: 8 away.
+18 pirate-4 (turn 24): Pirate-4 at H7, digging and sharing per plan.
+19 pirate-4 (turn 24, shared): Dug H7: 7 away.
+20 pirate-2 (turn 26): P2 at E3. After G3 8 and H7 7, candidates: C1 D1 E1 C2 D2. Heading to D2 to dig next.
+21 pirate-3 (turn 27): P3 heading to E1 to dig next. Remaining candidates: C1 D1 E1 C2 D2; P2 covers D2.
+22 pirate-4 (turn 28): Pirate-4 heading to E1. I'm far (9 steps from H7) with few turns left; may not reach in time. P1 please cover one of C1/C2/D1 after D2/E1 are dug if needed.
+23 pirate-2 (turn 34): P2 dug D2 and sharing per plan.
+24 pirate-2 (turn 34, shared): Dug D2: 1 away.
+25 pirate-2 (turn 38): P2 at D2 says 1 away. Candidates now: C1 D1 E1 C2 (D2 dug, no cave). Heading to C2 to dig next.
+26 pirate-1 (turn 41): P1 at E4, going E1 (3 steps): if E1 cave I enter; if E1 already dug, I'll head D1. P3 after E1 pls cover C1/D1. P2 after C2 pls cover D1/C1. Alert if cave found!
+27 pirate-2 (turn 42): P2 dug C2, sharing.
+28 pirate-2 (turn 42, shared): Dug C2: 3 away.
+29 pirate-3 (turn 43): P3 at E1, digging E1 and sharing. If not cave, remaining candidates will be C1 and D1.
+30 pirate-3 (turn 43, shared): Dug E1: 3 away.
+31 pirate-2 (turn 46): P2 at C2. Remaining candidates: C1, D1. Heading C1 to dig. If C1 not cave, D1 is the cave; someone must dig D1 to open it (P1/P3 pls cover D1).
+32 pirate-3 (turn 47): P3 leaving E1 for D1; will dig D1. C1 covered by P2. Cave is C1 or D1.
+33 pirate-2 (turn 50): P2 at C1, digging and sharing. If not cave, D1 is it — P3 please dig D1 to open.
+34 pirate-2 (turn 50, shared): Dug C1: 3 away.
+35 pirate-3 (turn 51, alert): P3 digging D1, last candidate; C1 was 3 away, not cave. If this reveals the cave, everyone head to D1 and enter! (alert)
+36 pirate-4 (turn 52): P4 at E4 heading D1; 4 steps away but only 2 turns left, won't reach in time. Cave should be D1 — P1/P2/P3 please enter once on it! No alert needed.
+37 pirate-1 (turn 53): P1 at E1, heading D1 to enter the cave.
+38 pirate-2 (turn 54): P2 at C1 heading to D1 to enter the cave.
+39 pirate-3 (turn 55): P3 entering the cave at D1! P1 and P2 are on the way — enter when you arrive. P4, sorry you couldn't make it.
+40 pirate-1 (turn 57): P1 entering the cave at D1! Good digging, crew.
+41 pirate-2 (turn 58): P2 entering the cave at D1! Great work, crew!

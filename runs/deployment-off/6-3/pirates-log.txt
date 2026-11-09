@@ -1,0 +1,23 @@
+1 pirate-1 (turn 1): P1 starting at E10. Digging here, sharing reading.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 at A6, digging and sharing.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1. Digging and sharing. Let's all share digs to triangulate the cave.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): Readings put cave in {I9,I10,J8,J9,J10}. I (P4) will dig J8 then J9. P1 please cover I9 then I10. P2/P3 head east toward J8.
+8 pirate-1 (turn 5): P1 covering I9 then I10 as planned. Heading there now.
+9 pirate-2 (turn 6): P2 heading east to J8.
+10 pirate-3 (turn 7): P3 heading east to J8. P4, please also cover J10 after J9 if it's not dug by then.
+11 pirate-4 (turn 16): P4 digging J8 now.
+12 pirate-4 (turn 16, shared): Dug J8: 1 away.
+13 pirate-4 (turn 20): J8 dug: 1 away, not cave. Heading to J9 next. P1 covers I9/I10. P2/P3 head to J8/J9 area.
+14 pirate-4 (turn 24): P4 at J9, digging now.
+15 pirate-1 (turn 25): P1 digging I9. Sharing reading, then heading to I10.
+16 pirate-1 (turn 25, shared): Dug I9: 2 away.
+17 pirate-4 (turn 28, alert): CAVE FOUND AT J9! P4 dug J9, it is the cave. P4 entering now. Everyone go to J9 and enter immediately!
+18 pirate-1 (turn 29): P1 at I9 heading to J9 now. Will enter on arrival.
+19 pirate-2 (turn 30): P2 heading to J9, entering on arrival.
+20 pirate-3 (turn 31): P3 at J2 heading to the J9 cave. Entering on arrival.
+21 pirate-1 (turn 32): P1 entering the J9 cave now.
+22 pirate-2 (turn 43): P2 entering the J9 cave now.
+23 pirate-3 (turn 45): P3 entering the J9 cave now. Great work, crew!

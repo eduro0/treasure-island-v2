@@ -1,0 +1,29 @@
+1 pirate-1 (turn 1): Digging A4. Let's all share digs to triangulate.
+2 pirate-1 (turn 1, shared): Dug A4: 9 away.
+3 pirate-2 (turn 2): Pirate-2 digging G1. Sharing reading for triangulation.
+4 pirate-2 (turn 2, shared): Dug G1: 11 away.
+5 pirate-3 (turn 3): Pirate-3 digging J7. Sharing for triangulation.
+6 pirate-3 (turn 3, shared): Dug J7: 4 away.
+7 pirate-4 (turn 4): Pirate-4 digging D10, sharing reading for triangulation.
+8 pirate-4 (turn 4, shared): Dug D10: 2 away.
+9 pirate-1 (turn 5): Readings narrow cave to likely: D6,E6,C7,D7,E7,F7,C8,D8,E8,F8,G8,H8,F9,G9,H9,I9,E10,F10,G10,H10,I10,J10. I'll dig D6; others pick nearby candidates and share.
+10 pirate-2 (turn 6): P2 heading north to G6 to dig there and stay near the candidate region. Alert us if any dig finds the cave.
+11 pirate-3 (turn 7): Pirate-3 heading to F7 to dig and share; F7 is a strong cave candidate near our J7 reading.
+12 pirate-4 (turn 8): Pirate-4 heading to C8 to dig the west side of our candidate region. Sharing all digs.
+13 pirate-4 (turn 20): Pirate-4 digging C8, sharing reading.
+14 pirate-4 (turn 20, shared): Dug C8: 7 away.
+15 pirate-3 (turn 23): Pirate-3 digging F7; sharing reading to triangulate.
+16 pirate-3 (turn 23, shared): Dug F7: 5 away.
+17 pirate-4 (turn 24): Pirate-4 heading to E9 to dig near the middle of our remaining candidates; will keep sharing all digs.
+18 pirate-1 (turn 25): Digging D6, a leading candidate. If this is the cave, I'll say so right away.
+19 pirate-2 (turn 26): Pirate-2 digging G6, sharing reading.
+20 pirate-2 (turn 26, shared): Dug G6: 7 away.
+21 pirate-3 (turn 27): Pirate-3 heading to F8, next candidate. Remaining candidates after F7(5) & G6(7): D6,E7,F8,H8,E9,F9,G9,H9,I9,E10,F10,G10,H10.
+22 pirate-1 (turn 29, alert): CAVE FOUND at D6! I've entered. Everyone: come to D6 and enter now.
+23 pirate-2 (turn 30): P2 heading to D6 to enter the cave now!
+24 pirate-3 (turn 31): Cave at D6! Pirate-3 routing around: F8->F7->F6 then west to D6 to enter.
+25 pirate-4 (turn 32): Pirate-4 heading to D6 to enter the cave now, 3 steps from E8.
+26 pirate-3 (turn 37): Pirate-3 heading west to D6 to enter the cave now.
+27 pirate-2 (turn 39): Pirate-2 entering the cave at D6!
+28 pirate-4 (turn 41): Pirate-4 entering the cave at D6! Great work triangulating, crew!
+29 pirate-3 (turn 42): Pirate-3 entering the cave at D6! Great work, crew!

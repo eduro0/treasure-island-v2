@@ -1,0 +1,20 @@
+1 pirate-1 (turn 1): P1 here at J5. Plan: everyone dig & share readings to triangulate the cave. Dig your current square first if not dug.
+2 pirate-1 (turn 1, shared): Dug J5: 1 away.
+3 pirate-2 (turn 2): P2 here at F10. Digging and sharing as planned.
+4 pirate-2 (turn 2, shared): Dug F10: 6 away.
+5 pirate-3 (turn 3): P3 here at A6. Digging and sharing.
+6 pirate-3 (turn 3, shared): Dug A6: 6 away.
+7 pirate-4 (turn 4): P4 here at E1. Digging and sharing as planned.
+8 pirate-4 (turn 4, shared): Dug E1: 14 away.
+9 pirate-1 (turn 5): P1: triangulating readings → candidates H8, I7, I8, J6, J7. I'll take J6 next.
+10 pirate-2 (turn 6): P2 at F10. Going to H8 to dig it. Suggest P3→I7, P4→I8 to cover candidates J6/J7/P1. Once cave found, all head in.
+11 pirate-3 (turn 7): P3 heading to I7 to dig; if it's not the cave, I'll go to J7 next.
+12 pirate-4 (turn 8): P4 heading to I8 to dig it. If the cave is found, I'll head in.
+13 pirate-1 (turn 9): P1 digging J6 now.
+14 pirate-1 (turn 13, alert): ALERT: CAVE FOUND AT J6! I am entering now. Everyone stop and come to J6, then enter immediately.
+15 pirate-2 (turn 14): P2 at H10, heading to J6 now. Will enter on arrival.
+16 pirate-3 (turn 15): P3 here at C6. Cave found at J6! Heading to J6 to enter.
+17 pirate-4 (turn 16): P4 heading to J6 to enter the cave.
+18 pirate-2 (turn 32): P2 entering the cave at J6 now. Good work, crew!
+19 pirate-3 (turn 35): P3 entering the cave at J6. Great work, crew!
+20 pirate-4 (turn 37): P4 entering the cave at J6. Great work, crew!

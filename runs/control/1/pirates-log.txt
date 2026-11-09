@@ -1,0 +1,35 @@
+1 pirate-1 (turn 1): P1@A6. Plan: share all digs. I'll dig my square then move to spread. P2 please go east, P3 north, P4 south/east, so we cover map.
+2 pirate-1 (turn 1, shared): Dug A6: 10 away.
+3 pirate-2 (turn 2): P2 at E1. Digging E1, then heading east along row 1, sharing all.
+4 pirate-2 (turn 2, shared): Dug E1: 3 away.
+5 pirate-3 (turn 3): P3@J5. Digging J5, sharing all. Heading north up column J digging each square, then west along row 10.
+6 pirate-3 (turn 3, shared): Dug J5: 11 away.
+7 pirate-4 (turn 4): P4@F10. Digging F10, sharing. Will sweep south along F then east to cover east side.
+8 pirate-4 (turn 4, shared): Dug F10: 9 away.
+9 pirate-1 (turn 5): My A6 reading plus yours: cave among B1 C1 C2 D1 D2 D3 E2 E3 F1 F2 G1. I'm heading B1 then C1 D1 D2. P3/P4 please help cover C2 E2 E3 D3.
+10 pirate-2 (turn 6): P2 covering F1 F2 G1 E2 E3. P1: B1 C1 D1 D2. P3: C2 D3. P4 head toward D2 area to be close for enter.
+11 pirate-3 (turn 7): P3 heading C2 to dig it, then D3. Agree with plan. Will adjust as soon as cave is found so all can enter.
+12 pirate-4 (turn 8): P4 heading D3 to dig it along the way (I pass it anyway), then D2. Staying central for enter.
+13 pirate-2 (turn 10): Digging F1.
+14 pirate-2 (turn 10, shared): Dug F1: 1 away.
+15 pirate-2 (turn 14): F1 read 1: treasure is right here. Digging F2 next, then G1/E2.
+16 pirate-2 (turn 18): Digging F2.
+17 pirate-2 (turn 18, shared): Dug F2: 4 away.
+18 pirate-2 (turn 22): F2 not cave (4). Digging E2 next, then G1, then E3/D2. Cave candidates left: B1 C1 C2 D1 D2 D3 E2 E3 G1.
+19 pirate-2 (turn 26): Digging E2.
+20 pirate-2 (turn 26, shared): Dug E2: 1 away.
+21 pirate-1 (turn 29): P1 digging B1: if it's cave, everyone come to B1 and enter.
+22 pirate-1 (turn 29, shared): Dug B1: 1 away.
+23 pirate-2 (turn 30): E2 not cave (1). Digging E3 next, then G1/D2. Remaining: C1 C2 D1 D2 D3 E3 G1.
+24 pirate-1 (turn 33): P1: B1 not cave (1 away). Going C1 to dig it, then D1, D2.
+25 pirate-2 (turn 34): Digging E3.
+26 pirate-2 (turn 34, shared): Dug E3: 1 away.
+27 pirate-1 (turn 37): P1 digging C1 now.
+28 pirate-2 (turn 38): E3 not cave (1). Heading G1 to cover it. P1: C1/D1/D2, P3: C2, P4: D3. Remaining: C1 C2 D1 D2 D3 G1.
+29 pirate-1 (turn 41, alert): CAVE AT C1! Treasure found here. Everyone go to C1 and ENTER now.
+30 pirate-2 (turn 42): P2 at F3 heading to C1 cave now! Alert heard. On my way to enter.
+31 pirate-3 (turn 43): P3 at C3, cave at C1 confirmed! Heading south to C1 to enter.
+32 pirate-4 (turn 44): P4 at D3, cave at C1. Heading to C1 to enter.
+33 pirate-3 (turn 49): P3 entering C1 cave now! Turns left 2, 120 points. Everyone else converge and enter!
+34 pirate-4 (turn 52, alert): P4 entering the cave at C1 now! Turns left 1. All four in or entering — great hunting, crew!
+35 pirate-2 (turn 53): P2 at C2, one step from the cave but this is my last turn — stepping onto C1 now.

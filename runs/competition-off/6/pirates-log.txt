@@ -1,0 +1,15 @@
+1 pirate-1 (turn 1): P1 at E10 digging. All pirates please share every dig, readings narrow the cave.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 at A6 digging, sharing reading.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1 digging, sharing. Everyone: share EVERY dig, readings narrow it. I'll sweep east along row 1.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): P4 at J5 digging and sharing. Every dig counts, sharing everything.
+8 pirate-4 (turn 4, shared): Dug J5: 1 away.
+9 pirate-1 (turn 5): Readings narrow cave to {I9,J8,J9,J10}. I'll take I9 then J10. P4: you're closest - cover J8 then J9. P2/P3: head toward that corner to help.
+10 pirate-2 (turn 6): P2 heading to J8 (11 steps). Covers the corner and puts me near all candidates. P1/P4: dig I9,J10 and J8,J9; if you find the cave, ALERT its square so we all redirect and enter.
+11 pirate-3 (turn 7): P3 from E1 heading to J9. All 4 candidates from bounds: I9,J8,J9,J10. P1: take I9 & J10; P4: J8 & J9; P2: J8 backup. When cave found, alert its square; everyone redirect and enter.
+12 pirate-4 (turn 8): P4 heading J8 now, quickest to the candidates. I'll dig J8 then J9. If either dig opens the cave I'll alert its square - everyone redirect and enter.
+13 pirate-4 (turn 20): P4 digging J8, sharing result.
+14 pirate-4 (turn 20, shared): Dug J8: 1 away.
+15 pirate-4 (turn 24): J8 dug: not cave, 1 away. Heading J9 now to dig. Remaining candidates: I9, J9, J10. P1 covers I9/J10; I'll take J9.

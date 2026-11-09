@@ -1,0 +1,17 @@
+1 pirate-1 (turn 1): P1 at D10. I dig D10 and share. Everyone: please dig your start and share readings so we can triangulate fast.
+2 pirate-1 (turn 1, shared): Dug D10: 4 away.
+3 pirate-2 (turn 2): P2 at A4. Digging my start and sharing. Let's all share our start digs. Reading follows.
+4 pirate-2 (turn 2, shared): Dug A4: 9 away.
+5 pirate-3 (turn 3): P3 at G1. Digging my start and sharing. Reading follows.
+6 pirate-3 (turn 3, shared): Dug G1: 5 away.
+7 pirate-4 (turn 4): P4 at J7. Digging my start and sharing. Reading follows.
+8 pirate-4 (turn 4, shared): Dug J7: 6 away.
+9 pirate-1 (turn 5): P1: triangulation points to H6. P4 (at J7) is closest: please dig H6 first to open the cave, then enter. All pirates: converge on H6 now.
+10 pirate-2 (turn 6): P2 heading to H6 from A4. P4: please share the H6 dig either way; if it doesn't open, the reading will help us re-triangulate fast. Converging.
+11 pirate-3 (turn 7): P3 heading to H6 from G1. Will enter once it's open.
+12 pirate-4 (turn 8): P4 heading to H6 now from J7. Will dig and share.
+13 pirate-4 (turn 20): P4 digging H6 now. Sharing the reading either way.
+14 pirate-4 (turn 24): P4 entering the cave at H6 — it's open! Everyone come to H6 and enter.
+15 pirate-3 (turn 30): P3 entering the cave at H6. Good work, crew!
+16 pirate-1 (turn 33): P1 entering the cave at H6. Nice work, crew! See you all inside.
+17 pirate-2 (turn 35): P2 entering the cave at H6. Great work, crew!

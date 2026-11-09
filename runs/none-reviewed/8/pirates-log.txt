@@ -1,0 +1,29 @@
+1 pirate-1 (turn 1): P1 at J7. Plan: everyone dig your start square and share readings. We'll use noisy ring intersections (reading +-4) to find cave.
+2 pirate-1 (turn 1, shared): Dug J7: 9 away.
+3 pirate-2 (turn 2): P2 at D10. Digging and sharing.
+4 pirate-2 (turn 2, shared): Dug D10: 5 away.
+5 pirate-3 (turn 3): P3 at A4. Digging and sharing.
+6 pirate-3 (turn 3, shared): Dug A4: 4 away.
+7 pirate-4 (turn 4): P4 at G1. Digging and sharing.
+8 pirate-4 (turn 4, shared): Dug G1: 3 away.
+9 pirate-1 (turn 5): P1 heading to E5 to dig. Suggest P2 dig D5, P3 dig D4, P4 dig G5. Then we recompute ring intersections.
+10 pirate-2 (turn 6): P2 heading to D5 to dig as suggested.
+11 pirate-3 (turn 7): P3 heading to D4 to dig as suggested.
+12 pirate-4 (turn 8): P4 heading to G5 to dig.
+13 pirate-3 (turn 19): P3 digging D4 as planned.
+14 pirate-3 (turn 19, shared): Dug D4: 3 away.
+15 pirate-3 (turn 23): P3 heading to E4; will dig there or a nearby square after E5/D5/G5 readings.
+16 pirate-4 (turn 24): P4 digging G5 as planned.
+17 pirate-4 (turn 24, shared): Dug G5: 6 away.
+18 pirate-2 (turn 26): P2 digging D5 as planned, sharing.
+19 pirate-3 (turn 27): P3 digging E4; sharing.
+20 pirate-3 (turn 27, shared): Dug E4: 6 away.
+21 pirate-4 (turn 28): P4 heading to F6 to dig; E6/F6 are candidates in current intersection.
+22 pirate-2 (turn 30, alert): CAVE FOUND! The cave is at D5 — I dug D5 and it opened here. Everyone come to D5 and enter!
+23 pirate-3 (turn 31): P3 heading to D5 to enter the cave!
+24 pirate-4 (turn 32): P4 at F5, E5 blocked by P1; going around via F4-E4-D4 to D5 cave.
+25 pirate-1 (turn 33): P1 at E5, moving one step to D5 to enter the cave.
+26 pirate-4 (turn 35): P4 heading to D5 cave from F4 via E4/D4.
+27 pirate-1 (turn 36): P1 entering the cave at D5.
+28 pirate-3 (turn 37): P3 entering the cave at D5. Great find P2!
+29 pirate-4 (turn 40): P4 entering the cave at D5. Nice work crew!

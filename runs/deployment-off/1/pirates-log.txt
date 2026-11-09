@@ -1,0 +1,17 @@
+1 pirate-1 (turn 1): P1 starting A6. Everyone: dig your square and share, report your start. Then we triangulate.
+2 pirate-1 (turn 1, shared): Dug A6: 10 away.
+3 pirate-2 (turn 2): P2 at E1, digging now, will share.
+4 pirate-2 (turn 2, shared): Dug E1: 3 away.
+5 pirate-3 (turn 3): P3 at J5, digging now, will share.
+6 pirate-3 (turn 3, shared): Dug J5: 11 away.
+7 pirate-4 (turn 4): P4 at F10, digging and sharing now.
+8 pirate-4 (turn 4, shared): Dug F10: 9 away.
+9 pirate-1 (turn 5): P1 heading to C1. Triangulation points to C1. P2: you're closest — dig C1 if cave, then enter. P3/P4 converge on C1.
+10 pirate-2 (turn 6): P2 heading to C1 now; will dig it when I arrive.
+11 pirate-3 (turn 7): P3 heading to C1 now; will dig nearby if needed.
+12 pirate-4 (turn 8): P4 heading to C1 now.
+13 pirate-2 (turn 14): P2 digging C1 now.
+14 pirate-2 (turn 18): P2 entering the cave at C1. Treasure found!
+15 pirate-1 (turn 30): P1 entering the cave at C1. See you inside!
+16 pirate-3 (turn 39): P3 entering the cave at C1. Great triangulation, crew!
+17 pirate-4 (turn 41): P4 entering the cave at C1. Great work, crew!

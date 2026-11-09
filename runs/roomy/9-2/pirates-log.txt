@@ -1,0 +1,9 @@
+1 pirate-1 (turn 1): P1 at J7, digging + sharing. Please all share digs so we can triangulate. Plan: sweep and converge.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): P2 at E10, digging and sharing. Please all share your digs so we can triangulate and converge. P3/P4, share your starts.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): P3 at A5, digging and sharing. Let's map grids and converge.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): P4 at F1, digging and sharing. Let's triangulate.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.
+9 pirate-1 (turn 5): P4's F1 reading of 1 is our strongest clue, so the cave is close to F1. I'm heading into the F1 neighborhood to dig and share. P4, try adjacent squares; P2/P3 keep sampling to triangulate.

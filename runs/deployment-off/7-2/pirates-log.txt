@@ -1,0 +1,13 @@
+1 pirate-1 (turn 1): P1 dug J8, sharing.
+2 pirate-1 (turn 1, shared): Dug J8: 1 away.
+3 pirate-2 (turn 2): P2 heading to I8 to dig near P1's find.
+4 pirate-3 (turn 3): P3 heading to J8 via row 3 then up. Will dig along the way if useful.
+5 pirate-4 (turn 4): P4 heading to J7 to cover that neighbor of P1's find. Will share the dig when I get there.
+6 pirate-1 (turn 5): P1 heading west along row 8 toward F8 to dig; my J8 reading puts F8 well within range. Will report what I find.
+7 pirate-1 (turn 21): P1 at F8; digging now to check for the cave.
+8 pirate-1 (turn 25): CAVE FOUND at F8! I dug F8 and it opened the cave. Everyone: come to F8 and enter. P1 entering now.
+9 pirate-2 (turn 32): P2 heading to F8 to enter the cave.
+10 pirate-4 (turn 34): P4 at J7 heading to F8 now, ETA 5 turns; will enter on arrival.
+11 pirate-2 (turn 41): P2 entering the cave at F8.
+12 pirate-4 (turn 47): P4 entering the cave at F8.
+13 pirate-3 (turn 48): P3 too late—arrived J8 on final turn, F8 is 4 steps away. Moving west, but this is my last turn.

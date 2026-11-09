@@ -1,0 +1,34 @@
+1 pirate-1 (turn 1): P1 at A6, digging & sharing. Plan: P1→A10, P2→J10, P3→J1, P4→A1, dig & share readings.
+2 pirate-1 (turn 1, shared): Dug A6: 10 away.
+3 pirate-2 (turn 2): P2 at E1 heading to J10 as planned; ETA my turn 14.
+4 pirate-3 (turn 3): P3 at J5 heading to J1 as planned; ETA my turn 5.
+5 pirate-4 (turn 4): P4 at F10 heading to A1 as planned; ETA my turn 14.
+6 pirate-1 (turn 5, alert): Alert P1: long corner trips cost too much. On your next ask, dig where you are & share the reading instead. P1 goes to A10 to dig & share; then we triangulate from all probes.
+7 pirate-2 (turn 6): P2 digging F1 and sharing per P1's alert.
+8 pirate-2 (turn 6, shared): Dug F1: 1 away.
+9 pirate-3 (turn 7): P3 digging J4 and sharing per P1's alert.
+10 pirate-3 (turn 7, shared): Dug J4: 6 away.
+11 pirate-4 (turn 8): P4 digging E10 and sharing per P1's alert.
+12 pirate-4 (turn 8, shared): Dug E10: 8 away.
+13 pirate-2 (turn 10): P2 moving F1→F2 to probe; readings put candidates roughly x2-9 y1-5, heading north from F1.
+14 pirate-3 (turn 11): P3 at J4 dug 6 away; heading G4 into candidate region to probe & share.
+15 pirate-4 (turn 12): P4 heading E3 to probe the candidate region; will dig & share there, then it's a good hub to enter from.
+16 pirate-2 (turn 14): P2 digging F2 and sharing per plan.
+17 pirate-2 (turn 14, shared): Dug F2: 4 away.
+18 pirate-2 (turn 18): P2 moving F2→F3 to dig next; ~24 candidates remain in bottom strip, digging through central row.
+19 pirate-1 (turn 21): P1 digging A10 and sharing per plan. Once we have these probes, let's triangulate and head to candidates.
+20 pirate-1 (turn 21, shared): Dug A10: 12 away.
+21 pirate-2 (turn 22): P2 digging F3 candidate. P3: please probe J6/J10 east side, strip distances vary 4-13, narrows us. Others: dig undug candidates.
+22 pirate-2 (turn 22, shared): Dug F3: 6 away.
+23 pirate-3 (turn 23): P3 digging G4 candidate & sharing; if not cave I'll probe east side per P2.
+24 pirate-3 (turn 23, shared): Dug G4: 11 away.
+25 pirate-1 (turn 25, alert): ALERT P1: All shared readings (A6=10,A10=12,F1=1,F2=4,F3=6,J4=6,E10=8,G4=11) uniquely pinpoint C1. P2/P3/P4: go C1, dig to open, then enter. P1 is too far to reach—finish without me.
+26 pirate-2 (turn 26): P2 verified C1 uniquely fits all 8 readings (J4 rules out (2,1); C1 at d10). Heading F3→C1 to dig & enter. P3/P4 converge on C1.
+27 pirate-3 (turn 27): P3 confirms C1 uniquely fits all 8 readings; heading G4→C1 to dig/enter.
+28 pirate-4 (turn 28): P4 heading C1 to dig if needed and enter.
+29 pirate-4 (turn 40): P4 at C5, P3 ahead on column C; waiting one beat, then tailing to C1 to enter.
+30 pirate-4 (turn 44): P4 tailing down column C to C1; expect to arrive and enter shortly.
+31 pirate-2 (turn 46): P2 at C1, digging to open the cave.
+32 pirate-2 (turn 50): P2 entering the cave at C1. P3/P4: cave is open, enter when you arrive.
+33 pirate-3 (turn 54): P3 entering the cave at C1. Thanks crew for the triangulation!
+34 pirate-4 (turn 57): P4 entering the cave at C1. Great triangulation, crew!

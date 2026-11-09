@@ -1,0 +1,56 @@
+1 pirate-1 (turn 1): P1 at D10, digging and sharing.
+2 pirate-1 (turn 1, shared): Dug D10: 4 away.
+3 pirate-2 (turn 2): P2 at A4, digging and sharing.
+4 pirate-2 (turn 2, shared): Dug A4: 9 away.
+5 pirate-3 (turn 3): P3 at G1, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug G1: 5 away.
+7 pirate-4 (turn 4): P4 at J7, digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J7: 6 away.
+9 pirate-1 (turn 5): P1 heading to E7 to test. Suggest P2=>D6, P3=>G6, P4=>H8. All dig+share; if cave found, alert all.
+10 pirate-2 (turn 6): P2 heading to D6 to dig and share per plan.
+11 pirate-3 (turn 7): P3 heading to G6 to dig and share per plan.
+12 pirate-4 (turn 8): P4 heading to H8 to dig and share per plan.
+13 pirate-4 (turn 20): P4 at H8, digging and sharing.
+14 pirate-4 (turn 20, shared): Dug H8: 5 away.
+15 pirate-1 (turn 21): P1 at E7, digging and sharing.
+16 pirate-1 (turn 21, shared): Dug E7: 1 away.
+17 pirate-4 (turn 24, alert): Alert: E7 shared 1 away => treasure within 5 of E7. P2 dig D6, P3 dig G6, P1 dig near E7, P4 heading F7. Dig+share so we triangulate.
+18 pirate-1 (turn 25): P1 heading F9 to test. Candidates left: F9, G8, G9, H7. Please cover G8/G9/H7.
+19 pirate-2 (turn 26): P2 at D6, digging and sharing. Will cover G8 next if needed.
+20 pirate-2 (turn 26, shared): Dug D6: 5 away.
+21 pirate-3 (turn 27): P3 at G6, digging and sharing per plan.
+22 pirate-3 (turn 27, shared): Dug G6: 5 away.
+23 pirate-1 (turn 29): P1 at F7, digging and sharing. F7 was a candidate.
+24 pirate-1 (turn 29, shared): Dug F7: 5 away.
+25 pirate-2 (turn 30): P2 heading G9 to test. Coverage: F9(P1), G8(P3), G9(P2), H7(P4). Dig+share; alert if cave found.
+26 pirate-3 (turn 31): P3 heading G8 to dig and share per coverage.
+27 pirate-4 (turn 32): P4 at F8, digging and sharing (F8 fits all readings too). Then will head H7.
+28 pirate-4 (turn 32, shared): Dug F8: 1 away.
+29 pirate-1 (turn 33): P1 heading F6 (candidate) to dig+share. Coverage now: F6(P1), G8(P3), G9(P2), H7(P4). Alert if cave found.
+30 pirate-2 (turn 34): P2 at E6, digging & sharing. E6 is itself a candidate; many more than listed also fit (D7,E5,E8,F4,F5,F6,F9,G4,G5,G7,G8,G9,G10,H5,H6,H7,H9,I6,I8). Dig any candidate you stand on.
+31 pirate-2 (turn 34, shared): Dug E6: 3 away.
+32 pirate-4 (turn 36): P4 heading F9 (candidate) to dig+share. Will cover H7 after if still open.
+33 pirate-1 (turn 37): P1 at F6, digging and sharing. F6 is a candidate.
+34 pirate-1 (turn 37, shared): Dug F6: 6 away.
+35 pirate-2 (turn 38): P2 heading E5 (candidate) to dig+share. Many candidates remain; keep digging candidates and sharing. Alert if cave found.
+36 pirate-3 (turn 39): P3 at G8, digging and sharing per coverage.
+37 pirate-3 (turn 39, shared): Dug G8: 3 away.
+38 pirate-4 (turn 40): P4 at F9, digging and sharing.
+39 pirate-4 (turn 40, shared): Dug F9: 7 away.
+40 pirate-1 (turn 41): P1 heading G5 (candidate) to dig+share. Remaining candidates: D7,E5,D8,C7,G7,C8,H7,F4,C9,G5,B8,H6,F3,C10,G4,B9,H5,I6,I8.
+41 pirate-2 (turn 42): P2 at E5, digging & sharing. Accurate remaining candidates: D7,E5,F4,G5,G7,H6,H7,I8 (others listed earlier fail D10/G1/F9 bounds). Alert if cave.
+42 pirate-2 (turn 42, shared): Dug E5: 2 away.
+43 pirate-3 (turn 43): P3 heading G7 to dig+share. After E5=2, remaining: D7,F4,G5,G7,H6,H7. I8 now fails E5 bound.
+44 pirate-4 (turn 44): P4 heading H7 to dig+share. Undug candidates I find: E4,D5,C6,D7,F4,G5,G7,H6,H7,I7. Cover D7/F4/H6/E4/C6/I7.
+45 pirate-2 (turn 46): P2 heading D7 (candidate) to dig+share. Remaining undug: D7,F4,G5(P1),G7(P3),H7(P4); after dead cover F4/H6. Alert if cave.
+46 pirate-3 (turn 47): P3 at G7, digging and sharing per coverage.
+47 pirate-3 (turn 47, shared): Dug G7: 4 away.
+48 pirate-1 (turn 49): P1 at G5, digging and sharing. Remaining candidates: D7, F4, H6, H7, I7 (G5 is one too). Alert if cave found.
+49 pirate-1 (turn 49, shared): Dug G5: 5 away.
+50 pirate-3 (turn 51): P3 heading H6 to dig+share. Undug consistent: D7,F4,H6,H7 (I7 fails J7 bound).
+51 pirate-1 (turn 53): P1 heading F4 (last candidate) to dig+share. Coverage: D7(P2), H6(P3), H7(P4), F4(P1). Alert if cave found.
+52 pirate-2 (turn 58): P2 at D7, digging & sharing (my last turn). If dead, remaining candidates: F4(P1), H6(P3), H7(P4). Alert if cave.
+53 pirate-2 (turn 58, shared): Dug D7: 9 away.
+54 pirate-3 (turn 59): P3 at H6, digging and sharing (last turn).
+55 pirate-4 (turn 60): P4 digging H7; D7=9 excludes it (dist 4), cave should be F4 or H6.
+56 pirate-4 (turn 60, shared): Dug H7: 3 away.

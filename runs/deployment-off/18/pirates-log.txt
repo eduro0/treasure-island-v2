@@ -1,0 +1,28 @@
+1 pirate-1 (turn 1): Digging I10
+2 pirate-1 (turn 1, shared): Dug I10: 8 away.
+3 pirate-2 (turn 2): P2 at A9 digging. Let's all share readings so we can triangulate the cave.
+4 pirate-2 (turn 2, shared): Dug A9: 1 away.
+5 pirate-3 (turn 3): P3 at B1 digging and sharing. Let's cover the grid.
+6 pirate-3 (turn 3, shared): Dug B1: 12 away.
+7 pirate-4 (turn 4): P4 at J2 digging & sharing. From A9(1) B1(12) I10(8) candidates: B9 C8 C9 D7 D8 D9 E8 E9 F9. This J2 distance should help narrow.
+8 pirate-4 (turn 4, shared): Dug J2: 17 away.
+9 pirate-1 (turn 5): From A9(1), B1(12), I10(8), J2(17): cave is likely B9/C8/C9/D8/D9. I'm heading to C9. P2 at A9, you're closest—please dig C9 or C8 to confirm.
+10 pirate-2 (turn 6): Candidates from all 4 readings: A8 C8 D8 B9 C9 D9 E9 B10 C10 D10 E10. I'll dig B9 next. P1 digs C9, others take different un-dug candidates.
+11 pirate-3 (turn 7): P3 heading D9. Plan: P1 C9 then C8; P2 B9 then A8/A10; P4 E10/D10/C10; P3 D9. Cover all 10 candidates.
+12 pirate-2 (turn 10): P2 digging B9 now.
+13 pirate-2 (turn 10, shared): Dug B9: 4 away.
+14 pirate-4 (turn 12): P4 refined list w/ B9=4 & J2=17: A8 A10 C9 B10 C8 D9 C10 D10 E10 (B9 dug, not cave). I'm too far to dig; P2/P1 please cover E10 C10 D10 B10 A10. D8/E9/E8/D7/F9 excluded.
+15 pirate-2 (turn 14): P2 heading B10 to dig. Remaining candidates: A8 C8 D8 C9 D9 E9 B10 C10 D10 E10 (A10 out: J2 distance 18). Cover different squares, shout when found.
+16 pirate-2 (turn 18): Digging B10 now. If not cave, heading C10 next.
+17 pirate-2 (turn 18, shared): Dug B10: 6 away.
+18 pirate-2 (turn 22): B10=6 excludes C10 (only 1 away). Remaining: A8 C8 D8 C9 D9 E9 D10 E10. Heading D10 then E10. P1/P3 cover C9/D9; P4 please take E9 or C8.
+19 pirate-1 (turn 25): P1 at D10 (a candidate), digging it and sharing. If not cave, reading will narrow the rest.
+20 pirate-1 (turn 25, shared): Dug D10: 6 away.
+21 pirate-2 (turn 26): D10=6 excludes D9 and E10 (both only 1 from D10; a 6-reading needs >=2). Only A8, C8, C9 remain. P2 digs C9 then C8. P3/P1: closest to A8 please dig A8.
+22 pirate-1 (turn 29): Remaining: A8 C8 C9. From D10 I'm closest to C9; heading there to dig/enter. P3, please cover A8.
+23 pirate-2 (turn 30): P2 digging C9 now. P1, I'm already here—if this isn't the cave, please take C8 or A8; I'll take the other.
+24 pirate-2 (turn 34, alert): CAVE FOUND at C9! Enter now—all pirates to C9. The cave is open; I'm going in.
+25 pirate-3 (turn 35): P3 heading to C9 to enter.
+26 pirate-4 (turn 36): P4 heading to C9 from E3 (8 steps, 7 turns left—likely won't make it). Enter without me—great hunting, crew! At least three of us will bring it home.
+27 pirate-1 (turn 37): P1 entering the cave at C9. Good hunting, crew!
+28 pirate-3 (turn 44): P3 entering the cave at C9. Well done finding it, crew!

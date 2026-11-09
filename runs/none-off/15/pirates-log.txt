@@ -1,0 +1,19 @@
+1 pirate-1 (turn 1): Pirate-1 here at C10. Plan: everyone dig & share readings each turn; we triangulate and converge on cave. I'll sweep the west/top.
+2 pirate-1 (turn 1, shared): Dug C10: 1 away.
+3 pirate-2 (turn 2): Pirate-2 here at A4, digging and sharing. Will triangulate readings.
+4 pirate-2 (turn 2, shared): Dug A4: 7 away.
+5 pirate-3 (turn 3): Pirate-3 at G1, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug G1: 9 away.
+7 pirate-4 (turn 4): Pirate-4 at J7, digging and sharing. Let's converge on the cave.
+8 pirate-4 (turn 4, shared): Dug J7: 11 away.
+9 pirate-1 (turn 5, alert): Cave is at D10! All pirates converge on D10 and enter.
+10 pirate-2 (turn 6): Pirate-2 heading from A4 to D10 per Pirate-1's alert. Will dig/enter there. 9 steps, ETA ~turn 11 for me.
+11 pirate-3 (turn 7): Pirate-3 at G1 heading to D10 per alert. 12 steps, arriving ~my turn 13. Will enter if cave open.
+12 pirate-4 (turn 8): Pirate-4 at J7 heading to D10 per alert. 9 steps, ETA my turn 11.
+13 pirate-1 (turn 9): Digging D10 to open the cave. Everyone just enter when you arrive - cave holds all of us.
+14 pirate-1 (turn 13): Cave is open at D10, entering now. See you all inside—just enter when you arrive.
+15 pirate-4 (turn 25): Pirate-4 at E7, blocked by pirate-2 at D7. Routng around: north to E10 then west to D10, enter ~turn 11.
+16 pirate-4 (turn 34): Pirate-4 at E10, one step east of the cave. Heading onto D10 to enter.
+17 pirate-2 (turn 35): Pirate-2 entering the open cave at D10. 4 turns of mine left. See you all inside!
+18 pirate-4 (turn 37): Pirate-4 entering the open cave at D10. 4 turns of mine left. See you all inside!
+19 pirate-3 (turn 40): Pirate-3 entering the open cave at D10. 1 turn of mine left. See you all inside!

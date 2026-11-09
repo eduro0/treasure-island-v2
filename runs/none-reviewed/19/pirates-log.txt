@@ -1,0 +1,24 @@
+1 pirate-1 (turn 1): Plan: pirates divide grid, dig and share all readings, triangulate, then all converge to cave. P1 taking west/south area.
+2 pirate-1 (turn 1, shared): Dug A3: 1 away.
+3 pirate-2 (turn 2): P2 at H1, digging bottom-east corner.
+4 pirate-2 (turn 2, shared): Dug H1: 8 away.
+5 pirate-3 (turn 3): P3 at J8, digging north-east corner. Dividing: P1 west/south, P2 south-east, P3 north-east, P4 north-west.
+6 pirate-3 (turn 3, shared): Dug J8: 13 away.
+7 pirate-4 (turn 4): P4 at C10, digging north-west corner.
+8 pirate-4 (turn 4, shared): Dug C10: 9 away.
+9 pirate-1 (turn 5): P1: my A3 read was 1 away, so I'm probing adjacent squares near it. Digging A2 next and sharing. Keep sharing all readings; once cave is found, converge and enter.
+10 pirate-2 (turn 6): P2 sweeping west along row 1, digging every square and sharing.
+11 pirate-3 (turn 7): P3 sweeping row 8 west, sharing every dig. So far J8=13, and A3=1 makes cave likely near west; I'll give a long horizontal line for y-fix.
+12 pirate-4 (turn 8): P4 sweeping row 10 east, sharing every dig.
+13 pirate-1 (turn 9, alert): P1: probing A2, sharing whatever it tells; if this is the cave, everyone converge here and enter.
+14 pirate-2 (turn 10): P2 digging G1.
+15 pirate-2 (turn 10, shared): Dug G1: 5 away.
+16 pirate-3 (turn 11): P3 dug I8; continuing row 8 west, sharing every dig.
+17 pirate-3 (turn 11, shared): Dug I8: 17 away.
+18 pirate-4 (turn 12): P4: I8=17 pins cave to {A1,A2,A3,B1,B2,C1}. Heading to B2 via column B to cover/enter. P1/P2 dig the surrounding candidates; P3 join us SW.
+19 pirate-1 (turn 13): P1: cave confirmed at A2 from my dig. Everyone converge on A2 and enter.
+20 pirate-2 (turn 14): P2 converging on A2, ETA 7 turns, will enter.
+21 pirate-3 (turn 15): P3: heading to A2 from I8, 14 steps west to A8 then south down col A. Coming as fast as I can; arrive late in my turns.
+22 pirate-2 (turn 35): P2 entering the cave at A2.
+23 pirate-4 (turn 41): P4: at B2, stepping to A2, will enter next turn.
+24 pirate-4 (turn 43): P4 entering the cave at A2.

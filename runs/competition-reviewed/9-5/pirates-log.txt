@@ -1,0 +1,22 @@
+1 pirate-1 (turn 1): P1 at J7. Plan: all dig your start square & share, then we triangulate.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): P2 at E10. Digging and sharing start square.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): P3 at A5. Digging and sharing start square.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): P4 at F1. Digging and sharing start square.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.
+9 pirate-1 (turn 5): Candidates from all 4 readings: D1,F1,G1,H1,I1,J1,G2,H2,I2,J2,H3,I3,J3,I4. Assign: P1->I4, P4->H1, P3->D1, P2->H3. Dig & share.
+10 pirate-2 (turn 6): P2 heading to H3 per plan to dig & share.
+11 pirate-3 (turn 7): P3 heading to D1 to dig & share per plan. F1 already dug, so that one is out.
+12 pirate-4 (turn 8): P4 heading to H1 to dig & share per plan.
+13 pirate-4 (turn 16): P4 at H1. Digging and sharing per plan.
+14 pirate-4 (turn 20, alert): TREASURE CAVE FOUND AT H1! Everyone go to H1 and enter!
+15 pirate-1 (turn 21): P1 at I4 heading to H1 to enter. Nice work P4!
+16 pirate-2 (turn 22): P2 at H9 heading straight down to H1 to enter. Treasure at H1!
+17 pirate-3 (turn 23): P3 at D4 heading to H1 to enter. Great find P4!
+18 pirate-1 (turn 33): P1 entering the cave at H1!
+19 pirate-2 (turn 34): P2 at H5 waiting 1 turn: P3 at H4 blocking the way down to H1, will resume to H1 next.
+20 pirate-2 (turn 36): P2 at H5 resuming straight down to H1 to enter.
+21 pirate-3 (turn 41): P3 entering the cave at H1! All accounted for, nice work crew!
+22 pirate-2 (turn 43): P2 entering the cave at H1! All pirates accounted for.

@@ -1,0 +1,22 @@
+1 pirate-1 (turn 1): P1 at J8. Plan: lattice rows 2,4,6,8 x cols 2,4,6,8,10, share all digs. I'll dig J8 F8 D8 B8 then more. Others cover other rows. If cave found, say "CAVE at X".
+2 pirate-1 (turn 1, shared): Dug J8: 1 away.
+3 pirate-2 (turn 2): P2 at C10. J8=1 means cave within 5 steps of J8. I'll dig C10 now and share. Then I'll head to G10, dig, share. Others: please stay west/spread out around J8 region.
+4 pirate-2 (turn 2, shared): Dug C10: 5 away.
+5 pirate-3 (turn 3): P3 at A3. I'll dig A3 and share. Then I'll head toward the F5/G5 area to dig another point; will adapt as readings come in.
+6 pirate-3 (turn 3, shared): Dug A3: 13 away.
+7 pirate-4 (turn 4): P4 at H1. Plan: dig up column H: H2-H8, sharing all. North line to triangulate.
+8 pirate-4 (turn 4, shared): Dug H1: 12 away.
+9 pirate-1 (turn 5): P1 moving to F8 (my planned lattice point; also central to candidate region from readings). Will dig F8 and share. If cave, "CAVE at F8".
+10 pirate-2 (turn 6): P2 at C10, C10=5. J8=1 => cave within 5 of J8; H1=12 and A3=13 push it north. Heading to G10 to dig the top region. Will share.
+11 pirate-3 (turn 7): P3 at F3. Heading to F7 (a leading cave candidate) to dig+share. Candidates now: F7, G8/G9/G10, H9/H10, I8/I9/I10, J7/J9/J10, E8, H7?, etc. Will adapt.
+12 pirate-4 (turn 8): P4 heading I8, then dig I8 I9 I10 J10, share all. East-side open: E8 G8 F9 G9 H9 J9.
+13 pirate-1 (turn 21): P1 digging F8 now — central to the candidate cluster; sharing this read. If it reveals the cave, CAVE at F8.
+14 pirate-2 (turn 22): P2 at G10. Candidates from 4 readings: E8 F8 G8 I8 F7 F9 G9 H9 I9 J9 G10 H10 I10 J10. Digging G10 now, share.
+15 pirate-2 (turn 22, shared): Dug G10: 1 away.
+16 pirate-1 (turn 25, alert): CAVE found at F8 by my dig! Everyone: come to F8 and enter. I'm going in now.
+17 pirate-2 (turn 26): P2 at G10, heading to F8 to enter. Great work P1!
+18 pirate-3 (turn 27): P3 at F3, heading north to F8 to enter. Nice work P1!
+19 pirate-4 (turn 28): P4 at I5 heading to F8 to enter. On my way.
+20 pirate-2 (turn 35): P2 at F8, entering the cave. Nice work everyone!
+21 pirate-3 (turn 40): P3 at F8, entering the cave. Great work P1!
+22 pirate-4 (turn 42): P4 at F8, entering the cave. Great work everyone!

@@ -1,0 +1,32 @@
+1 pirate-1 (turn 1): P1 digs A4.
+2 pirate-1 (turn 1, shared): Dug A4: 2 away.
+3 pirate-2 (turn 2): P2: heading to F3 to dig (share), then F5 to dig (share).
+4 pirate-3 (turn 3): P3: digging J6, sharing. Plan: dig far-east readings, then move west to home in on target.
+5 pirate-3 (turn 3, shared): Dug J6: 9 away.
+6 pirate-4 (turn 4): P4: digging E10, sharing. Then I'll head south along column E to triangulate near the readings.
+7 pirate-4 (turn 4, shared): Dug E10: 5 away.
+8 pirate-1 (turn 5): P1: sweeping up A column. Will dig A5-A10, sharing each. Others share too; we'll narrow down.
+9 pirate-3 (turn 7): P3: heading to H6 to dig/share, then continue west along row 6 to triangulate with the A/E/J rings.
+10 pirate-4 (turn 8): P4: adjusting—heading to D7 to dig/share, filling the upper-middle gap between P1's A column and P3's row-6 line.
+11 pirate-1 (turn 9): P1 digs A5, sharing.
+12 pirate-1 (turn 9, shared): Dug A5: 1 away.
+13 pirate-2 (turn 10): P2: dug F3, sharing. Will pick next dig from all readings.
+14 pirate-2 (turn 10, shared): Dug F3: 14 away.
+15 pirate-1 (turn 13): P1: A5=1 away. With F3=14, likely candidates A8/A9/A10/B9. I'll take A column; someone take B9.
+16 pirate-2 (turn 14): P2: all readings narrow to A8/A9/A10/B9. Taking B9. P1 handles A8-A10; P4 near D7 take A9 if free; P3 backup near cluster.
+17 pirate-3 (turn 15): P3: heading to A8 as backup. Candidates are A8-A10/B9 from A5=1 & F3=14. Suggest P4 take B9 fast; alert the moment the cave is found.
+18 pirate-1 (turn 17): P1 digs A6, sharing.
+19 pirate-1 (turn 17, shared): Dug A6: 1 away.
+20 pirate-1 (turn 21): P1: A6=1 still fits A8/A9/A10/B9. Skipping A7 probe (low value) and heading to A8 first to check a candidate.
+21 pirate-4 (turn 24): P4: heading to A9 to check that candidate. P2 has B9, P1/P3 on A8. I'll dig A9, then A10 if needed. Alert the moment the cave is found.
+22 pirate-1 (turn 29): P1 digs A8, sharing.
+23 pirate-1 (turn 29, shared): Dug A8: 3 away.
+24 pirate-1 (turn 33): P1: A8 dug, 3 away. Still A9/A10/B9. Heading to A9 to dig; then A10 if needed. P2 on B9. Alert the moment the cave is found.
+25 pirate-1 (turn 37): P1 digs A9, sharing.
+26 pirate-2 (turn 38): P2: blocked at B5 by P3 on B6, so I'll go to A9 to enter if it's the cave. P3: you're closest to B9—go dig B9 now (B7,B8,B9). P1/P4 cover A10. Alert the moment it's found.
+27 pirate-1 (turn 41, alert): P1: THE CAVE IS AT A9! I am entering now. Everyone come to A9 and enter immediately!
+28 pirate-2 (turn 42): P2: P3 is on A6 blocking my fast route to A9; I'll follow as soon as it clears, may not make it in time to enter. Great work!
+29 pirate-3 (turn 43): P3: stepping onto A9, entering next turn. The cave is open for everyone.
+30 pirate-4 (turn 44): P4 entering A9! Great work, crew!
+31 pirate-2 (turn 45): P2: heading north to A9; looks like I'll arrive too late to enter, but coming as fast as I can. Great work crew!
+32 pirate-3 (turn 50): P3: entering A9! In the cave now.

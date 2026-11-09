@@ -1,0 +1,35 @@
+1 pirate-1 (turn 1): P1 at A4 digging. Plan: every dig shared; each pirate search own band; when cave found, alert with square and all enter.
+2 pirate-1 (turn 1, shared): Dug A4: 9 away.
+3 pirate-2 (turn 2): P2 at G1 digging, sharing reading. Suggest bands: P1 covers mid-left, I cover south-east, P3/P4 pick rows once we see starts.
+4 pirate-2 (turn 2, shared): Dug G1: 11 away.
+5 pirate-3 (turn 3): P3 at J7 digging, sharing reading. I'll cover NE sector rows 7-10.
+6 pirate-3 (turn 3, shared): Dug J7: 4 away.
+7 pirate-4 (turn 4): P4 at D10 digging, sharing reading.
+8 pirate-4 (turn 4, shared): Dug D10: 2 away.
+9 pirate-1 (turn 5): 22 candidates from 4 reads: D6 E6 C7 D7 E7 F7 C8 D8 E8 F8 G8 H8 D9 E9 F9 G9 H9 I9 E10 F10 G10 H10. I'll sweep column D upward digging new squares; all share digs.
+10 pirate-2 (turn 6): P2 heading to F7 to dig south-central candidates (F7/E7/F8/E8 zone). Will share reading.
+11 pirate-3 (turn 7): P3 heading to I9; plan to dig NE candidates I9 H9 H8 G8 G9 F9 E9, sharing all readings.
+12 pirate-4 (turn 8): P4 heading E10, will dig E10 F10 G10 H10, sharing. C7 C8 E6 still open for coverage.
+13 pirate-1 (turn 9): Dug B4, sharing. Continuing toward D6-D9; can extend to C7/C8/E6 after if open.
+14 pirate-1 (turn 9, shared): Dug B4: 4 away.
+15 pirate-4 (turn 12): B4=4 trims to 12: D6 E6 C7 D7 E7 F7 C8 D8 E8 F8 D9 E9. P4 heading to E9 now.
+16 pirate-1 (turn 13): Narrowed to 12. Rushing to D6, will dig D6 D7 D8 D9. E6 C7 C8 still open; P3 please cover D9/E8 if free.
+17 pirate-4 (turn 16): P4 digging E9, sharing reading.
+18 pirate-4 (turn 16, shared): Dug E9: 1 away.
+19 pirate-3 (turn 19): P3 heading F8; will dig F8 then E8/D9 if still undug. P4 please cover C8 C7 E6 west cluster.
+20 pirate-4 (turn 20): E9=1 keeps 11: D6 E6 C7 D7 E7 F7 C8 D8 E8 F8 D9. P3 covers F8/E8/D9; P4 covering C8 C7 E6 now.
+21 pirate-1 (turn 29): At D6, digging candidate. Will continue D7 D8 D9.
+22 pirate-4 (turn 32): P4 digging C8, sharing reading.
+23 pirate-4 (turn 32, shared): Dug C8: 7 away.
+24 pirate-1 (turn 33, alert): ALERT: CAVE FOUND AT D6 by P1! Entering now. All pirates come to D6 and enter; crew score needs every pirate in.
+25 pirate-2 (turn 34): P2 heading to D6, will enter on arrival.
+26 pirate-3 (turn 35): P3 heading to D6, will enter on arrival.
+27 pirate-4 (turn 36): P4 heading to D6, will enter on arrival.
+28 pirate-3 (turn 38): P3 going around via E7-E6 to D6, will enter on arrival.
+29 pirate-4 (turn 39): P4 blocked at D8 by P2; going around west via C8-C7-C6 then east to D6, will enter.
+30 pirate-3 (turn 41): P3 continuing via E6 then D6, will enter.
+31 pirate-2 (turn 43): P2 entering the cave at D6 now. See you inside, crew!
+32 pirate-3 (turn 44): P3 stepping west into D6, will enter next turn.
+33 pirate-3 (turn 46): P3 entering the cave at D6. See you inside, crew!
+34 pirate-4 (turn 47): P4 at C6, stepping east onto the cave at D6 now, will enter next turn.
+35 pirate-4 (turn 48): P4 entering the cave at D6. All four pirates in! Great hunt, crew.

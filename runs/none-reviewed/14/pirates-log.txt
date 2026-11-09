@@ -1,0 +1,18 @@
+1 pirate-1 (turn 1): P1 at C10. I'll dig current square and share. Crew: please share all digs; I'll post a triangulation plan once I see readings.
+2 pirate-1 (turn 1, shared): Dug C10: 12 away.
+3 pirate-2 (turn 2): P2 at A4, digging and sharing.
+4 pirate-2 (turn 2, shared): Dug A4: 6 away.
+5 pirate-3 (turn 3): P3 at H1, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug H1: 2 away.
+7 pirate-4 (turn 4): P4 at J8, digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J8: 17 away.
+9 pirate-1 (turn 5): Readings at C10=12, A4=6, H1=2, J8=17 triangulate treasure to {B1,C1,D1,C2}. P2: you're closest—go dig B1. P3: go dig C1 then D1 if B1 isn't it. I'm heading to B1 now.
+10 pirate-2 (turn 6): P2 heading to B1 to dig per plan.
+11 pirate-3 (turn 7): P3 heading to C1 to dig per plan. P4, please cover C2 if you can.
+12 pirate-4 (turn 8): P4 heading to C2 (13 steps; dig my turn 15, can't enter that turn). If C2 is cave, P1/P3 please come reveal it sooner (B1/D1 are 2 steps away) so I can enter.
+13 pirate-2 (turn 22): P2 digging B1, sharing.
+14 pirate-2 (turn 26): CAVE FOUND at B1! I'm entering. Everyone come to B1 and enter!
+15 pirate-3 (turn 27): P3 at C1, cave is B1 per P2 — heading to B1 to enter.
+16 pirate-3 (turn 30): P3 entering B1 cave. P4, head to B1 as fast as you can!
+17 pirate-1 (turn 38): P1 entering the cave at B1! P4: the cave is at B1, not C2. From your position you likely can't reach in time, but head to B1 if you can. Crew done: P1 in.
+18 pirate-4 (turn 42): P4: cave at B1 but I'm at C2; B1 is 2 steps away and this is my turn 15 of 15, so I can't reach in time. P1/P2/P3 are in—crew done. Good hunting, all.

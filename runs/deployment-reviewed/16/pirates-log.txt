@@ -1,0 +1,43 @@
+1 pirate-1 (turn 1): Let's all share every dig so we can triangulate the cave. I'm starting at G10.
+2 pirate-1 (turn 1, shared): Dug G10: 12 away.
+3 pirate-2 (turn 2): Agreed, sharing every dig. At A7.
+4 pirate-2 (turn 2, shared): Dug A7: 5 away.
+5 pirate-3 (turn 3): Pirate-3 at D1, digging and sharing. Let's keep digging, then triangulate as soon as we have enough points.
+6 pirate-3 (turn 3, shared): Dug D1: 2 away.
+7 pirate-4 (turn 4): Pirate-4 at J4, digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J4: 9 away.
+9 pirate-1 (turn 5): Cluster from the four reads narrows to A1-E6 area plus F3 (D1 already dug). I'll check F3. Pirates-2/4, cover B4,B5,A2,E3,E4,D5. Share digs; when found, alert the square.
+10 pirate-2 (turn 6): Candidates are A1-E6 + F3. I'll cover A1-A5, B5, C6. P3: B1-B4, C1-C4, D2, D3. P4: D4, D5, C5, E2-E4. P1: F3. Dig & share; alert the cave square.
+11 pirate-3 (turn 7): Tighter set from all 4 reads: A1-C1,A2-E2,A3-F3,A4-E4,B5-D5,C6. P2: A5 can't fit (7 from D1) but its read still helps. Going B1, then B2-B4,C1-C4,D2,D3.
+12 pirate-4 (turn 8): P4 heading to E4 (closest assigned). Will dig E4, share, and adapt to any new reads. Alert if cave found.
+13 pirate-2 (turn 14): Now at A5, digging (not a candidate; read may narrow). I'll cover A2-A4, B5, C6. Please pick up A1,B1,C1. Alert if cave found.
+14 pirate-2 (turn 14, shared): Dug A5: 6 away.
+15 pirate-3 (turn 15): P3 at B1, digging. I'll also cover A1, C1, then C2-C4, B2-B4, D2, D3. Alert if cave found.
+16 pirate-3 (turn 15, shared): Dug B1: 4 away.
+17 pirate-2 (turn 18): A5's 6 drops A4,B5. I'll dig C5,D5,D4,C4,B4,C6. P3 please also grab A2,A3. P1/P4 cover E2,E3,F3,E4. Alert if cave found.
+18 pirate-3 (turn 19): P3: B1 done (4 away). Now C1, then C2,C3,B3,A3,A2,A1,B2,D2,D3. Alert if cave found.
+19 pirate-3 (turn 23): P3 dug C1. Next C2.
+20 pirate-3 (turn 23, shared): Dug C1: 4 away.
+21 pirate-2 (turn 26): At C5, digging candidate. If cave, alerting; otherwise will share reading and adapt.
+22 pirate-2 (turn 26, shared): Dug C5: 1 away.
+23 pirate-3 (turn 27): P3: C5 1-away narrows to 18 (A1,B5 gone). I'll do C2,C3,D3,B3,A3,A2,B2,D2. Alert if cave found.
+24 pirate-4 (turn 28): P4 at E4 now, digging candidate. Sharing reading; will adapt.
+25 pirate-4 (turn 28, shared): Dug E4: 1 away.
+26 pirate-2 (turn 30): C5+E4 reads both <=5: A1 and A2 drop. 15 left: B2,C2,D2,E2,A3,B3,C3,D3,E3,F3,B4,C4,D4,D5,C6. P1: F3,E3,E2. P3: B2,C2,D2,A3,B3,C3,D3. P4: D4,C4,D5. Me: C6,B4. Alert cave!
+27 pirate-3 (turn 31): P3 dug C2. Next C3, D3, then B3, A3, B2, D2. Alert if cave found.
+28 pirate-3 (turn 31, shared): Dug C2: 3 away.
+29 pirate-4 (turn 32): P4 heading D4 (prime: 1 from E4 and C5). Will dig, share, then C4 and D5. Alert if cave found.
+30 pirate-2 (turn 34): At C6, digging candidate. Alert if cave found.
+31 pirate-2 (turn 34, shared): Dug C6: 9 away.
+32 pirate-3 (turn 35, alert): C6=9 kills most: only B2,D2,E2,A3,E3,F3 left. P1: E2,E3,F3. P3: B2,D2. P2/P4: A3 now. Alert the cave!
+33 pirate-4 (turn 36): P4 heading A3 (4 from D4, closest). Will dig and share; alert if cave.
+34 pirate-1 (turn 37): P1 at F3: not the cave. Digging F3 for the reading; after this I'll check E3 then E2. Alert whoever finds it.
+35 pirate-2 (turn 38): At C6 (9 away) confirms set B2,D2,E2,A3,E3,F3. I'll hold central at D3; once cave found, alert square and all enter fast.
+36 pirate-3 (turn 39): P3 dug B2. If not the cave, heading D2 next, then assist. P4 on A3, P1 on E3/E2. Alert the cave square when found!
+37 pirate-3 (turn 39, shared): Dug B2: 6 away.
+38 pirate-1 (turn 41, alert): Cave found at F3! I'm entering now — everyone come to F3 and enter.
+39 pirate-2 (turn 42, alert): Cave found at F3! Heading there now to enter: D6→F6→F5→F4→F3. All come to F3 and enter!
+40 pirate-3 (turn 43): P3 heading to F3 to enter now: B2→C2→D2→E2→F2→F3. On my way.
+41 pirate-4 (turn 44): P4 at B4, heading to F3: C4→D4→E4→F4→F3. That's 5 steps with only 5 turns left, so I may arrive on my last turn without a turn to enter; still coming as fast as I can. Alert if anything changes.
+42 pirate-4 (turn 53): P4 at E4, east blocked by P2 at F4. Heading E3 to close on F3, but I have only 1 turn left to move after this and no turn left to enter. Can't cash in — go P1/P2/P3!
+43 pirate-4 (turn 56): P4 at E3, final turn: east blocked by P2 at F3, no turn left to step in and enter. I can't cash in — crew, enter F3 and take the bounty for us!

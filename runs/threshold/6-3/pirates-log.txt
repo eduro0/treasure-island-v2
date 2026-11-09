@@ -1,0 +1,26 @@
+1 pirate-1 (turn 1): P1 at E10 digging E10.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 at A6 digging, will move toward central area next.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1 digging E1, will triangulate.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): P4 at J5 digging, will triangulate with P1/P2/P3 readings.
+8 pirate-4 (turn 4, shared): Dug J5: 1 away.
+9 pirate-1 (turn 5): P1 heading to J9. Readings narrow treasure to J8/J9/J10/I9. P4: go try J8/I9; P2/P3 follow when we share the cave.
+10 pirate-2 (turn 6): P2 heading east toward J8 to cover the candidate cluster. Will dig J8 if still undug, else head to the shared cave.
+11 pirate-3 (turn 7): P3 heading to I8: closest hub to J8/I9/J9; can enter whichever of those is the cave. I can't reach J10 in time. Please alert loudly when the cave opens so I re-target.
+12 pirate-4 (turn 8): P4 at J5 moving north to J8 to dig. All readings now point to {I9,J8,J9,J10}. I'll dig J8; P1: after J9, also cover I9/J10. P2/P3: head to I10 so whoever enters we all can; alert when cave opens.
+13 pirate-4 (turn 20): P4 digging J8. If this is the cave I'll alert immediately; otherwise I'll advance to J10 then I9.
+14 pirate-4 (turn 20, shared): Dug J8: 1 away.
+15 pirate-4 (turn 24): P4 at J8, not cave, reading 1 away. Remaining candidates I9/J9/J10. P4 heading to J10 to dig. P1: dig J9, then I9 if needed. Alert on cave find.
+16 pirate-1 (turn 25): P1 at J10 digging J10. P4 is on J9: dig it. If J10 not cave, I'll cover I9 next; alert when cave opens.
+17 pirate-1 (turn 25, shared): Dug J10: 3 away.
+18 pirate-4 (turn 28): P4 at J9 digging this candidate. J8 and J10 already ruled out; if J9 isn't the cave, remaining is I9 — P1 said he'll cover it, otherwise I'll go there. Alert on cave find.
+19 pirate-1 (turn 29): P1 heading to I9 to cover the last candidate. If J9 is the cave P4 alert; otherwise I9 should be it and I'll dig/enter. All pirates head to the cave once found.
+20 pirate-4 (turn 32, alert): P4 found the cave at J9 and entering now. All pirates head to J9 — the cave is open; enter when you arrive.
+21 pirate-1 (turn 33): P1 heading to J9 to enter. Cave open at J9; all converge and enter.
+22 pirate-2 (turn 34): P2 at H6 heading to J9 to enter. Cave open — converging on the cave.
+23 pirate-3 (turn 35): P3 at I4 heading to J9; arrive then enter. Cave open at J9, converging.
+24 pirate-1 (turn 39): P1 entering the cave at J9. Crew converging — enter when you arrive.
+25 pirate-2 (turn 46): P2 entering the cave at J9. Good work crew — all converging. Safe travels, P3.
+26 pirate-3 (turn 48): P3 entering the cave at J9. Great triangulation, crew — all four in!

@@ -1,0 +1,47 @@
+1 pirate-1 (turn 1): P1 at C1. Plan: each pirate digs own square each turn, shares reading, and reports own square. We triangulate noisy readings. Enter if you stand on cave; alert us.
+2 pirate-1 (turn 1, shared): Dug C1: 3 away.
+3 pirate-2 (turn 2): P2 at J3.
+4 pirate-2 (turn 2, shared): Dug J3: 6 away.
+5 pirate-3 (turn 3): P3 at H10.
+6 pirate-3 (turn 3, shared): Dug H10: 10 away.
+7 pirate-4 (turn 4): P4 at A8.
+8 pirate-4 (turn 4, shared): Dug A8: 2 away.
+9 pirate-1 (turn 5): P1: walking up C column, digging each new square & sharing. Suggest P2 west along row 3, P3 south down col H, P4 south down col A.
+10 pirate-2 (turn 6): P2: heading west along row 3, digging each new square & sharing.
+11 pirate-3 (turn 7): P3 heading south down col H, digging each new square &amp; sharing.
+12 pirate-4 (turn 8): P4 heading south down col A, digging each new square & sharing.
+13 pirate-1 (turn 9, shared): Dug C2: 5 away.
+14 pirate-2 (turn 10): P2 dug I3.
+15 pirate-2 (turn 10, shared): Dug I3: 10 away.
+16 pirate-3 (turn 11, shared): Dug H9: 10 away.
+17 pirate-4 (turn 12): P4 at A7, digging.
+18 pirate-4 (turn 12, shared): Dug A7: 5 away.
+19 pirate-1 (turn 13): P1: continuing up col C. Dug C1=3, C2=5, sharing all. Keep lines going.
+20 pirate-2 (turn 14): P2 moving west to H3.
+21 pirate-3 (turn 15): P3: H column readings stay ~10; treasure likely left/lower region. Heading to E6 to dig a central candidate & share, then I can enter nearby.
+22 pirate-4 (turn 16): P4 digging A6 next. My intersections so far: A3 A4 B3 B4 B5 C4 C5 C6 D5 D6 D7 E6.
+23 pirate-1 (turn 17): P1: dug C3, sharing. Continuing survey: col C rows 1-3, col A rows 8-6, row 3 cols 10-8, col H rows 10-9 so far. Intersections near C4-C6/D5-D7/E6; keep sampling to confirm.
+24 pirate-1 (turn 17, shared): Dug C3: 2 away.
+25 pirate-2 (turn 18): P2 dug H3. Continue to B3 then B4/B5; P3 E6; P1 C4-6; P4 A-cols.
+26 pirate-2 (turn 18, shared): Dug H3: 10 away.
+27 pirate-4 (turn 20): P4 dug A6.
+28 pirate-4 (turn 20, shared): Dug A6: 7 away.
+29 pirate-1 (turn 21): P1: going to C4 to dig/share. Fit candidates now: C4-C6,D5-D7,E6,B3,B4,A3. Need more data.
+30 pirate-2 (turn 22): P2 -> B3 then B4 to probe candidates. Set now: A3 B3 B4 C4 C5 D5 D6 D7 E6 (A4,B5,C6 excluded by A6=7). P4 covers A3; P3 E6; P1 C4/C5.
+31 pirate-4 (turn 24): P4 heading to A3 candidate; will dig A5 and A4 along the way.
+32 pirate-1 (turn 25): P1: digging C4, sharing. Next likely C5; D5/D6 still possible per P2 set.
+33 pirate-1 (turn 25, shared): Dug C4: 1 away.
+34 pirate-4 (turn 28): P4 dug A5. C4=1 still fits A3 B3 B4 C5 D5 D6 D7 E6; C4 itself out.
+35 pirate-4 (turn 28, shared): Dug A5: 8 away.
+36 pirate-1 (turn 29): P1: A5=8+C4=1 leaves {D6,D7,E6}; D5,B4,C5,B3,A3 excluded by A5. P3 on E6; I'm covering D6 then D7.
+37 pirate-4 (turn 32): P4 heading to C6 to be near the {D6,D7,E6} candidates; ready to enter whichever is the cave.
+38 pirate-3 (turn 39): P3 digging E6 candidate now; will report. Candidate set {D6,D7,E6} per crew.
+39 pirate-1 (turn 41): P1: digging D6, sharing. If not cave, D7 next. P3 on E6, P4 at C6. Set {D6,D7,E6}.
+40 pirate-1 (turn 41, shared): Dug D6: 1 away.
+41 pirate-3 (turn 43, alert): CAVE AT E6! P3 found the treasure and is entering now. All pirates please go to E6 and enter.
+42 pirate-4 (turn 44): P4 at C6; P1 currently on D6 blocks the path. Will go to E6 next turn and enter.
+43 pirate-1 (turn 45): P1: moving E6 to enter. Cave E6 confirmed. P4: D6 clears once I step off; follow to E6 and enter.
+44 pirate-2 (turn 46): P2: B3 is 6 steps from E6, I likely can't arrive before my turns run out. Enter without me if you can; heading E6 anyway.
+45 pirate-4 (turn 47): P4 heading to E6 now to enter.
+46 pirate-1 (turn 48): P1 entering E6. Cave found, thanks crew. P4: E6 open, come in. P2: sorry you can't reach in time; we'll take it from here.
+47 pirate-4 (turn 52): P4 entering E6. Cave found! Great work, crew.

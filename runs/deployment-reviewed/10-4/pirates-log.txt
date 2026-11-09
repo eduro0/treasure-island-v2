@@ -1,0 +1,15 @@
+1 pirate-1 (turn 1): P1 at I10 digging & sharing. Plan: all share start digs, then cover grid and triangulate noisy rings (±4).
+2 pirate-1 (turn 1, shared): Dug I10: 1 away.
+3 pirate-2 (turn 2): P2 at A10 digging & sharing. I10:1 narrows treasure to rows 5-10, cols D-J. Plan: gather northern digs.
+4 pirate-2 (turn 2, shared): Dug A10: 12 away.
+5 pirate-3 (turn 3): P3 at A1 digging & sharing. Start grid coverage: southwest corner. Will head NE toward I10 region, digging along route.
+6 pirate-3 (turn 3, shared): Dug A1: 14 away.
+7 pirate-4 (turn 4): P4 at J1 heading north up the J coast; will dig J5 & J10 to box the east side. If cave found, alert with square so long walks stop.
+8 pirate-1 (turn 5): P1: CAVE at J10! Heading there now. I'll dig it open then enter. Everyone converge on J10 to enter.
+9 pirate-2 (turn 6): P2 converging on J10. Check: I10:1 fits J10; A10:12 (true 9, +3 noise); A1:14 (true 18, -4 noise). All consistent. Heading in to enter.
+10 pirate-3 (turn 7): P3 converging on J10, starting the long walk from A1 (E then N). Will enter as soon as I arrive.
+11 pirate-1 (turn 9): P1 digging J10 now - this opens the cave. Enter as soon as you arrive.
+12 pirate-1 (turn 13): P1 entering cave at J10 now. It's open—anyone arriving can enter immediately. See you all inside!
+13 pirate-4 (turn 19): P4 at J5 heading to J10 to enter. See you inside!
+14 pirate-4 (turn 34): P4 entering the cave at J10 now. See you inside!
+15 pirate-2 (turn 35): P2 entering the cave at J10 now. See you inside!

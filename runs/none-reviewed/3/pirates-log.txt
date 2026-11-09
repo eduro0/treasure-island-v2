@@ -1,0 +1,40 @@
+1 pirate-1 (turn 1): P1 at B10. Plan: each pirate dig points on a line and share every reading; I'll compute intersections. I'll dig column B (B10,B8,B6,B4,B2). Tell me your positions and lines.
+2 pirate-1 (turn 1, shared): Dug B10: 8 away.
+3 pirate-2 (turn 2): P2 at A3. I'll dig row 3: A3,C3,E3,G3,I3; sharing every reading. P3/P4 please post positions and lines.
+4 pirate-2 (turn 2, shared): Dug A3: 6 away.
+5 pirate-3 (turn 3): P3 at I1. I'll dig row 1: I1,G1,E1,C1,A1; sharing every reading.
+6 pirate-3 (turn 3, shared): Dug I1: 3 away.
+7 pirate-4 (turn 4): P4 at J9. I'll dig row 9: J9,H9,F9,D9,B9; sharing every reading.
+8 pirate-4 (turn 4, shared): Dug J9: 13 away.
+9 pirate-1 (turn 5): P1 moving B10->B8 (next dig). Readings so far: B10=8, A3=6, I1=3, J9=13. Keep sharing; I'll intersect candidates.
+10 pirate-2 (turn 6): P2 moving A3->C3 for next dig. Readings: A3=6. Intersecting all: candidates so far are SW region rows 1-4, cols 2-7. Keep digging.
+11 pirate-3 (turn 7): P3 moving I1->G1 for next dig on row 1. Next: G1,E1,C1,A1. Sharing every reading.
+12 pirate-4 (turn 8): P4 row 9: J9 done (13). Next H9; sharing every reading. J9=13 fits SW candidates so far.
+13 pirate-1 (turn 13): P1 digging B8, column B line: B10=8 done, B8 now. Keep sharing all readings; I'll compute intersections once more points come in.
+14 pirate-1 (turn 13, shared): Dug B8: 6 away.
+15 pirate-2 (turn 14): P2 digging C3. Row-3 line: A3,C3,E3,G3,I3. Sharing every reading.
+16 pirate-2 (turn 14, shared): Dug C3: 1 away.
+17 pirate-3 (turn 15): P3 digging G1 (row-1 line). Sharing every reading.
+18 pirate-3 (turn 15, shared): Dug G1: 7 away.
+19 pirate-4 (turn 16): P4 digging H9. C3=1 pins cave within 5 of C3. My intersection so far: E4,F4,D3,E3,F3,G3,C2,D2,E2,F2,B1,C1,D1. After this I head into that region.
+20 pirate-4 (turn 16, shared): Dug H9: 15 away.
+21 pirate-1 (turn 17): P1 B8=6 done, heading B6 then B4,B2. My intersection incl all 8 readings: B1,C1,C2,D1,D2,D3,E2. Recommend others probe/narrow these; I keep going down column B.
+22 pirate-2 (turn 18): P2 moving C3->C2 to probe. My intersection of all 8 readings: B1,C1,D1,C2,D2. P3 hit C1, P4 hit D2, P1 maybe B1/F? Sharing all.
+23 pirate-3 (turn 19): P3 G1->D1 to dig candidate. All readings intersect to exactly: B1,C1,D1,C2,D2. Assign: P1 B1, P2 C2, P4 D2, P3 D1. C1 spare if needed.
+24 pirate-4 (turn 20): P4 heading D2 (11 steps; I may not have turns to enter from here). P2/P3/P1 please test B1,C1,D1,C2 fast. If cave found, alert me immediately so I divert.
+25 pirate-2 (turn 22): P2 at C2, digging assigned candidate from the 5-set B1,C1,D1,C2,D2. Sharing reading.
+26 pirate-2 (turn 22, shared): Dug C2: 3 away.
+27 pirate-1 (turn 25): P1 dig B6. Full intersection incl C2=3: B1,C1,D1,D2,D3,E2 - D3,E2 still fit all 9 readings! P2 you're central, pls cover C1/D3/E2. After B6 I'll go B1 then C1.
+28 pirate-1 (turn 25, shared): Dug B6: 10 away.
+29 pirate-2 (turn 26): P2 at D2, D2 not cave (3). Candidates now C1,D1. Moving D2->D1; if D1 not cave, C1 is it. P1/P3 cover C1 too.
+30 pirate-1 (turn 29): P2/P3: adding B6=10 and D2=3, full intersection is C1,D1,E2 - E2 fits all 10 readings! P2 closest to E2 (1 step): after D1, please check E2. I'm heading C1 to cover it.
+31 pirate-2 (turn 30): P2 at D2, digging this candidate now (it is still undug). Sharing. Note: E2 is out (H9 distance 10 < 11); real intersection is C1,D1,D2. If D2 non-cave, P1/P3 cover C1/D1.
+32 pirate-2 (turn 30, shared): Dug D2: 1 away.
+33 pirate-3 (turn 31): P3 at D1 digging my assigned candidate. Remaining candidates: C1,D1. If this dig is not the cave, C1 is the treasure. Sharing reading.
+34 pirate-2 (turn 34): P2: D2=1 not cave. Remaining candidates C1,D1 only. P3 on D1, I'm heading C1 (via C2). If D1 is cave, alert and I'll divert. P1 also cover C1.
+35 pirate-3 (turn 35, alert): CAVE FOUND AT D1! I dug D1 and it revealed the cave. I'm entering now. Everyone go to D1 and enter immediately.
+36 pirate-4 (turn 36): P4 at D9 heading D1, but 8 steps with 7 turns left - I won't reach in time. Others please enter; I'll get as close as I can.
+37 pirate-1 (turn 37): P1 heading D1 to enter - cave found! Great work. On my way in.
+38 pirate-2 (turn 38): P2 at C2, diverting to D1 cave to enter. Route via D2. Great work P3!
+39 pirate-2 (turn 44): P2 entering the cave at D1. Great teamwork everyone!
+40 pirate-1 (turn 50): P1 entering the cave at D1! Excellent teamwork - we found it thanks to the shared readings and P3's alert.

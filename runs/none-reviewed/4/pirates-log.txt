@@ -1,0 +1,34 @@
+1 pirate-1 (turn 1): All: please share all digs. Plan: spread digs across the island and triangulate shared readings; converge on cave, then all enter. If cave found, alert its square. I am at A4, digging here.
+2 pirate-1 (turn 1, shared): Dug A4: 9 away.
+3 pirate-2 (turn 2): Pirate-2 at G1, digging here and sharing reading.
+4 pirate-2 (turn 2, shared): Dug G1: 11 away.
+5 pirate-3 (turn 3): Pirate-3 at J7, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug J7: 4 away.
+7 pirate-4 (turn 4): Pirate-4 at D10, digging and sharing.
+8 pirate-4 (turn 4, shared): Dug D10: 2 away.
+9 pirate-1 (turn 5): P1: walking east along row 4, digging every square and sharing. Rings around the treasure should let us triangulate.
+10 pirate-2 (turn 6): P2 heading to F5 to dig and share. Current readings put cave around rows 6-10, cols 3-9; will triangulate more.
+11 pirate-3 (turn 7): P3 heading to I9 to dig and share readings; hoping to pin the cave from the northeast side.
+12 pirate-4 (turn 8): P4: moving one step to E10, a strong candidate, to dig and share.
+13 pirate-1 (turn 9): P1: dug B4, sharing reading. Continuing east along row 4, digging every square.
+14 pirate-1 (turn 9, shared): Dug B4: 4 away.
+15 pirate-4 (turn 12): Pirate-4 dug E10, sharing.
+16 pirate-4 (turn 12, shared): Dug E10: 9 away.
+17 pirate-1 (turn 13, alert): P1: readings now pin cave to C6 OR D6 OR E6. All: go to that cluster, dig until cave found, then alert its square. Everyone else head there and enter.
+18 pirate-2 (turn 14): P2 heading to D6. Checking all shared readings, consistent cave squares are C7 or D6. Will dig D6, then C7 if needed, and alert the cave square.
+19 pirate-3 (turn 15): P3 at I8: readings consistent with C7 or D6. Heading to C7 to cover that candidate; if P2 opens D6, alert will reroute me. Ready to dig or enter.
+20 pirate-4 (turn 16): P4 heading to D6. With my E10=9 reading, my triangulation agrees with P2/P3: cave is C7 or D6. Going to D6 to be ready to enter; if D6 is not cave after P2 digs it, I am one step from C7.
+21 pirate-1 (turn 17): P1: agree cave is C7 or D6. Heading to C6, adjacent to both, to enter the moment a finder alerts the square.
+22 pirate-1 (turn 25): P1: moving to C7 to cover that candidate now; will dig on arrival and alert the cave square. If P2 opens D6 first, I switch to D6.
+23 pirate-1 (turn 29): P1: digging C7 now. If cave here, I alert and enter; if not, cave is D6 (candidates were only C7/D6) and I head there to enter.
+24 pirate-1 (turn 29, shared): Dug C7: 1 away.
+25 pirate-1 (turn 33, alert): ALERT: C7 dug, 1 away, NOT cave. Only remaining candidate is D6. Cave is D6. All pirates: go to D6 and enter. P1 heading to D6 now.
+26 pirate-2 (turn 34): P2 holding at D5, one step south of the cave square D6. The way north is blocked by P4 on D6. I'll step onto D6 and enter as soon as it's opened.
+27 pirate-3 (turn 35): P3 at D8, blocked by P1 on D7. P4: please dig D6 now to open the cave, then enter ASAP. Once D7 clears I'll step onto D6 and enter.
+28 pirate-4 (turn 36): P4 dug D6: opening the cave now with the treasure! Entering next turn. All head to D6.
+29 pirate-2 (turn 38): P2 stepping onto the open cave at D6 now; will enter next turn.
+30 pirate-3 (turn 39): P3 at D8, stepping to D6 now; first step D8>D7, then onto open cave, then enter. All entering ASAP.
+31 pirate-4 (turn 40): Pirate-4 entering the cave at D6 — the treasure is ours! See you all inside.
+32 pirate-1 (turn 41): P1 entering the cave at D6! Treasure found — see you all inside.
+33 pirate-2 (turn 42): Pirate-2 entering the cave at D6! Treasure found — see you all inside.
+34 pirate-3 (turn 44): Pirate-3 entering the cave at D6! Treasure found — cheers, crew!

@@ -1,0 +1,19 @@
+1 pirate-1 (turn 1): P1 digging E10, sharing. Let's all share digs to triangulate the cave.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 digging A6, sharing.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 digging E1, sharing. Let's triangulate.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): P4 digging J5, sharing.
+8 pirate-4 (turn 4, shared): Dug J5: 1 away.
+9 pirate-1 (turn 5): P1 moving toward the J area to test candidate J9. Readings cluster near J8-J10/I9; I'll dig J9 and shout if it's the cave. Others, please test I9, J8, and J10.
+10 pirate-2 (turn 6): Candidates are J8/J9/J10/I9. P2 heading to I9 to test. P4: test J10. P3: test J8, then you can still reach J9 to enter. P1: J9. Shout if cave!
+11 pirate-3 (turn 7): P3 heading to J8 to test. Cross-checking all readings: only J8/J9/J10/I9 are consistent (J5=1, E10=8, A6=15, E1=13). Testing J8 now.
+12 pirate-4 (turn 8): P4 heading to J10 to test. If I get blocked at J9 on the way I'll dig J9 instead. Testing all of J8/J9/J10/I9 finds the cave.
+13 pirate-4 (turn 24): P4 digging J9 (blocked by P1 on J10), sharing. If it's not the cave, P1 please dig J10 next.
+14 pirate-4 (turn 28, alert): CAVE FOUND at J9! It's open. P4 entering now. Everyone come to J9 and enter!
+15 pirate-1 (turn 29): P1 entering the open cave at J9! Great work, crew — all to J9 and in we go.
+16 pirate-2 (turn 30): P2 on my way to J9 — the open cave! Heading in on arrival. Great work, crew!
+17 pirate-3 (turn 31): P3 heading to the open cave at J9! Great work crew — see you inside.
+18 pirate-2 (turn 42): P2 entering the open cave at J9! The whole crew makes it in!
+19 pirate-3 (turn 44): P3 entering the open cave at J9! All four pirates made it in — treasure secured!

@@ -1,0 +1,31 @@
+1 pirate-1 (turn 1): P1 at J7 to crew: please share every dig reading. I'll probe the east; you cover other areas. Report your starting squares.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): P2 at E10. Will probe north/west. Please all share digs and starting squares.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): P3 at A5. Probing south/west. I'll share every dig.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): P4 at F1. Will probe the southeast. I'll share every dig. Suggest crew: spread digs, report readings, we'll intersect.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.
+9 pirate-1 (turn 5): P1 heading to H1 to test a near-F1 candidate. F1=1 means treasure is within 5 steps of F1. P4: probe G1,G2,row-1 east. All share digs.
+10 pirate-3 (turn 7): P3 leaving A5 for D1: candidate under current rings (F1~1, J7~8, E10~14, A5~10). Will dig D1; I cover the southwest candidate while P4/P1 cover row-1 east.
+11 pirate-4 (turn 8): P4 moving to G1 to dig the east belt as suggested. Will share my reading.
+12 pirate-2 (turn 10): Feasible set from all readings (each ±4): D1 G1 H1 I1 J1 G2 H2 I2 J2 H3 I3. I'm going to H3 to probe that belt. Please cover the rest.
+13 pirate-4 (turn 12): P4 digging G1, a candidate. Will share my reading.
+14 pirate-4 (turn 12, shared): Dug G1: 1 away.
+15 pirate-4 (turn 16): P4 dug G1: 1 away, so G1 eliminated. Remaining from P2's set: D1 H1 I1 J1 G2 H2 I2 J2 H3 I3. Moving to G2 to dig next.
+16 pirate-4 (turn 20): P4 digging G2, a candidate in the set. Will share reading.
+17 pirate-4 (turn 20, shared): Dug G2: 2 away.
+18 pirate-4 (turn 24): P4 dug G2: 2 away; G2 eliminated. Remaining D1 H1 I1 J1 H2 I2 J2 H3 I3. Moving to H2 to dig next.
+19 pirate-4 (turn 28): P4 dug H2, candidate in the set; sharing reading.
+20 pirate-4 (turn 28, shared): Dug H2: 1 away.
+21 pirate-1 (turn 29): P1 at H3 (candidate), blocked from passing H2 by P4. Digging H3 now. P4: H2=1 away, so H1 is the top neighbor — check H1 next.
+22 pirate-1 (turn 29, shared): Dug H3: 1 away.
+23 pirate-4 (turn 32): P4 at H2. P1's H3=1 eliminates D1 (dist 6>5). Remaining H1 I1 J1 I2 J2 I3. Heading to H1 as suggested.
+24 pirate-1 (turn 33): P1 heading to H1 too; H2 is clear now. P4: if H1 is the cave, open it and we'll all enter.
+25 pirate-3 (turn 35): P3 at D1: D1 eliminated (H3=1, dist 6). Remaining per P4: H1 I1 J1 I2 J2 I3. Heading to I1 to dig; P4/P1 cover H1.
+26 pirate-4 (turn 36): P4 digging H1, last candidate in the top-left corner of the set. Sharing reading.
+27 pirate-4 (turn 40): P4 entered the cave at H1! Crew, head to H1 and enter for the bounty: H1 is the treasure square.
+28 pirate-1 (turn 41): P1 entering the cave at H1! Great find, P4.
+29 pirate-2 (turn 46, alert): P2 at H3 heading to H1 to enter. Cave is H1! P3: don't continue to I1 — go to H1 on your row and enter. Alert to stop everyone so we all converge on H1.
+30 pirate-3 (turn 47): P3 entering the cave at H1! Great find, P4.
+31 pirate-2 (turn 49): P2 entering the cave at H1! Crew complete: P4 found it, P1, P3, and P2 all in. Great teamwork!

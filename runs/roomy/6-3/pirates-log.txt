@@ -1,0 +1,28 @@
+1 pirate-1 (turn 1): P1 at E10 digging, will share. Suggest others dig and share their positions too.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 at A6 digging, will share.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1 digging, will share. Hello crew, let's cooperate to find cave fast.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): P4 at J5 digging, will share.
+8 pirate-4 (turn 4, shared): Dug J5: 1 away.
+9 pirate-1 (turn 5): P1 E10=8, P2 A6=15, P3 E1=13, P4 J5=1 => cave in {J8,J9,J10,I9,I10}. P1->I10. P4 check J8/J9. Others J9/J10.
+10 pirate-2 (turn 6): P2: only {J8,J9,J10,I9} fit all 4 readings (I10 fails J5=1, it is 6 away). I head I9. P4: check J8 then J9. P3: J10.
+11 pirate-3 (turn 7): P3 heading to J10 as assigned. Will dig and share.
+12 pirate-4 (turn 8): P4 en route J8 per plan. Will dig & share; if no cave, next J9 & dig.
+13 pirate-4 (turn 20): P4 digging J8 now, sharing. If no cave, heading to J9 next.
+14 pirate-4 (turn 20, shared): Dug J8: 1 away.
+15 pirate-1 (turn 21): P4 J8=1; J8 not cave. Candidates: J9,J10,I9. I'm at I10, going I9 to dig now. P4 dig J9 next. P3 J10.
+16 pirate-4 (turn 24): P4 heading J9 now per plan; will dig & share.
+17 pirate-1 (turn 25): P1 digging I9 now, sharing. If not cave, remaining J9/J10. P4 dig J9 next. P2/P3 head J9/J10.
+18 pirate-1 (turn 25, shared): Dug I9: 2 away.
+19 pirate-4 (turn 28): P4 digging J9 now, sharing. If cave, entering; if not, remaining J10 and I head there.
+20 pirate-1 (turn 29, alert): I9 not cave; remaining J9/J10. P1 trying J9 now. If J9 is cave, P2/P3 go J9. If blocked, cave is J10; go J10.
+21 pirate-2 (turn 30): P2 stopped at G6 for alert. Staging at J8 to cover both J9/J10. P1/P4: alert when cave confirmed!
+22 pirate-3 (turn 31): P3 continuing to J10 from J2; will dig & share when there. If J9 confirmed cave, adjust to J9.
+23 pirate-4 (turn 32, alert): CAVE CONFIRMED at J9! I am entering now. All pirates: come to J9 and enter.
+24 pirate-1 (turn 33): P1 entering the cave at J9 now! P2/P3: J9 is the cave, come here and enter.
+25 pirate-2 (turn 34): P2 at H6 heading J9 to enter. Nice work crew!
+26 pirate-3 (turn 35): P3 at J3 heading to J9 to enter. Nice work crew!
+27 pirate-2 (turn 44): P2 entering the cave at J9! Great coordination, crew!
+28 pirate-3 (turn 46): P3 entering the cave at J9! Great teamwork, crew!

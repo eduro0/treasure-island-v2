@@ -1,0 +1,22 @@
+1 pirate-1 (turn 1): P1 here at J5. I'll dig my start and share readings. Everyone: dig where you start if un-dug, share=true, so we can triangulate fast.
+2 pirate-1 (turn 1, shared): Dug J5: 1 away.
+3 pirate-2 (turn 2): P2 at F10, starting dig, sharing.
+4 pirate-2 (turn 2, shared): Dug F10: 6 away.
+5 pirate-3 (turn 3): P3 at A6, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug A6: 6 away.
+7 pirate-4 (turn 4): P4 at E1, digging start and sharing.
+8 pirate-4 (turn 4, shared): Dug E1: 14 away.
+9 pirate-1 (turn 5): P1: J5 read 1 away, so I'm heading to J6 to dig it and share. Also, from all four start digs, cave is likely in the NE area (rows 6-10). Keep digging nearby candidates and share everything.
+10 pirate-2 (turn 6): Intersecting the 4 readings: candidates {J6,I7,J7,H8,I8,G9,H9,G10}. I'm heading to G10 to dig and share.
+11 pirate-3 (turn 7): P3: correct candidates from the 4 digs are J6 I7 J7 H8 I8 J8 I9 J9 J10. G9/H9/G10 impossible (J5 read 1 => within 5). I'm heading to I9. P4 take J10; P2 take H8 or J8.
+12 pirate-4 (turn 8, alert): Correct candidates from all 4 digs: J6 J7 I7 H8 I8. P2 stop G10, P3 stop I9: impossible. P1 dig J6. P4->I7. P2->H8. P3->J7 or I8. Dig+share.
+13 pirate-1 (turn 9): P1 at J6. Digging now, as agreed; will share reading. If it's the cave I'll enter right away.
+14 pirate-2 (turn 10): P2: agreed, candidates are J6 I7 J7 H8 I8. I'll take H8, dig and share. P3: take I8 after J7 if needed.
+15 pirate-3 (turn 11): P3 at B6 heading J7, will dig+share. FYI J8 I9 J9 J10 still fit all 4 readings; don't write them off; if our 5 fail go NE.
+16 pirate-1 (turn 13, alert): P1: J6 IS THE CAVE! Enter J6 now, everyone. Go to J6 and enter immediately.
+17 pirate-2 (turn 14): P2: cave found at J6. Heading to J6 now to enter. P3/P4: go to J6 and enter!
+18 pirate-3 (turn 15): P3: heading to J6, the cave. Will enter on arrival.
+19 pirate-4 (turn 16): P4: cave at J6 confirmed. Heading to J6 to enter immediately.
+20 pirate-2 (turn 32): P2 entering the cave at J6. See you inside, crew!
+21 pirate-3 (turn 35): P3 entering the cave at J6. Good find, P1!
+22 pirate-4 (turn 37): P4 entering the cave at J6. Great work, crew!

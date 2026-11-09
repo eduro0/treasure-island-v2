@@ -1,0 +1,32 @@
+1 pirate-1 (turn 1): P1 at J8. Digging start, sharing. Everyone: dig your square and share, then we triangulate.
+2 pirate-1 (turn 1, shared): Dug J8: 1 away.
+3 pirate-2 (turn 2): P2 at C10. Digging and sharing.
+4 pirate-2 (turn 2, shared): Dug C10: 5 away.
+5 pirate-3 (turn 3): P3 at A3. Digging and sharing.
+6 pirate-3 (turn 3, shared): Dug A3: 13 away.
+7 pirate-4 (turn 4): P4 at H1. Digging and sharing.
+8 pirate-4 (turn 4, shared): Dug H1: 12 away.
+9 pirate-1 (turn 5): Candidates from 4 digs: J9 J10 I8 I9 I10 H9 H10 G8 G9 G10 F8 F9 F7 E8. P1 digging near J8. P2 pls dig F8/F9/F7/E8 area.
+10 pirate-2 (turn 6): P2 heading to F9, will dig F9, F8, F7, E8.
+11 pirate-3 (turn 7): P3 heading to G8, will dig it. Suggest P1: J9/I8/J10/I9/I10/H9; P2: F9/F8/F7/E8; P4: G10/G9/H10/H9. Alert when cave found.
+12 pirate-4 (turn 8): P4 heading to G9, then G10, H10. Alert on cave find.
+13 pirate-1 (turn 9): P1 at J9, digging and sharing. Great coverage: P2 on F9/F8/F7/E8, P3 G8, P4 G9/G10/H10. Will sweep J10/I9/I10/H9 after.
+14 pirate-1 (turn 9, shared): Dug J9: 4 away.
+15 pirate-1 (turn 13): P1 covers J10, I10, I9, H9, I8. Full coverage: P2 F9/F8/F7/E8, P3 G8, P4 G9/G10/H10. Alert on cave!
+16 pirate-1 (turn 17): P1 digs J10, sharing.
+17 pirate-1 (turn 17, shared): Dug J10: 2 away.
+18 pirate-1 (turn 21): J10:2 => true dist 1-6, eliminates F7/E8 (dist 7). P1 heading I10, then I9, H9, I8. P2 can skip F7/E8.
+19 pirate-2 (turn 22): P2 at F9, digging and sharing.
+20 pirate-2 (turn 22, shared): Dug F9: 1 away.
+21 pirate-1 (turn 25): P1 digs I10, sharing. F9:1 keeps all remaining candidates.
+22 pirate-1 (turn 25, shared): Dug I10: 6 away.
+23 pirate-2 (turn 26): P2 heading to F8, will dig it. Remaining candidates consistent: I8, H9, G8, G9, G10, F8.
+24 pirate-1 (turn 29): I10:6 means true dist 2-10, eliminates I9 and H10. Candidates left: I8, H9, G8, G9, G10, F8. P1 heading H9 then I8. Alert on cave!
+25 pirate-2 (turn 30): P2 at F8, digging and sharing.
+26 pirate-2 (turn 34, alert): CAVE FOUND at F8! Everyone come to F8 and enter.
+27 pirate-3 (turn 35): P3 at G4, heading to F8. Will enter once arrived.
+28 pirate-4 (turn 36): P4 at G7, heading to F8 to enter. On my way.
+29 pirate-1 (turn 37): P1 heading to F8 to enter. Cave found!
+30 pirate-4 (turn 42): P4 entering the cave at F8. Treasure secured, crew! See you all inside.
+31 pirate-1 (turn 45): P1 entering the cave at F8. Great work crew!
+32 pirate-3 (turn 47): P3 entering the cave at F8. All hands below deck — full bounty secured!

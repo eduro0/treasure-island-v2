@@ -1,0 +1,48 @@
+1 pirate-1 (turn 1): Plan: all pirates share every dig. I'll dig along west side, then move inland. Others: cover your starting area, share readings, we triangulate.
+2 pirate-1 (turn 1, shared): Dug A4: 2 away.
+3 pirate-2 (turn 2): Pirate-2 here. Digging F1, will share. Let's all share every dig.
+4 pirate-2 (turn 2, shared): Dug F1: 12 away.
+5 pirate-3 (turn 3): Pirate-3 here, digging J6 and sharing.
+6 pirate-3 (turn 3, shared): Dug J6: 9 away.
+7 pirate-4 (turn 4): Pirate-4 here, digging E10 and sharing.
+8 pirate-4 (turn 4, shared): Dug E10: 5 away.
+9 pirate-1 (turn 5): Readings (A4:2, F1:12, J6:9, E10:5) narrow treasure to west side, rows 5-10. I'm walking up column A, will dig and share.
+10 pirate-2 (turn 6): Pirate-2 heading E1 to dig and share. Candidates: A5-A10, B5-B10, C6-C8, D7. I'll work the south/center of that region.
+11 pirate-3 (turn 7): Pirate-3 heading to C7, will dig C7,C8,B7,B8,B9. Others: P1 col A, P4 top, P2 D7/C6/B5/B6.
+12 pirate-4 (turn 8): P4 at E10. I'll take B9,B8,B7,B6,B5,C8,C7,C6,D7. P1: A5-A8 fast then further. P2/P3: head into region, dig whatever you pass.
+13 pirate-1 (turn 9): P1 at A5, digging now and sharing.
+14 pirate-1 (turn 9, shared): Dug A5: 1 away.
+15 pirate-2 (turn 10): Pirate-2 digging E1, sharing. Reading should help triangulate south edge.
+16 pirate-2 (turn 10, shared): Dug E1: 12 away.
+17 pirate-1 (turn 13): A5 reading is 1 away, treasure close. Heading up column A: A6 next, will dig and share.
+18 pirate-1 (turn 17): P1 at A6, digging and sharing.
+19 pirate-1 (turn 17, shared): Dug A6: 1 away.
+20 pirate-2 (turn 18): P2 heading C5 to be central. E1:12 ruled out B5,C6,D7; 11 candidates remain. From C5 I can reach A6,B6,B7,C7,C8. P1/P4/P3 cover north.
+21 pirate-1 (turn 21): A6 also 1 away. 9 candidates: A7,B7,C7,A8,B8,C8,A9,B9,A10. Continuing up column A, digging A7 next.
+22 pirate-4 (turn 24): P4 at B9, digging now and sharing.
+23 pirate-4 (turn 24, shared): Dug B9: 2 away.
+24 pirate-1 (turn 25): B9 dug: 2 away, so B9 out. 8 candidates left: A7,B7,C7,A8,B8,C8,A9,A10. P1 at A7, digging now.
+25 pirate-1 (turn 25, shared): Dug A7: 4 away.
+26 pirate-4 (turn 28): P4 at B9 done (2 away). Heading B8 now, then B7, C7, C8. P1: A8,A9,A10. Remaining: B7,C7,A8,B8,C8,A9,A10.
+27 pirate-1 (turn 29): A7 dug: 4 away. 7 candidates left: B7,C7,A8,B8,C8,A9,A10. P1 heading A8 then A9 then A10, digging and sharing all.
+28 pirate-4 (turn 32): P4 at B8, digging now and sharing.
+29 pirate-4 (turn 32, shared): Dug B8: 1 away.
+30 pirate-1 (turn 33): B8:1 doesn't cut B6. Candidates now 7: A8,A9,A10,B6,B7,C7,C8. P1 digging A8 now; someone cover B6. All share.
+31 pirate-1 (turn 33, shared): Dug A8: 3 away.
+32 pirate-4 (turn 36): P4 at B8 dug (1 away, not cave). Heading B7 now: dig B7, then C7, then C8, then B6 if still left. P1: A9,A10. P3: dig C7 when you arrive.
+33 pirate-1 (turn 37): A8 dug: 3 away, not cave. 6 left: A9,A10,B6,B7,C7,C8. P1 heading A9 then A10. P4/P2/P3 cover B7,C7,C8,B6. All share.
+34 pirate-3 (turn 39): Pirate-3 digging C7 now and sharing.
+35 pirate-3 (turn 39, shared): Dug C7: 1 away.
+36 pirate-4 (turn 40): P4 digging B7 now. C7 dug (1 away) so 5 left: A9,A10,B6,B7,C8. P1: A9,A10. P3: you're at C7 - dig C8 next. P2: head to B6 if you can. I'll take B6 after if still open.
+37 pirate-4 (turn 40, shared): Dug B7: 5 away.
+38 pirate-1 (turn 41): C7(1) & B7(5) both dug out. 4 candidates left: A9,A10,B6,C8. P1 digging A9 now. P3: C8, P2/P4: B6. All share.
+39 pirate-2 (turn 42): P2 at C5, moving to C6: covers both B6 (1 step) and C8 (2 steps). I'll dig whichever is still open.
+40 pirate-3 (turn 43): Pirate-3 heading to C8, will dig and share. P2 take B6, P1 take A9/A10.
+41 pirate-4 (turn 44): P4 at B7 dug: 5 away. Moving to B8 (central): can reach C8(1), B6(2), A9(2), A10(3) in time. P2/B6, P3/C8, P1/A9,A10. If you find it, ALERT so we all head there fast.
+42 pirate-1 (turn 45, alert): CAVE AT A9! P1 entering now. All pirates come to A9 and enter: no need to dig more. Alerts follow.
+43 pirate-2 (turn 46): P2 at C6, A9 is 5 steps away but I only have 4 turns left — I can't make it to enter. Heading toward anyway. Great find P1! P3/P4 can enter.
+44 pirate-3 (turn 47): Pirate-3 heading north around P4: C9 then B9 to A9, enter next turns.
+45 pirate-4 (turn 48): P4 at B8, heading to A9 (2 steps) to enter. Cave found! P3 heading around is on track. P2's distance is tough but please keep moving.
+46 pirate-3 (turn 50): Pirate-3 heading to A9: B9 next, then enter.
+47 pirate-4 (turn 54): P4 at A9, entering now. Great coords everyone — cave found fast!
+48 pirate-3 (turn 56): Pirate-3 entering the cave at A9. Treasure found!

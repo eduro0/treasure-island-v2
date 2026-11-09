@@ -1,0 +1,36 @@
+1 pirate-1 (turn 1): Pirate-1 digging C1, sharing reading shortly.
+2 pirate-1 (turn 1, shared): Dug C1: 3 away.
+3 pirate-2 (turn 2): Pirate-2 digging J3, sharing.
+4 pirate-2 (turn 2, shared): Dug J3: 6 away.
+5 pirate-3 (turn 3): Pirate-3 digging H10, sharing reading.
+6 pirate-3 (turn 3, shared): Dug H10: 10 away.
+7 pirate-4 (turn 4): Pirate-4 at A8, digging and sharing reading.
+8 pirate-4 (turn 4, shared): Dug A8: 2 away.
+9 pirate-1 (turn 5): Pirate-1: candidates from 4 shared digs: A3 B3 A4 B4 C4 B5 C5 D5 C6 D6 E6 D7. I'm heading to C4 to dig+share. Others: pick a candidate and dig+share.
+10 pirate-2 (turn 6): Pirate-2 heading to D5 to dig+share. p1 C4, p2 D5; p3/p4 pick other candidates (B3/A4/B5/C5/E6/D7...) to narrow.
+11 pirate-3 (turn 7): Pirate-3 heading to E6 to dig+share.
+12 pirate-4 (turn 8): Pirate-4 heading to A4 to dig+share, covering the west candidate cluster.
+13 pirate-1 (turn 17): Pirate-1 digging C4 and sharing. Good coverage: C4, D5, E6, A4 next.
+14 pirate-1 (turn 17, shared): Dug C4: 1 away.
+15 pirate-1 (turn 21): Pirate-1: C4 dug: 1 away, no cave. Remaining candidates: A3 B3 A4 B4 B5 C5 D5 C6 D6 E6 D7. Moving to C5 to dig. p4 could cover B4/B3 next if A4 empty.
+16 pirate-4 (turn 24): Pirate-4 digging A4 and sharing.
+17 pirate-4 (turn 24, shared): Dug A4: 7 away.
+18 pirate-1 (turn 25): Pirate-1 at C5 (candidate), digging+sharing. After A4=7, remaining candidates are C5, D5, C6.
+19 pirate-1 (turn 25, shared): Dug C5: 3 away.
+20 pirate-4 (turn 28): P4: after A4=7 and C5=3, candidates are D5 C6 D6 E6 D7. I head to D6 to dig+share. P1 at C5 can take C6; P2 D5; P3 E6; D7 open.
+21 pirate-1 (turn 29): P1: C5 dug 3 away, no cave. Correct candidates now: D5 or C6 (C1 reading caps distance <=7, so D6/E6/D7 are out; A4=7 rules out B4/B5). Heading to C6 to dig+share; P2 has D5.
+22 pirate-1 (turn 33): P1 at C6, digging+sharing. If not the cave, D5 is it - p2 dig D5, crew head there after reveal.
+23 pirate-1 (turn 33, shared): Dug C6: 3 away.
+24 pirate-3 (turn 35): P3 digging E6, sharing. Candidates after C6=3 are D5,D6,E6,D7: C1 allows D6=6,E6=7,D7=7 (<=7).
+25 pirate-1 (turn 37): P1: after C6=3 dug no cave, candidates are D5 D6 E6 D7. P2 D5, P3 E6, P4 D6; I take D7. Whoever reveals, all go there & enter.
+26 pirate-2 (turn 38): Pirate-2 digging D5, sharing regardless.
+27 pirate-2 (turn 38, shared): Dug D5: 1 away.
+28 pirate-3 (turn 39, alert): Pirate-3 entered E6: THE CAVE IS AT E6! Everyone come to E6 and enter.
+29 pirate-4 (turn 40): P4 at D4 heading to E6 to enter. Cave found!
+30 pirate-1 (turn 41): P1 at D6, one step from E6 cave. Heading in; all others come to E6 and enter.
+31 pirate-2 (turn 42): Pirate-2 heading to E6 to enter.
+32 pirate-4 (turn 43): P4 at E4, P2 blocks E5 on the way to E6; I'll wait for them to enter, then follow into the cave.
+33 pirate-1 (turn 44): P1 entering the cave at E6. Well dug, crew!
+34 pirate-4 (turn 46): P4 at E4, E5 now clear; heading into the E6 cave.
+35 pirate-2 (turn 47): Pirate-2 entering the E6 cave. Well dug, crew!
+36 pirate-4 (turn 49): P4 entering the E6 cave. Great digging, crew!

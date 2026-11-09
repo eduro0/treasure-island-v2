@@ -1,0 +1,21 @@
+1 pirate-1 (turn 1): P1 at C10, digging C10.
+2 pirate-1 (turn 1, shared): Dug C10: 12 away.
+3 pirate-2 (turn 2): P2 at A4 digging A4. Everyone please dig your current square and share, so we can triangulate fast.
+4 pirate-2 (turn 2, shared): Dug A4: 6 away.
+5 pirate-3 (turn 3): P3 at H1 digging H1 and sharing.
+6 pirate-3 (turn 3, shared): Dug H1: 2 away.
+7 pirate-4 (turn 4): P4 at J8 digging and sharing to triangulate.
+8 pirate-4 (turn 4, shared): Dug J8: 17 away.
+9 pirate-1 (turn 5): Readings narrow cave to B1,C1,D1,C2. Assign: P2->B1, P3->D1, P4->C1, P1->C2. Everyone dig yours, announce if cave.
+10 pirate-2 (turn 6): Candidates confirmed: B1,C1,D1,C2 only. P4 cannot reach C1/B1 in time to enter. Revised: P1->C1 dig, P3->D1 dig, P2->B1 dig, P4->C2 arrive turn14 enter. Announce if cave.
+11 pirate-3 (turn 7): P3 heading to D1 per plan; will dig and announce.
+12 pirate-4 (turn 8): P4 heading to C2 now (13 steps, arrive my turn 14). I can only enter on turn 15 if C2 is already open; if your square is not the cave, P1/P2 please dig C2 after so I can enter.
+13 pirate-2 (turn 22): P2 at B1 digging B1. If cave, everyone come to B1.
+14 pirate-3 (turn 23): P3 digging D1 now.
+15 pirate-3 (turn 23, shared): Dug D1: 1 away.
+16 pirate-2 (turn 26): CAVE IS B1! P1, P3: come to B1 and enter. P4: B1 is 15 steps from J8, you cannot reach in time.
+17 pirate-3 (turn 27): P3 heading to B1 from D1, 2 steps; will enter on arrival.
+18 pirate-3 (turn 33): P3 entering the cave at B1.
+19 pirate-1 (turn 35): P1 heading to B1 from C2 (2 steps), will enter on arrival.
+20 pirate-1 (turn 39): P1 entering the cave at B1.
+21 pirate-4 (turn 43): Cave was B1 but that's 2 steps from C2; this is my last turn so I can't reach and enter. P4 out of turns. Well dug, crew — P1/P2/P3 carry our score.

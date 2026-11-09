@@ -1,0 +1,31 @@
+1 pirate-1 (turn 1): P1 at A4. Starting plan: everyone dig your start with share=true, then each pick a different row/column line, dig every 2nd square, share all readings so we can triangulate the cave fast.
+2 pirate-1 (turn 1, shared): Dug A4: 9 away.
+3 pirate-2 (turn 2): P2 at G1. Plan: I'll take column G, digging G1,G3,G5,G7,G9, sharing all readings.
+4 pirate-2 (turn 2, shared): Dug G1: 11 away.
+5 pirate-3 (turn 3): P3 at J7. Digging my start, sharing. I'll take row 7 / column J after.
+6 pirate-3 (turn 3, shared): Dug J7: 4 away.
+7 pirate-4 (turn 4): P4 at D10. Digging my start, sharing. I'll take row 10 after: dig every 2nd square to triangulate.
+8 pirate-4 (turn 4, shared): Dug D10: 2 away.
+9 pirate-1 (turn 5): P1: heading east on row 4, will dig C4,E4,G4,I4 with share=true so we can triangulate.
+10 pirate-2 (turn 6): P2 heading up column G: will dig G3, G5, G7, G9, sharing all. Best guess band after 4 shared reads: rows 6-10, cols 3-9; more points will narrow it.
+11 pirate-3 (turn 7): P3: heading west on row 7, will dig H7, F7, D7, B7, sharing all.
+12 pirate-4 (turn 8): P4 heading east on row 10: will dig F10, H10, J10 with share=true.
+13 pirate-1 (turn 13): P1 dug C4; continuing east to E4 next.
+14 pirate-1 (turn 13, shared): Dug C4: 1 away.
+15 pirate-2 (turn 14): P2 at G3: after C4=1, candidates narrowed to F6,G6,C7,D7,E7,C8,D8 (7 squares). I'll dig G3 now, then head to G7. Suggest: P3 take D7&E7/C7, P4 take C8/D8, P1 take F6.
+16 pirate-2 (turn 14, shared): Dug G3: 2 away.
+17 pirate-3 (turn 15): P3: recomputed with all 6 readings: candidates are D6/E6/E7. E7 closest from here; digging it. Check: F6 fails G1=11, G6 fails C4=1, C7/D7/C8/D8 fail G3=2.
+18 pirate-4 (turn 16): P4 at F10, heading to E6 to dig it. P3 take E7, P1 take D6; that covers all 3 candidates. P2 head toward the cluster as backup.
+19 pirate-1 (turn 17): P1: heading to D6 to check that candidate; will dig and share.
+20 pirate-2 (turn 18): P2 heading to E5 as backup near the cluster. Agree candidates D6/E6/E7 after my G3=2 reading. I'll be close to enter fast once the cave is found. Share the hit!
+21 pirate-3 (turn 27): P3: digging candidate E7, sharing the reading. If it's not the cave, the distance should tell us D6 vs E6.
+22 pirate-3 (turn 27, shared): Dug E7: 5 away.
+23 pirate-4 (turn 28): P4 at E8, blocked by P3 at E7. After E7=5, candidates are D6/E6. P1 on D6; P3 please move to E6 and dig; I'll follow to E6 as backup. If you find the cave, alert us.
+24 pirate-1 (turn 29, alert): P1: CAVE AT D6! Digging D6 revealed the cave. Everyone come to D6 and enter now.
+25 pirate-2 (turn 30): P2 heading to D6 to enter. See you inside!
+26 pirate-3 (turn 31): P3 heading to D6 to enter. Nice work P1!
+27 pirate-4 (turn 32): P4 at E8 heading to D6 to enter. Great work P1!
+28 pirate-1 (turn 33): P1 entering the cave. Great teamwork everyone — see you inside!
+29 pirate-3 (turn 38): P3 entering the cave now. Great digging everyone — see you inside!
+30 pirate-2 (turn 40): P2 entering the cave. Excellent teamwork everyone!
+31 pirate-4 (turn 41): P4 entering the cave now. Great teamwork everyone!

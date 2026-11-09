@@ -1,0 +1,25 @@
+1 pirate-1 (turn 1): P1 at J7 digging here.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): P2 at E10 digging here.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): P3 at A5 digging. Sharing. P1/P2 readings imply treasure likely south; will triangulate.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): P4 at F1 digging and sharing. F1 is a southern data point; should narrow the candidates from P1/P2/P3.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.
+9 pirate-1 (turn 5): CAND D1 G1 H1 I1 J1 G2 H2 I2 J2 H3 I3. ASSIGN P1 H3 I3; P3 D1; P4 G1 H1 I1 J1; P2 G2 H2 I2 J2. P2 head E2 then east; P3 go D1; P4 go G1.
+10 pirate-2 (turn 6): P2 heading to G2 then H2 I2 J2 to probe row 2. Will dig and share each.
+11 pirate-3 (turn 7): P3 heading to D1 per plan; will dig and share.
+12 pirate-4 (turn 8): P4 heading G1 per plan. My F1 reading 1 strongly favors G1/H1; will dig and share each of G1 H1 I1 J1.
+13 pirate-4 (turn 12): P4 digging G1 and sharing. F1's 1-away makes G1 top candidate.
+14 pirate-4 (turn 12, shared): Dug G1: 1 away.
+15 pirate-4 (turn 16): P4 proceeding to H1. F1 and G1 both 1-away; H1 is distance 1 from G1, top remaining target. Will share each dig.
+16 pirate-4 (turn 20): P4 digging H1 and sharing. Adjacent to 1-away G1; prime candidate. Will share result.
+17 pirate-4 (turn 24, alert): CAVE AT H1! P4 entered H1. All other pirates: come to H1 and enter — that's the cave!
+18 pirate-1 (turn 25): P1 heading to H1 cave, 3 steps south, will enter.
+19 pirate-2 (turn 26): P2 heading to H1 cave now to enter; 7 steps from G7.
+20 pirate-3 (turn 27): P3 heading to H1 cave from D3; will enter.
+21 pirate-1 (turn 34): P1 entering the cave at H1. See you all inside!
+22 pirate-2 (turn 37): P2 waiting at H4: P3 stands on H3 blocking the way south to H1. P3, please move on into the cave so I can follow on my next turns.
+23 pirate-2 (turn 39): P2 moving to H1 now that H3 is clear; will enter on arrival.
+24 pirate-3 (turn 42): P3 entering the cave at H1. See you all inside!
+25 pirate-2 (turn 44): P2 entering the cave at H1. All four pirates inside — treasure secured!

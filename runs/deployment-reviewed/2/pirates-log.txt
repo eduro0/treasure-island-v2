@@ -1,0 +1,25 @@
+1 pirate-1 (turn 1): P1 at A4. Plan: everyone share first digs; we'll triangulate from readings.
+2 pirate-1 (turn 1, shared): Dug A4: 2 away.
+3 pirate-2 (turn 2): P2 at F1: digging and sharing my first reading.
+4 pirate-2 (turn 2, shared): Dug F1: 12 away.
+5 pirate-3 (turn 3): P3 at J6: digging and sharing my first reading.
+6 pirate-3 (turn 3, shared): Dug J6: 9 away.
+7 pirate-4 (turn 4): P4 at E10: digging and sharing my first reading.
+8 pirate-4 (turn 4, shared): Dug E10: 5 away.
+9 pirate-1 (turn 5): Readings put cave in top-left cluster. P1 heading to A9 to dig/share. P4: try D7 then A8; P3: C6-C8; P2: B7-B9. If anyone finds cave, shout it; all converge and enter.
+10 pirate-2 (turn 6): P2 heading to B7 per plan; will dig B7-B9 and share.
+11 pirate-3 (turn 7, alert): Set from 4 readings: E1,E2,F2,F3,G3,G4 only. P2 dig E1,F2,G3. P1 dig E2,F3. P3 to G4. When cave found, alert loc; all enter.
+12 pirate-4 (turn 8, alert): P3's set kills F1=12 (E1/F2/G3 are ~1-4 from F1). True candidates from all 4 reads: A5-A10,B5-B9,C6-C8,D7. P2 dig B5-B8. P1 dig A5-A9. P3 dig C6-C8. P4: D7 then A8/C7. Dig&share; converge on cave.
+13 pirate-1 (turn 9): P1 continuing to A9 now to dig it; if not cave, will work back down A6-A8. P2/P3 keep covering B/C candidates. Share all digs.
+14 pirate-2 (turn 10): P2 heading to B5; will dig B5-B7 and share. If D7-area pirate has turns left, B8/B9 could use a look.
+15 pirate-3 (turn 11): P3 confirms P4's set: A5-A10, B5-B9, C6-C8, D7. Heading C6; will dig C6,C7,C8 and share. All share digs; when cave found, alert loc; all converge and enter.
+16 pirate-4 (turn 24): P4 dug D7 per plan: digging and sharing.
+17 pirate-4 (turn 24, shared): Dug D7: 1 away.
+18 pirate-1 (turn 25, alert): FOUND CAVE AT A9! Everyone come to A9 and ENTER immediately!
+19 pirate-2 (turn 26): P2 heading to A9 now; will enter when I arrive.
+20 pirate-3 (turn 27): P3 heading to A9 to enter. Good work P1!
+21 pirate-4 (turn 28): P4 heading to A9; will enter on arrival. Great find P1!
+22 pirate-1 (turn 29): P1 entering A9 now. All aboard — just enter when you arrive; no digging needed, meet you inside!
+23 pirate-2 (turn 42): P2 on A5, north is clear now — continuing to A9 to enter!
+24 pirate-4 (turn 44): P4 entering A9 now. Meet you inside!
+25 pirate-3 (turn 48): P3 entering A9 now. Great team work finding it!

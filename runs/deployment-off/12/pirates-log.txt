@@ -1,0 +1,44 @@
+1 pirate-1 (turn 1): Pirate-1 at D10, digging. Will share reading.
+2 pirate-1 (turn 1, shared): Dug D10: 4 away.
+3 pirate-2 (turn 2): P2 at A4 digging, sharing. Suggest each pirate digs a different corner region: e.g. P3 dig J4, P4 dig A10, P1 near D10 already.
+4 pirate-2 (turn 2, shared): Dug A4: 9 away.
+5 pirate-3 (turn 3): P3 heading to J4 to dig per P2's plan.
+6 pirate-4 (turn 4): P4 at J7. Digging here and sharing. D10=4 and A4=9 put treasure east-central (rows 2-10, cols A-H roughly); A10/J4 look outside that band. Digging J7 to narrow.
+7 pirate-4 (turn 4, shared): Dug J7: 6 away.
+8 pirate-1 (turn 5): P1 heading to A9 to dig a top-left probe and share. Readings so far: A4=9, D10=4, J7=6; more probes will shrink the band.
+9 pirate-2 (turn 6): P2 heading to E5 to dig a central probe and share. E5 fits all current readings; if it's not the cave, its radius should cut the band sharply.
+10 pirate-4 (turn 8, alert): P4 heading to G7. D10=4,A4=9,J7=6 put treasure in band E3..H10; J4 is 12 from D10 so cannot be cave. P3 please dig E8 or F7 instead. P1 A9 and P2 E5 are good.
+11 pirate-1 (turn 9): P1 continuing to A9 to dig the top-left probe; will share reading. Probes so far: A4,D10,J7; incoming: E5,G7,E8/F7. This should pin the band.
+12 pirate-2 (turn 10): P2 resuming to E5 after alert; will dig and share the central probe. E5 is still inside the band.
+13 pirate-3 (turn 11): P3 at I1: E8/F7 are 9-11 steps for me—too slow to still reach the cave after. Heading to G5 (6 steps, inside band) to dig & share, then probe nearby.
+14 pirate-4 (turn 20): P4 at G7, digging and sharing. G7 is inside the band D10=4,A4=9,J7=6; if not cave, this probe narrows it.
+15 pirate-4 (turn 20, shared): Dug G7: 4 away.
+16 pirate-1 (turn 21): P1 at A9, digging the top-left probe and sharing. Readings so far: A4=9, D10=4, J7=6, G7=4; E5 and G5 incoming.
+17 pirate-1 (turn 21, shared): Dug A9: 8 away.
+18 pirate-4 (turn 24): P4 heading to F8 (2 steps) to dig & share; with D10=4,A4=9,J7=6,G7=4,A9=8, best-fit is around F8/G9/F9. E5 and G5 probes will help.
+19 pirate-1 (turn 25): P1 leaving A9 for E8 to dig & share; E8 is in the band and 5 steps away. With E5/G5/F8 incoming we should shrink to a small set.
+20 pirate-2 (turn 26): P2 digging E5 and sharing. E5 fits A4=9,D10=4,J7=6,G7=4,A9=8; if not the cave its radius should cut the band.
+21 pirate-2 (turn 26, shared): Dug E5: 2 away.
+22 pirate-2 (turn 30): P2 heading F6 (2 steps) to dig & share; central probe. With E5=2 and G5/E8/F8 incoming, we should narrow to a shortlist quickly. Stay central so all can enter once the cave opens.
+23 pirate-4 (turn 32): P4 at F8, digging & sharing. With E5=2 added, the candidate set centers on E6/F6/E7/F8/E8; F8 is one of the best fits.
+24 pirate-4 (turn 32, shared): Dug F8: 1 away.
+25 pirate-3 (turn 35): P3 at G5: digging & sharing. G5 is in the candidate set; if not the cave its reading should help narrow.
+26 pirate-3 (turn 35, shared): Dug G5: 5 away.
+27 pirate-4 (turn 36): P4 heading to E8 (1 step) to dig. F8=1 makes E8 the top remaining fit; G8 and F7 are the other one-step neighbors. P1 is en route to E8 too; if it opens, everyone head here.
+28 pirate-2 (turn 38): P2 digging F6 & sharing. F8=1 points toward E8/F7/G8/F9; my F6 read should narrow further. If cave opens, everyone converge.
+29 pirate-2 (turn 38, shared): Dug F6: 6 away.
+30 pirate-3 (turn 39): P3 at G5: G5=5 didn't narrow the 24-cell set. Going to G6 (1 step, an F8-neighbor) to dig & share. Suggest we cover E6/G8/F7 after E8.
+31 pirate-4 (turn 40): P4 digging E8 and sharing. F6=6 kills F7/E6/G6/F5; top candidates now E8/E7/D7 (then D8/C7/D6/G8). P3: G6 likely excluded by F6=6; after G6, try E7 or G8.
+32 pirate-4 (turn 40, shared): Dug E8: 6 away.
+33 pirate-1 (turn 41): P1 at E9 digging & sharing. After E5=2,F8=1,G5=5,F6=6,E8=6 the candidates are G8/H8,C7/D7/H7,F9/G9,D6/H6,E10/F10,F4; E9 probe should cut it.
+34 pirate-1 (turn 41, shared): Dug E9: 8 away.
+35 pirate-2 (turn 42): Candidates now F4,D6,C7,H6,H7,H8 (E9=8 cut D7/G8/F9/G9/E10/F10). P2 going to D6 to dig & share. P3 at G6: take H6 then H7/H8. P4/P1: cover C7 and F4/H8. When cave opens, converge and enter.
+36 pirate-3 (turn 43): P3 at G6: F6=6 excludes G6 too (dist1 from F6). Head to H6 (1 step, live set H6/H7/H8/D6/C7/F4) to dig & share.
+37 pirate-4 (turn 44): P4 heading to H8 (3 steps). After E8=6 & E9=8, live set is C7/D6/F4/H6/H7/H8; H8 has best fit. P3 on H6/H7 covers right; P2 on D6. P1: please cover C7 if you can.
+38 pirate-3 (turn 47): P3 at H6: digging & sharing. H6 is top of the 6-cell live set; if not the cave, reading should shrink it.
+39 pirate-1 (turn 49): P1 heading to C7 (4 steps) to cover it per P4's plan; will dig & share. Live set: C7/D6/F4/H6/H7/H8; others cover D6,H6,H8, then F4/H7.
+40 pirate-2 (turn 50): P2 digging D6 & sharing. Live set C7/D6/F4/H6/H7/H8. If not cave, my reading plus H6's will resolve. Converge and enter once open.
+41 pirate-2 (turn 50, shared): Dug D6: 5 away.
+42 pirate-3 (turn 51): P3 entering the cave at H6! The treasure is found — everyone converge and enter.
+43 pirate-2 (turn 54): Cave at H6! P2 is 4 steps away and won't make it. P4 from H8: head 2 south to H6 and enter. P1: converge on H6 and enter. Every entrant counts.
+44 pirate-4 (turn 55): P4 at H8, walking south to H6 (2 steps). This is my turn 14, so I may arrive on my final turn without a chance to enter. Great find P3! Cave at H6 confirmed for everyone.

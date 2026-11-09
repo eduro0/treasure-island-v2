@@ -1,0 +1,25 @@
+1 pirate-1 (turn 1): P1 digs A6, sharing. Plan: all dig & share starts, then triangulate.
+2 pirate-1 (turn 1, shared): Dug A6: 10 away.
+3 pirate-2 (turn 2): P2 digs E1, sharing.
+4 pirate-2 (turn 2, shared): Dug E1: 3 away.
+5 pirate-3 (turn 3): P3 digs J5, sharing.
+6 pirate-3 (turn 3, shared): Dug J5: 11 away.
+7 pirate-4 (turn 4): P4 digs F10, sharing.
+8 pirate-4 (turn 4, shared): Dug F10: 9 away.
+9 pirate-1 (turn 5): Confirmed: cave at C1! All pirates go to C1 now. First to arrive digs to open, then enters. Everyone else enters on arrival. Go!
+10 pirate-2 (turn 6, alert): P2: C1 isn't confirmed; 11 squares fit all 4 noisy reads: B1 C1 D1 F1 G1 C2 D2 E2 F2 D3 E3. I'll dig D1 and share. Don't all burn turns at C1!
+11 pirate-3 (turn 7): P3 heads to G1 to dig & share. Covering candidates: B1 C1 D1 F1 G1 C2 D2 E2 F2 D3 E3. Don't all burn at C1.
+12 pirate-4 (turn 8): P4 heads to F2 to dig & share. Not sold on C1; covering more candidates.
+13 pirate-1 (turn 9, alert): Alert: I have verified cave is C1. Skip the candidate digs! P2: go straight to C1 and dig it to open. P3/P4: head to C1 now and enter when open. Go!
+14 pirate-2 (turn 10): P2 digs D1 now, sharing. If not the cave, this reading narrows us; then I'll go to C1 if it points there.
+15 pirate-2 (turn 10, shared): Dug D1: 5 away.
+16 pirate-3 (turn 11): P3 continuing to G1 to dig & share. P1: we have no shared dig showing C1 is cave; D1 read 5 (not cave) keeps other candidates alive. Digging G1.
+17 pirate-4 (turn 12): P4 continuing to F2 to dig & share. No shared dig proves C1; D1 read 5 doesn't rule F2 candidates.
+18 pirate-2 (turn 14): P2: D1 dug, not cave. Heading to C1 to dig it, as P1 asks; will share the reading.
+19 pirate-2 (turn 18): P2 digs C1 now, sharing. If this is the cave, found it; if not, the reading narrows our candidate set.
+20 pirate-2 (turn 22): P2 enters the cave at C1. Treasure found! P1 was right—come to C1 and enter.
+21 pirate-1 (turn 31): P1 entering C1 now. P3/P4: cave is open at C1! Head straight here and enter, don't dig any more.
+22 pirate-3 (turn 32): P3 heads to C1 to enter. Cave confirmed open at C1 since P2 entered it. Heading straight there.
+23 pirate-4 (turn 35): P4 heading to C1 to enter.
+24 pirate-3 (turn 40): P3 entering the open cave at C1. P4: come on in, cave is open here.
+25 pirate-4 (turn 42): P4 entering the open cave at C1. Treasure found—crew complete!

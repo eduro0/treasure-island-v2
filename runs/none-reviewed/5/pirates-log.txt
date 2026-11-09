@@ -1,0 +1,17 @@
+1 pirate-1 (turn 1): P1 at J5. Plan: everyone share every dig, we triangulate with noisy readings. I'll work from here.
+2 pirate-1 (turn 1, shared): Dug J5: 1 away.
+3 pirate-2 (turn 2): P2 at F10. Digging and sharing per plan.
+4 pirate-2 (turn 2, shared): Dug F10: 6 away.
+5 pirate-3 (turn 3): P3 at A6. Digging and sharing per plan.
+6 pirate-3 (turn 3, shared): Dug A6: 6 away.
+7 pirate-4 (turn 4): P4 at E1. Digging and sharing.
+8 pirate-4 (turn 4, shared): Dug E1: 14 away.
+9 pirate-1 (turn 5, alert): CAVE AT J6! My failed enter at J5 revealed it. Everyone: go to J6 and enter once it's open.
+10 pirate-2 (turn 6): P2 at F10, heading to J6 per P1's alert. Will enter when I arrive.
+11 pirate-3 (turn 7): P3 at A6, heading to J6. See you at the cave.
+12 pirate-4 (turn 8): P4 at E1 heading to J6 per P1's cave alert. Will enter when I arrive.
+13 pirate-1 (turn 9): Digging J6 to open the cave. I'll enter next turn; follow me in when you arrive.
+14 pirate-1 (turn 13): P1 entering the cave now. Cave is open at J6 — come on in!
+15 pirate-2 (turn 32): P2 entering the open cave at J6 now. Cave confirmed open — come on in, everyone!
+16 pirate-3 (turn 35): P3 entering the open cave at J6 now. Cave open — P4, come on in!
+17 pirate-4 (turn 37): P4 entering the open cave at J6 now. Crew all in!

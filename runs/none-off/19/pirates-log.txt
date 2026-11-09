@@ -1,0 +1,19 @@
+1 pirate-1 (turn 1): P1 A3 dig. Share readings; triangulate together.
+2 pirate-1 (turn 1, shared): Dug A3: 1 away.
+3 pirate-2 (turn 2): P2 H1 dig. Let's triangulate.
+4 pirate-2 (turn 2, shared): Dug H1: 8 away.
+5 pirate-3 (turn 3): P3 J8 dig. Share readings; triangulate together.
+6 pirate-3 (turn 3, shared): Dug J8: 13 away.
+7 pirate-4 (turn 4): P4 C10 dig. Sharing reading for triangulation.
+8 pirate-4 (turn 4, shared): Dug C10: 9 away.
+9 pirate-1 (turn 5): P1 at A3 read 1 away, so treasure is within 5. Moving to A2 to dig next.
+10 pirate-2 (turn 6): P2 heading to F2 to dig; with 4 readings, candidates are the W/SW cluster (A1-F3 area). More digs will narrow.
+11 pirate-3 (turn 7): P3 heading to D4, central to the candidate region, to dig and to be in place for the cave. If someone finds it first, we head there.
+12 pirate-4 (turn 8): P4 heading to C3 to dig; covering the center of the cluster.
+13 pirate-1 (turn 9): P1 digging A2. If it's not the cave, this read combines with A3=1 to narrow things fast.
+14 pirate-1 (turn 13, alert): Cave found at A2! Everyone come to A2 and enter!
+15 pirate-2 (turn 14): P2 heading to A2 now, ETA 6 turns. Well done pirate-1!
+16 pirate-3 (turn 15): P3 at H8, heading to A2 (13 steps, I have 12 turns left—may fall one short at A3). Others please enter; I'll get as close as I can.
+17 pirate-4 (turn 16): P4 heading to A2 to enter! Cave at A2 confirmed.
+18 pirate-2 (turn 32): P2 entering the cave at A2. Great work, crew!
+19 pirate-4 (turn 38): P4 entering the cave at A2. Great work, crew!

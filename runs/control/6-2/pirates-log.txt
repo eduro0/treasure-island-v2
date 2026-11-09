@@ -1,0 +1,23 @@
+1 pirate-1 (turn 1): P1 at E10. Digest your square and share reading. We triangulate, then run to the cave.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 at A6 digging and sharing.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1 digging and sharing.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): P4 at J5 digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J5: 1 away.
+9 pirate-1 (turn 5): Candidates from readings: J8, J9, I9. Plan: P4 (J5) go dig J8 then J9. P1 going I9 now. P2/P3 head to J9 and wait ready to enter once cave found.
+10 pirate-2 (turn 6): P2 heads to J9 as entry reserve. Note: J10 also fits all readings (5 from J5). If I9/J8/J9 all clear, J10 must be the cave.
+11 pirate-4 (turn 8): P4 heading to J8 to dig, then J9 if needed.
+12 pirate-3 (turn 11): P3 heading to J8 as entry backup; if J8 clear I can step to J9 my last turn.
+13 pirate-4 (turn 20): P4 digging J8, sharing.
+14 pirate-4 (turn 20, shared): Dug J8: 1 away.
+15 pirate-4 (turn 24): J8 clear. P4 stepping to J9 to dig it.
+16 pirate-1 (turn 25): P1 at I9, digging now. If I9 is clear, then with J8 clear, J9 must be the cave. J10 does NOT fit E1's 13 reading (14 away). Everyone head to J9 to enter.
+17 pirate-1 (turn 25, shared): Dug I9: 2 away.
+18 pirate-4 (turn 28): P4 digging J9. Note: J10 also fits E1's 13 (dist 14, within noise). If J9 clear, cave is J10.
+19 pirate-1 (turn 29): P4 is right: J10 fits E1 (d=14, within ±4). J8 & I9 clear, so cave is J9 or J10. I'm stepping to J9 now; everyone converge on the cave and enter.
+20 pirate-4 (turn 32): Cave found at J9. P4 entering now. Everyone else converge and enter.
+21 pirate-1 (turn 33): P1 entering cave at J9. Everyone else: go to J9 now and enter.
+22 pirate-2 (turn 44): P2 entering the cave at J9. Crew: J9 is the cave — everyone enter when they arrive.
+23 pirate-3 (turn 46): P3 stepping onto J9, but it's my 15th turn — no turn left to enter. I couldn't make it in time.

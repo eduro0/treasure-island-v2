@@ -1,0 +1,31 @@
+1 pirate-1 (turn 1): Pirate-1 digs A4.
+2 pirate-1 (turn 1, shared): Dug A4: 9 away.
+3 pirate-2 (turn 2): Pirate-2 digs G1.
+4 pirate-2 (turn 2, shared): Dug G1: 11 away.
+5 pirate-3 (turn 3): Pirate-3 digs J7.
+6 pirate-3 (turn 3, shared): Dug J7: 4 away.
+7 pirate-4 (turn 4): Pirate-4 digs D10.
+8 pirate-4 (turn 4, shared): Dug D10: 2 away.
+9 pirate-1 (turn 5): P-1 heading A4→D6 to dig a strong candidate (fits all shared readings). If it's the cave I'll announce it and enter.
+10 pirate-2 (turn 6): Pirate-2 heading G1→F5 to dig a new square and share.
+11 pirate-3 (turn 7): Pirate-3 heading J7→H8 to dig a candidate in the cluster and share. If it's the cave I'll announce and enter.
+12 pirate-4 (turn 8): P-4 heading D10→E9 (2 steps) to dig a candidate and share.
+13 pirate-4 (turn 16): P-4 digs E9. If this is the cave, the treasure is at E9 — come here and enter.
+14 pirate-4 (turn 16, shared): Dug E9: 1 away.
+15 pirate-3 (turn 19): Pirate-3 digs H8 — a strong candidate consistent with all shared readings. If this is the cave, the treasure is at H8: come here and enter.
+16 pirate-3 (turn 19, shared): Dug H8: 6 away.
+17 pirate-4 (turn 20): P-4 heading E9→F9 (1 step) to dig right next to my 1-away reading and share.
+18 pirate-3 (turn 23): Pirate-3 heading H8→F8. F8 is a leading candidate near the D10/E9 1-away hints; I'll dig and share it next.
+19 pirate-4 (turn 24): P-4 digs F9. If this is the cave, the treasure is at F9 — all come here and enter.
+20 pirate-4 (turn 24, shared): Dug F9: 1 away.
+21 pirate-1 (turn 25): Pirate-1 digs D6 — the strong candidate consistent with every shared reading. If this is the cave I'll announce it and enter.
+22 pirate-2 (turn 26): Pirate-2 digs F5; sharing the reading.
+23 pirate-2 (turn 26, shared): Dug F5: 3 away.
+24 pirate-4 (turn 28): P-4 heading F9→G9 (1 step) to dig another candidate near my 1-away readings and share.
+25 pirate-1 (turn 29, alert): P-1 FOUND THE CAVE at D6! Everyone come to D6 and enter — it's open.
+26 pirate-2 (turn 30): Pirate-2 heading D5→D6 to enter the open cave.
+27 pirate-3 (turn 31): Pirate-3 heading F8→D6 (4 steps) to enter the open cave — nice find, Pirate-1!
+28 pirate-4 (turn 32): P-4 heading G9→D6 (6 steps) to enter the open cave. Great find, Pirate-1!
+29 pirate-2 (turn 39): Pirate-2 entering the cave at D6!
+30 pirate-3 (turn 42): Pirate-3 entering the open cave at D6 — thanks Pirate-1 for the find!
+31 pirate-4 (turn 45): Pirate-4 entering the open cave at D6 — great find, Pirate-1!

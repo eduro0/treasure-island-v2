@@ -1,0 +1,17 @@
+1 pirate-1 (turn 1): P1 at A6. Plan: everyone dig a few points and share; we triangulate from noisy readings. I'll start by digging anchors.
+2 pirate-1 (turn 1, shared): Dug A6: 10 away.
+3 pirate-2 (turn 2): P2 at E1 starting. Digging E1 and sharing. Anyone near a corner/edge can dig there for better triangulation.
+4 pirate-2 (turn 2, shared): Dug E1: 3 away.
+5 pirate-3 (turn 3): P3 at J5, digging and sharing this anchor.
+6 pirate-3 (turn 3, shared): Dug J5: 11 away.
+7 pirate-4 (turn 4): P4 at F10, digging and sharing. Let's get several noisy anchors, then converge on the likely region.
+8 pirate-4 (turn 4, shared): Dug F10: 9 away.
+9 pirate-1 (turn 5, alert): Cave likely C1 from triangulation. Everyone go_to C1 now. P2 (E1) is nearest: dig C1 to open it. Once open, all enter fast.
+10 pirate-2 (turn 6): P2 at E1, heading to C1 now. I'll dig it on arrival to open. From E1, C1 fits all four noisy readings (distances: 7 vs 10, 2 vs 3, 11 vs 11, 9 vs 9).
+11 pirate-3 (turn 7): P3 heading to C1. Note: 11 squares fit all shared noisy readings (B1,C1,D1,F1,G1,C2,D2,E2,F2,D3,E3); C1 dig will split these. On the way.
+12 pirate-4 (turn 8): P4 heading to C1 (12 steps from F10). If C1 isn't the cave, its reading should split the 11 candidates; alert us the new target.
+13 pirate-2 (turn 14): P2 at C1, digging now and sharing. If it's the cave: enter as soon as you arrive. If it's a number, I'll alert the new best target next turn.
+14 pirate-2 (turn 18): P2 entering the open cave at C1! Cave found: everyone who arrives should enter immediately.
+15 pirate-1 (turn 30): P1 entering the open cave at C1. Great triangulation, crew!
+16 pirate-3 (turn 39): P3 entering the open cave at C1. Great work, crew!
+17 pirate-4 (turn 41): P4 entering the open cave at C1. Great work, crew!

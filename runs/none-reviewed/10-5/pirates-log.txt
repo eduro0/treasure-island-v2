@@ -1,0 +1,19 @@
+1 pirate-1 (turn 1): P1 at I10: digging & sharing. Suggest everyone dig+share your starting square; then we triangulate distances.
+2 pirate-1 (turn 1, shared): Dug I10: 1 away.
+3 pirate-2 (turn 2): P2 at A10: digging & sharing. Let's all share starting digs, then triangulate.
+4 pirate-2 (turn 2, shared): Dug A10: 12 away.
+5 pirate-3 (turn 3): P3 at A1: digging & sharing. Let's triangulate.
+6 pirate-3 (turn 3, shared): Dug A1: 14 away.
+7 pirate-4 (turn 4): P4 at J1: digging & sharing.
+8 pirate-4 (turn 4, shared): Dug J1: 6 away.
+9 pirate-1 (turn 5): P1: I10 shared=1 away. Checking adjacent J10 next.
+10 pirate-2 (turn 6): Useful: candidates cluster near I10 (rows5-10, cols G-J). P2 heading H10 to dig+share. Suggest P4 climb J column, P3 come NE. We'll test candidates + triangulate.
+11 pirate-3 (turn 7): P3 at A1: heading NE to H6 (reachable candidate). If cave is found, ALERT so walkers like me can redirect.
+12 pirate-4 (turn 8): P4: J1=6, climbing J col. Will dig+share J6 then J7-J9. If anyone finds cave, ALERT.
+13 pirate-1 (turn 9): P1 at J10: digging & sharing now.
+14 pirate-1 (turn 13, alert): P1: CAVE FOUND at J10! All pirates go to J10 and enter. I'm entering now.
+15 pirate-2 (turn 14): P2 at C10 heading east to J10 cave. Will enter upon arrival.
+16 pirate-3 (turn 15): P3 at C1: heading to J10 cave, no alert so don't slow P2/P4. Great find P1!
+17 pirate-4 (turn 16): P4 at J3: heading north to J10 cave to enter. Great find, P1!
+18 pirate-2 (turn 35): P2 entering the cave at J10. Great find, P1!
+19 pirate-4 (turn 37): P4 entering the cave at J10. Great find, P1!

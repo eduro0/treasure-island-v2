@@ -1,0 +1,14 @@
+1 pirate-1 (turn 1): P1 at A3 digging + sharing. Plan: each pirate dig a different corner then share: P1 A1, P2 J1, P3 A10, P4 J10.
+2 pirate-1 (turn 1, shared): Dug A3: 1 away.
+3 pirate-2 (turn 2): P2 digging H1 + sharing. A3=1 means cave within 5 of A3. P3/P4: please dig far planned points (A10/J10) and share. P1: maybe also dig A1 if you can.
+4 pirate-2 (turn 2, shared): Dug H1: 8 away.
+5 pirate-3 (turn 3): P3 heading to A10 as planned, will dig and share.
+6 pirate-4 (turn 4): P4 here at C10. Heading to J10 as planned; will dig and share the reading.
+7 pirate-1 (turn 5): A3 dig was 1 away, so cave is adjacent: A2/A4/B3. P2 H1=8 fits A2 or B3 exactly. Heading to A2 to check; P3/P4 please keep sharing your corner digs.
+8 pirate-2 (turn 6): P2 heading to B3 to check the other exact fit from A3=1/H1=8; P1 covers A2. If B3 is empty I'll share its reading.
+9 pirate-1 (turn 9): P1 checking A2 (adjacent to A3, and H1=8 fits A2 exactly). If this is the cave I'll alert and enter; otherwise sharing the reading now.
+10 pirate-1 (turn 13, alert): ALERT: Cave found at A2! I'm going in now. P2/P3/P4: go_to A2 and enter to collect bounty!
+11 pirate-2 (turn 14): P2 heading to A2 to enter. Great find, P1!
+12 pirate-3 (turn 15): P3 heading to A2 to enter! Thanks P1.
+13 pirate-4 (turn 16): P4 at F10, heading to A2 to enter! Great work, P1. On my way west then south.
+14 pirate-2 (turn 32): P2 entering the cave. Great job, crew!

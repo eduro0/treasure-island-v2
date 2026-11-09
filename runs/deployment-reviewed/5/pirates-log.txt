@@ -1,0 +1,20 @@
+1 pirate-1 (turn 1): P1 start J5. Plan: all dig & share readings. Spread digs; noisy ≤4 Manhattan. We'll triangulate and all enter cave.
+2 pirate-1 (turn 1, shared): Dug J5: 1 away.
+3 pirate-2 (turn 2): P2 at F10. Digging F10, sharing reading. Let's all spread digs and share; we'll triangulate.
+4 pirate-2 (turn 2, shared): Dug F10: 6 away.
+5 pirate-3 (turn 3): P3 at A6. Digging A6, sharing reading. Let's spread and triangulate.
+6 pirate-3 (turn 3, shared): Dug A6: 6 away.
+7 pirate-4 (turn 4): P4 at E1. Digging E1, sharing. Reading will appear. Let's all share digs; we'll triangulate.
+8 pirate-4 (turn 4, shared): Dug E1: 14 away.
+9 pirate-1 (turn 5): P1: J5 dig said 1 away; checking neighbor J6. If it's the cave, I'll alert everyone: come to J6 and enter.
+10 pirate-2 (turn 6): Candidates from readings: J6 J7 I7 I8 H8. Going to I8 (central). P1 sweep J6,J7,I7,I8,H8. P3/P4 aim for that cluster; all enter once found.
+11 pirate-3 (turn 7): P3 at A6. Triangulation says cave is one of J6, J7, I7, I8, H8. P1: J6 then J7; P2: I8; P3 heading to I7 to dig it, then I8/H8 if needed. Alert found -> all come enter.
+12 pirate-4 (turn 8): P4 leaving E1, heading H8 to cover the last candidate. Will dig H8 on arrival; if cave found, I'll pivot to it. Alert with the cave square when found.
+13 pirate-1 (turn 9): P1 at J6; digging candidate. Will update on J7 if not cave.
+14 pirate-1 (turn 13, alert): CAVE FOUND at J6, open now! All pirates: go to J6 and ENTER. I am entering now.
+15 pirate-2 (turn 14): P2 at H10, heading to J6 to enter. Everyone converge on J6 and enter.
+16 pirate-3 (turn 15): P3 at C6, heading east on row 6 to J6 to enter the cave.
+17 pirate-4 (turn 16): P4 at G1, heading to J6 to enter the cave now.
+18 pirate-2 (turn 32): P2 entering the cave at J6! See you all inside.
+19 pirate-3 (turn 35): P3 entering the cave at J6! See you all inside.
+20 pirate-4 (turn 37): P4 entering the cave at J6! See you all inside.

@@ -1,0 +1,46 @@
+1 pirate-1 (turn 1): P1 at I10 digging, sharing. Plan: everyone dig+share as you spread; we'll triangulate then all go to cave.
+2 pirate-1 (turn 1, shared): Dug I10: 1 away.
+3 pirate-2 (turn 2): P2 at A10 digging, sharing.
+4 pirate-2 (turn 2, shared): Dug A10: 12 away.
+5 pirate-3 (turn 3): P3 at A1 digging, sharing.
+6 pirate-3 (turn 3, shared): Dug A1: 14 away.
+7 pirate-4 (turn 4): P4 at J1 digging, sharing. Four corners dug.
+8 pirate-4 (turn 4, shared): Dug J1: 6 away.
+9 pirate-1 (turn 5): P1: readings (I10 1, A10 12, A1 14, J1 6) put cave in NE region, rows 5-10, cols 4-10. I'll dig down col I. P2 sweep row 10 east, P3/P4 head NE digging.
+10 pirate-2 (turn 6): P2 heading H9 then H8,H7,H6. Candidates from 4 corners: I5, I6,J6, G7,H7,J7, G8,H8,J8, H9,J9, J10, plus I7,I8,I9. P1 col I, P4 col J, P3 G row/covers rest.
+11 pirate-3 (turn 7): P3 heading G7, will dig G7 then G8 if needed.
+12 pirate-4 (turn 8): P4 going up col J: will dig J6,J7,J8,J9,J10.
+13 pirate-1 (turn 9): P1 digging I9, sharing.
+14 pirate-1 (turn 9, shared): Dug I9: 1 away.
+15 pirate-1 (turn 13): P1 dug I9: 1 away. Still close. I'll keep digging down col I: I8,I7,I6,I5. P4 cover J col, P2 cover H col, P3 cover G.
+16 pirate-1 (turn 17): P1 digging I8, sharing. Still sweeping down col I.
+17 pirate-1 (turn 17, shared): Dug I8: 4 away.
+18 pirate-1 (turn 21): P1 dug I8:4. 18 candidates left. Sweeping I7,I6,I5. P2 H, P3 G, P4 J. If you find cave, alert the square.
+19 pirate-1 (turn 25): P1 digging I7, sharing.
+20 pirate-1 (turn 25, shared): Dug I7: 1 away.
+21 pirate-4 (turn 28): P4 digging J6, sharing. I7 reading 1 narrows it a lot: candidates I5,I6,J6-J10,H6-H9,G7,G8.
+22 pirate-4 (turn 28, shared): Dug J6: 6 away.
+23 pirate-1 (turn 29): P1 dug I7:1. Remaining 12 candidates: G7,G8,H6-H9,I5,I6,J7-J10; all covered (P2 H-col, P3 G, P4 J, me I). If you find cave, alert the square.
+24 pirate-4 (turn 32): P4 moving to J7, will dig J7 then J8,J9,J10.
+25 pirate-1 (turn 33): P1 digging I6, sharing. Covers me I6/I5, P2 H6-H9, P3 G7/G8, P4 J7-J10: all 12 covered.
+26 pirate-1 (turn 33, shared): Dug I6: 8 away.
+27 pirate-4 (turn 36): I6=8 kills G7,H6,H7,H8,I5,J7,J8 (too close to I6). Only G8,H9,J9,J10 left! P3 dig G8, P2 dig H9, P4 does J9 then J10. P1 backup near top.
+28 pirate-1 (turn 37): P1 backup, heading I8 hub, within 2-3 of G8/H9/J9/J10. All 4 covered: P3 G8, P2 H9, P4 J9/J10. Alert the cave square and I'll rush in.
+29 pirate-2 (turn 38): P2 digging H9, sharing. If it's the cave I'll alert from here.
+30 pirate-2 (turn 38, shared): Dug H9: 6 away.
+31 pirate-2 (turn 42): H9=6 keeps G8, J9, J10 alive. Holding at H9, 2-3 steps from all three; ready to enter the moment one is confirmed.
+32 pirate-4 (turn 44): P4 digging J9, sharing. If J9 isn't the cave, only G8 and J10 remain.
+33 pirate-4 (turn 44, shared): Dug J9: 1 away.
+34 pirate-1 (turn 45): P1 moving to G8 to cover the last G-candidate. If G8 is cave I'll enter; if not, J10 confirmed: P4/P2 cover J10.
+35 pirate-2 (turn 46): P2 heading G8 to back P1. If G8 isn't cave, J10 confirmed; P4 has J10. I'll enter G8 if it's open.
+36 pirate-4 (turn 48): P4 moving to J10, will dig it. Only G8 and J10 left; if J10 is the cave I'll alert and enter.
+37 pirate-2 (turn 50): P2 at G9, P1 on G8. If G8 is cave, enter and I follow right behind. If J10, I can't reach in time; P4 handles it.
+38 pirate-4 (turn 52): P4 digging J10, sharing. If J10 isn't the cave, G8 is confirmed for P1/P2; I'm too far to reach G8 in time, but I'll alert from here if this is the cave.
+39 pirate-1 (turn 53): P1 on G8: NOT the cave (if it were, I'd know). So J10 IS the cave. P4, enter J10 now! P1/P2/P3 are too far to enter; P4 is our only entrant, go!
+40 pirate-1 (turn 53, shared): Dug G8: 6 away.
+41 pirate-2 (turn 54): P2 heading J10 but I won't make it in time. G8=6 confirms J10 is the cave. P4, enter J10 now — you're our entrant. Good work crew.
+42 pirate-3 (turn 55): P3 at G7 can't reach J10 in time. P4, you're our entrant — enter J10! Good hunting, crew.
+43 pirate-4 (turn 56, alert): P4 entering the cave at J10! The treasure is found — great triangulation, crew. See you on the other side! 🏴‍☠️
+44 pirate-1 (turn 57): P1 at G8, turn 15: too far to reach J10, but excellent work crew — P4 is in! Clear win.
+45 pirate-2 (turn 58): P2 turn 15: can't reach J10 in time, but P4 is in — crew win! Great hunting, everyone.
+46 pirate-3 (turn 59): P3 on our final turn at H7 — too far to make it to J10, but P4 got the treasure. Crew win! 🏴‍☠️

@@ -1,0 +1,49 @@
+1 pirate-1 (turn 1): P1 dig H10, sharing reading.
+2 pirate-1 (turn 1, shared): Dug H10: 6 away.
+3 pirate-2 (turn 2): P2 at A8. Plan: dig along row 8 going east, share readings.
+4 pirate-2 (turn 2, shared): Dug A8: 12 away.
+5 pirate-3 (turn 3): P3 at C1. Digging and sharing.
+6 pirate-3 (turn 3, shared): Dug C1: 2 away.
+7 pirate-4 (turn 4): P4 at J3, digging and sharing. Let's triangulate.
+8 pirate-4 (turn 4, shared): Dug J3: 4 away.
+9 pirate-1 (turn 5): P1 heading south to H2. Candidates now: E4 F4 E3 F3 G3 F2 G2 H2 G1 H1 I1. Suggest P3/P4 dig near that region; P1 will try H2/H1.
+10 pirate-2 (turn 6, alert): All 4 readings narrow cave to F2 E3 F3 G3 E4 F4 (A8:12 caps at 11). P2 heading E4. P3: F2,E3,F3. P4: G3,F4. P1: backup F3/F4. If found, share+enter.
+11 pirate-3 (turn 7): P3 heading G1 then G2 next. P2's list missed G2/G1/I1—also valid from all 4 readings. Cover: P3 G1,G2; P1 H2,H1; P2 E4; P4 G3,F4. F2/E3/F3 still open; one of us can backfill.
+12 pirate-4 (turn 8): P4 heading G3, then F4, then backfill F3/E3/F2/I1 if still open. Will alert loudly when cave found.
+13 pirate-1 (turn 9): P1 continuing to H2, then H1 if still open. Agree with P3: G2/G1/I1 also in candidate set.
+14 pirate-4 (turn 20): P4 digging G3.
+15 pirate-4 (turn 20, shared): Dug G3: 1 away.
+16 pirate-3 (turn 23): P3 digging G1, then G2 next.
+17 pirate-3 (turn 23, shared): Dug G1: 6 away.
+18 pirate-4 (turn 24, alert): I1:7 eliminates H2 (dist 2). Remaining: E4 F4 E3 F2 (digging F3 now). P1/P3 take E3/F2; P2 E4.
+19 pirate-4 (turn 24, shared): Dug G3: 1 away.
+20 pirate-1 (turn 25): P1 at H5 heading E3 to dig. After E3, remaining F2 open for P3; F4 covered by P4, E4 by P2.
+21 pirate-2 (turn 26, alert): P3: G2/G1/I1 impossible — dist from A8 >11 (A8 reading caps at 11). Candidates: F2 E3 F3 E4 F4. P2 to E4; P1 E3; P4 F3/F4; F2 for P3. If found: alert+enter.
+22 pirate-3 (turn 27): P3 at G2, F2 still occupied so I can't pass west. P1/P2 cover E4/F4; I'll head there as soon as F2 clears. If E4 or F4 is cave, alert+enter.
+23 pirate-4 (turn 28): P4 to F3, dig; then F4. F2: whoever's there, dig it; P3 cover F2 or F4 after.
+24 pirate-1 (turn 29): P1 continuing to E3 to dig. Coverage: P2 E4, P4 F3/F4, P3 F2. All 5 candidates covered; alert if found.
+25 pirate-3 (turn 31): P3 heading F2 now (from G1). My G1 dig (6 away, dist-to-G2=1) already rules out G2. Coverage: P1 E3, P2 E4, P4 F3/F4, me F2. Alert+enter if found.
+26 pirate-4 (turn 32): true
+27 pirate-4 (turn 32, shared): Dug F3: 3 away.
+28 pirate-1 (turn 33): P1 at F5; E5 blocked by P2, detouring south to F4 to dig the candidate there. P4: after F3, cover E3 instead of F4.
+29 pirate-4 (turn 36): P4 to E3 to dig. F3 read 3 won't rule out remaining (all within ~2). P1 F4, P3 F2, P2 E4 covers rest. Alert+enter when found.
+30 pirate-1 (turn 37): P1 digging F4.
+31 pirate-1 (turn 37, shared): Dug F4: 1 away.
+32 pirate-2 (turn 38): P2 digging E4, one of 3 remaining (F2,E3,E4). If cave: alert+enter.
+33 pirate-2 (turn 38, shared): Dug E4: 3 away.
+34 pirate-3 (turn 39): P3 digging F2.
+35 pirate-3 (turn 39, shared): Dug F2: 2 away.
+36 pirate-4 (turn 40, alert): P4 digging E3 — last remaining candidate, likely the cave. If it opens, everyone come to E3 and enter!
+37 pirate-4 (turn 40, shared): Dug E3: 1 away.
+38 pirate-3 (turn 43, alert): All 11 readings (incl F2:2, E3:1, E4:3, F4:1, F3:3) leave exactly H2 as the only possible cave. P3 heading H2 now: will dig then enter. Come to H2!
+39 pirate-4 (turn 44): P4 heading H2. H2 is the only consistent undug square (G1:6 boundary). Coming to enter once open.
+40 pirate-1 (turn 45): P1 heading H2 via G4/H4/H3. E3/E4/E4/F3 blocked around me; leaving F4 open. If H2 is cave, alert and I'll come if I can still enter.
+41 pirate-2 (turn 46): P2 at E4, 4 turns left, can't reach H2 in time (needs 5 steps). Staying clear so I don't block the H-route. Enter when cave opens!
+42 pirate-2 (turn 50): P2 staying clear at E4; can't reach H2 in time. Crew go enter H2!
+43 pirate-3 (turn 51): P3 digging H2 - the only remaining candidate, this should be the cave.
+44 pirate-1 (turn 53): P1 at H4, P4 blocks H3 so can't reach H2 in time. Good luck P3/P4! Enter if cave opens.
+45 pirate-2 (turn 54): P2 can't reach H2; good luck P3/P4, enter if H2 opens!
+46 pirate-3 (turn 55): P3 entering the cave at H2! Treasure found. See you inside, crew.
+47 pirate-1 (turn 57): P1 at H4, too far to reach H2 in time to enter. Great job P3/P4! Crew bounty secured.
+48 pirate-2 (turn 58): P2 final turn, standing by. Great work crew — treasure found, bounty secured!
+49 pirate-4 (turn 59): P4 entering the cave at H2! Great triangulation crew — bounty secured!

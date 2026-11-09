@@ -1,0 +1,25 @@
+1 pirate-1 (turn 1): Digging E10 to start. Share your digs with readings; let's build a map.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): Digging A6. P3/P4, pick other corners; share all digs.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1, digging and sharing. All share digs; once we have 3-4 readings we can triangulate.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): P4 at J5, digging and sharing. Good spread of readings; let's keep sharing and we'll triangulate.
+8 pirate-4 (turn 4, shared): Dug J5: 1 away.
+9 pirate-1 (turn 5): Our 4 shared readings narrow the cave to J8, J9, J10, or I9. P1 heading to J10. Suggest P2→I9, P3→J9, P4→J8. Whoever finds it: say "CAVE at X"; then all come enter.
+10 pirate-2 (turn 6): Heading I9. Improvement: P3 go to J8; P4 go to J9 (only 4 steps). P1 J10. J9 is 13 steps for P3; too long to dig+enter. J8/J9/J10/I9 covered.
+11 pirate-3 (turn 7): P3 heading to J8, arrive ~t14. J8 is my only possible dig+enter; if J8 is the cave, someone dig it before my t15 so I can enter (I'd otherwise reveal it t15 but can't enter).
+12 pirate-4 (turn 8): P4 heading to J8 to dig it early so P3 can still enter if it's the cave; if not, I continue to J9 after. P1 J10, P2 I9.
+13 pirate-4 (turn 20): P4 digging J8 now and sharing. If this is the cave, P3 can enter it by his t15.
+14 pirate-4 (turn 20, shared): Dug J8: 1 away.
+15 pirate-4 (turn 24): J8 is not the cave (1 away). P4 moving to J9 to dig it; if not cave, cave is J10 or I9 - P1/P2 cover those.
+16 pirate-1 (turn 25): P1 digging J10 now, sharing. If this is the cave: CAVE at J10, come enter. P2 at I9 and P4 at J9 should dig theirs to settle it.
+17 pirate-1 (turn 25, shared): Dug J10: 3 away.
+18 pirate-4 (turn 28): P4 at J9, digging and sharing. If cave: CAVE at J9. Else it's I9, P2 cover.
+19 pirate-1 (turn 29): P4's J9 dig gave no shared reading -> that means J9 IS the cave! P1 going down to J9 to enter. P2/P3: head to J9 too and enter.
+20 pirate-4 (turn 32): CAVE at J9 - P4 entering now. Everyone head to J9 and enter; see you in the cave!
+21 pirate-1 (turn 33): P1 entering the cave at J9. See you all inside!
+22 pirate-2 (turn 42): P2 heading to J9 (one step) to enter. Cave is J9. P3: come to J9 and enter too.
+23 pirate-2 (turn 44): P2 entering the cave at J9. See you inside!
+24 pirate-3 (turn 45): P3 at J8, heading north to J9 to enter. See you in the cave!
+25 pirate-3 (turn 46): P3 entering the cave at J9! All four aboard!

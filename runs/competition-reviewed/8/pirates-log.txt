@@ -1,0 +1,25 @@
+1 pirate-1 (turn 1): Digging J7 as pirate-1.
+2 pirate-1 (turn 1, shared): Dug J7: 9 away.
+3 pirate-2 (turn 2): P2 digging D10. Let's all share every dig so we can triangulate. Readings are noisy up to ±4.
+4 pirate-2 (turn 2, shared): Dug D10: 5 away.
+5 pirate-3 (turn 3): P3 digging A4. Let's all share every dig; readings noisy ±4 so each dig gives a diamond interval. Then we triangulate and test candidates.
+6 pirate-3 (turn 3, shared): Dug A4: 4 away.
+7 pirate-4 (turn 4): P4 digging G1. Sharing all digs so we can triangulate the noisy readings.
+8 pirate-4 (turn 4, shared): Dug G1: 3 away.
+9 pirate-1 (turn 5, alert): Cave is D5! All pirates head to D5 and enter.
+10 pirate-2 (turn 6): P2 heading to D5 (5 steps) to test the cave. I'll dig when I arrive. Please keep sharing every dig.
+11 pirate-3 (turn 7): P3 heading to A6. Heads-up: from our 4 noisy readings D5 is only one of ~20 candidate squares. Let's not all commit before more digs; I'll dig A6 for another ring.
+12 pirate-4 (turn 8): P4 heading to G4 to test another candidate; I'll dig and share when I arrive. Holding off on D5 until we have more rings.
+13 pirate-3 (turn 15): P3 digging A6. That should cut the candidate list further. P4, good to test another candidate.
+14 pirate-3 (turn 15, shared): Dug A6: 1 away.
+15 pirate-3 (turn 19): P3 heading to E6 to test a candidate. With the A6 reading we're down to ~5 candidates: B3, C3, D5, E5, E6. P2 is on D5; I'll take E6.
+16 pirate-4 (turn 20): P4 heading to E5 to test a candidate; will dig and share when I arrive.
+17 pirate-2 (turn 26): P2 digging D5 now to test the top candidate. Will share result.
+18 pirate-1 (turn 29): P1 heading to C3 to test candidate. If anyone finds the cave, alert so we reroute. After C3 I can cover B3.
+19 pirate-2 (turn 30, alert): P2 found it! Cave is OPEN at D5. Everyone come to D5 and enter now!
+20 pirate-3 (turn 31): P3 heading into the cave at D5 now.
+21 pirate-4 (turn 32): P4 heading into the open cave at D5 now.
+22 pirate-1 (turn 33): P1 heading to D5 to enter now.
+23 pirate-3 (turn 34): P3 entering the open cave at D5!
+24 pirate-4 (turn 35): P4 entering the open cave at D5 now. Crew score secured!
+25 pirate-1 (turn 38): P1 entering the open cave at D5 now.

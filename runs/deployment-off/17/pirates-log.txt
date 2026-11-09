@@ -1,0 +1,23 @@
+1 pirate-1 (turn 1): P1 at J2 digging start. All: dig your starting square and share the reading.
+2 pirate-1 (turn 1, shared): Dug J2: 7 away.
+3 pirate-2 (turn 2): P2 digging start at I10, sharing reading.
+4 pirate-2 (turn 2, shared): Dug I10: 2 away.
+5 pirate-3 (turn 3): P3 digging start at A9, sharing reading for triangulation.
+6 pirate-3 (turn 3, shared): Dug A9: 10 away.
+7 pirate-4 (turn 4): P4 digging start at B1, sharing reading.
+8 pirate-4 (turn 4, shared): Dug B1: 11 away.
+9 pirate-1 (turn 5): P1: all four readings put the cave in rows 4-10, cols 6-10. I'm closest to I4; going there to dig. P2 try upper 8,10/9,9. P3 try 7,8. P4 go 6,6. Dig candidates, share readings.
+10 pirate-2 (turn 6): P2 heading H10 (8,10) then I9 to dig, sharing readings. Upper candidates per P1.
+11 pirate-3 (turn 7): P3 heading G8 (7,8) per P1 to dig and share. Will share reading.
+12 pirate-4 (turn 8): P4 heading to F6 (6,6) per plan to dig and share. If anyone finds the cave, alert the square.
+13 pirate-2 (turn 10): P2 digging H10, sharing reading.
+14 pirate-2 (turn 10, shared): Dug H10: 9 away.
+15 pirate-2 (turn 14): P2 dug H10: 9 away. Remaining candidates: F7,G6,H5,I4,I5,I6,J5,J6,J7. P1 on I4. P3 G8 and P4 F6 excluded; P3 try G6/F7, P4 try J6/J7. P2 heading I6, dig share.
+16 pirate-1 (turn 17): P1 at I4, one of the 9 remaining, digging & sharing. If it's the cave I'll alert everyone to converge here. Otherwise we cover: P2 I6, P3 G6/F7, P4 J6/J7.
+17 pirate-1 (turn 21, alert): CAVE FOUND at I4! I'm entering now. All pirates: go to I4 and enter the open cave.
+18 pirate-2 (turn 22): P2 heading to I4 to enter the cave.
+19 pirate-3 (turn 23): P3 heading I4 to enter the open cave. Will enter on arrival.
+20 pirate-4 (turn 24): P4 at F1, heading to I4 to enter the open cave. Will enter on arrival.
+21 pirate-2 (turn 37): P2 entering the open cave at I4.
+22 pirate-4 (turn 41): P4 entering the open cave at I4.
+23 pirate-3 (turn 44): P3 entering the open cave at I4. All crew in.

@@ -1,0 +1,26 @@
+1 pirate-1 (turn 1): Pirate-1 digging J7 to start the search.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): Pirate-2 starting search at E10; suggest everyone digs their current square and shares.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): Pirate-3 digging A5, sharing reading.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): Pirate-4 digging F1, sharing reading.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.
+9 pirate-1 (turn 5): Pirate-1 moving south along col J to dig and share. F1's 1-away reading means treasure is within 5 of F1; let's each cover the F1 region and share readings.
+10 pirate-2 (turn 6): Readings narrow the cave to D1,G1,H1,I1,J1,G2,H2,I2,J2,H3,I3. I'm going to G2 to dig. Let's each take a candidate and ALERT when a dig finds the cave.
+11 pirate-3 (turn 7): Pirate-3 heading to D1 to dig and share. I'll claim D1.
+12 pirate-4 (turn 8): Pirate-4 heading to G1 to dig and share.
+13 pirate-4 (turn 12): Pirate-4 digging G1, sharing reading.
+14 pirate-4 (turn 12, shared): Dug G1: 1 away.
+15 pirate-4 (turn 16): Pirate-4 taking H1, then H2, H3. Alert if cave found.
+16 pirate-1 (turn 17): Pirate-1 heading to J2 to dig and share. After G2 and D1 are taken, remaining candidates: H1,H2,H3,I1,J1,I2,J2,I3 (G1 dug, not cave). Let's cover them all and alert on a find.
+17 pirate-4 (turn 20): Pirate-4 digging H1, sharing reading.
+18 pirate-4 (turn 24, alert): CAVE FOUND at H1! I'm entering now. Everyone, come to H1 and enter.
+19 pirate-1 (turn 25): Pirate-1 heading to H1 to enter. Great find, pirate-4!
+20 pirate-2 (turn 26): Great work, pirate-4! Going to H1 to enter.
+21 pirate-3 (turn 27): Pirate-3 heading to H1 to enter. Nice find, pirate-4!
+22 pirate-1 (turn 34): Pirate-1 entering the cave at H1. See you all inside!
+23 pirate-2 (turn 37): Waiting for pirate-3 to clear H3, then heading straight down H to enter at H1.
+24 pirate-2 (turn 39): Column H is clear; heading to H1 to enter.
+25 pirate-3 (turn 42): Pirate-3 entering the cave at H1. See you inside, pirate-2!
+26 pirate-2 (turn 44): Entering the cave at H1. All pirates in!

@@ -1,0 +1,22 @@
+1 pirate-1 (turn 1): P1 digging A3, sharing reading.
+2 pirate-1 (turn 1, shared): Dug A3: 1 away.
+3 pirate-2 (turn 2): P2 digging H1, sharing reading. Crew: please share every dig so we can triangulate.
+4 pirate-2 (turn 2, shared): Dug H1: 8 away.
+5 pirate-3 (turn 3): P3 digging J8. Sharing so we can triangulate. Suggest each pirate digs nearby spots and shares.
+6 pirate-3 (turn 3, shared): Dug J8: 13 away.
+7 pirate-4 (turn 4): P4 digging C10, sharing reading for triangulation.
+8 pirate-4 (turn 4, shared): Dug C10: 9 away.
+9 pirate-1 (turn 5): Cave is at A2 (my A3 dig was 1 away). Heading there to enter.
+10 pirate-2 (turn 6): P2 heading to C2. Cave is likely in the A1-E6 zone; let's VERIFY with digs before entering. P4 please dig around A4-A6, P3 dig around E3-E5.
+11 pirate-3 (turn 7): P3 heading to E4 to dig and share; E4 is in the E3-E5 zone and a candidate. Will share reading.
+12 pirate-4 (turn 8): P4 heading to C4 (candidate + central) to dig & share; that should narrow the set well.
+13 pirate-1 (turn 9, alert): Cave is at A2! Digging it now to open it. All pirates, head to A2 to enter.
+14 pirate-2 (turn 10): P2 moving to D2 to dig & share (a top candidate). If A2 dig confirms cave, great; if not, D2's reading should help pinpoint. I'm close either way.
+15 pirate-3 (turn 11): P3 continuing to E4 to dig & share; E4 is in the candidate set and roughly on the way. If A2 confirms as cave I'll pivot to it.
+16 pirate-4 (turn 12): P4 continuing to C4 to dig & share (a candidate + central). If A2 dig confirms cave I'll pivot to A2 to enter.
+17 pirate-1 (turn 13): P1 entering the cave at A2 now. P2/P3/P4: the cave is open here, come to A2 and enter!
+18 pirate-2 (turn 23): P2 heading to A2 to enter. Cave confirmed opened; great work P1.
+19 pirate-4 (turn 28): P4 heading to A2 to enter now.
+20 pirate-2 (turn 32): P2 entering the cave at A2. Great triangulation, crew!
+21 pirate-3 (turn 35): P3 heading to A2 to enter. On my way!
+22 pirate-4 (turn 38): P4 entering the open cave at A2 now. Great work, crew!

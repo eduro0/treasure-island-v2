@@ -1,0 +1,24 @@
+1 pirate-1 (turn 1): Pirate-1 at J8. I'll dig and share readings. Please all share digs openly; noisy readings (±4) mean we need several distinct points.
+2 pirate-1 (turn 1, shared): Dug J8: 1 away.
+3 pirate-2 (turn 2): Pirate-2 at C10 digging and sharing.
+4 pirate-2 (turn 2, shared): Dug C10: 5 away.
+5 pirate-3 (turn 3): Pirate-3 at A3, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug A3: 13 away.
+7 pirate-4 (turn 4): Pirate-4 at H1 digging and sharing.
+8 pirate-4 (turn 4, shared): Dug H1: 12 away.
+9 pirate-1 (turn 5): Pirate-1 from J8, reading was 1-away so treasure is within 5. F8 is consistent with all shared readings; I'm heading there to dig.
+10 pirate-2 (turn 6): Consistent candidates from readings are roughly east side near J8. I'll dig C5 for a south-side reading and share.
+11 pirate-3 (turn 7): Readings narrow treasure to 14: E8 F7 F8 G8 I8 F9 G9 H9 I9 J9 G10 H10 I10 J10. Heading E8 to dig; please dig other candidates and share.
+12 pirate-4 (turn 8): Pirate-4 at H1 heading to candidate H9 to dig and share.
+13 pirate-1 (turn 21): Pirate-1 at F8, digging this candidate now.
+14 pirate-1 (turn 25, alert): CAVE at F8! Head to F8 and enter.
+15 pirate-2 (turn 26): Pirate-2 at C5 heading to F8 to enter. Great find, Pirate-1!
+16 pirate-3 (turn 27): Pirate-3 at E4, heading to F8 to enter. Nice find, Pirate-1!
+17 pirate-4 (turn 28): Pirate-4 at H6 heading to F8 to enter. Great find, Pirate-1!
+18 pirate-2 (turn 32): Pirate-2 at E5, blocked east by pirate-3 at F5; going north to E8 then one step to F8 to enter.
+19 pirate-3 (turn 33): Pirate-3 at F5, waiting for F6 to clear (pirate-4 is passing north to F8), then straight to F8 to enter.
+20 pirate-3 (turn 36): Pirate-3 at F5, F6 is clear now—heading straight north to F8 to enter.
+21 pirate-4 (turn 40): Pirate-4 entering the cave at F8. See you all inside!
+22 pirate-2 (turn 41): Pirate-2 at E8, one step east to F8 to enter. See you inside!
+23 pirate-2 (turn 43): Pirate-2 entering the cave at F8. Fantastic treasure hunt, crew!
+24 pirate-3 (turn 44): Pirate-3 entering the cave at F8. Great teamwork, everyone!

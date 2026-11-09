@@ -1,0 +1,20 @@
+1 pirate-1 (turn 1): P1 at J5. I dig J5 now (shared). Crew plan: share every dig. Readings = true manhattan dist ±4 (never <1). We'll intersect candidates, then converge and dig cave. Report your digs with squares.
+2 pirate-1 (turn 1, shared): Dug J5: 1 away.
+3 pirate-2 (turn 2): P2 at F10. Dig F10 shared now.
+4 pirate-2 (turn 2, shared): Dug F10: 6 away.
+5 pirate-3 (turn 3): P3 at A6. Dig A6 shared now.
+6 pirate-3 (turn 3, shared): Dug A6: 6 away.
+7 pirate-4 (turn 4): P4 at E1. Dig E1 shared now.
+8 pirate-4 (turn 4, shared): Dug E1: 14 away.
+9 pirate-1 (turn 5, alert): P1: Using all shared readings (±4), candidates are J6, J7, I7, I8. I'll dig J6 now. Pirates 2-4, head toward J6 area; once cave opens, stand on it and enter.
+10 pirate-2 (turn 6): P2: P1's list misses H8: fits J5(d5), F10(d4), A6(d9), E1(d10). Heading H8 now to dig it. Candidates: H8, I7, I8, J6, J7.
+11 pirate-3 (turn 7): P3: full candidates H8,I7,I8,J6,J7. I head to I7 to dig it. P4, please take I8 or J7.
+12 pirate-4 (turn 8): P4: taking I8 per plan. When anyone opens the cave, please ALERT with the square so walkers stop and reroute.
+13 pirate-1 (turn 9): P1: digging J6 now (shared). If this is the cave I'll alert; else its reading will refine candidates.
+14 pirate-1 (turn 13, alert): P1: CAVE OPEN at J6! I'm entering now. Pirates 2-4: come to J6 and enter.
+15 pirate-2 (turn 14): P2 at H10, heading to J6 now (~6 steps), will enter on arrival.
+16 pirate-3 (turn 15): P3 at C6, heading to J6 (~7 steps east). Will enter on arrival.
+17 pirate-4 (turn 16): P4 at G1, heading to J6, will enter on arrival.
+18 pirate-2 (turn 32): P2 entering the cave at J6 now. Good hunting, crew.
+19 pirate-3 (turn 35): P3 entering the cave at J6 now. Crew complete — good hunting, everyone!
+20 pirate-4 (turn 37): P4 entering the cave at J6 now. Bounty secured — well dug, crew!

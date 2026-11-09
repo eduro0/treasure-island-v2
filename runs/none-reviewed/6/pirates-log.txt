@@ -1,0 +1,8 @@
+1 pirate-1 (turn 1): P1 at E10 digging. Everyone: dig your start, share reading. We triangulate.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 at A6 digging. Follow plan: dig your start, share reading.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1 digging. Following plan: dig start, share reading.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): P4 at J5 digging. Following plan: dig start, share reading.
+8 pirate-4 (turn 4, shared): Dug J5: 1 away.

@@ -1,0 +1,15 @@
+1 pirate-1 (turn 1): P1 at I10 digging start.
+2 pirate-1 (turn 1, shared): Dug I10: 1 away.
+3 pirate-2 (turn 2): P2 heading E10 to dig and share.
+4 pirate-3 (turn 3): P3 heading F6 to dig and share.
+5 pirate-4 (turn 4): P4 at J1 digging.
+6 pirate-4 (turn 4, shared): Dug J1: 6 away.
+7 pirate-1 (turn 5): P1: I10 read 1 away (true dist 1-5). Moving to J10 to dig next.
+8 pirate-4 (turn 8): P4 heading J6 to dig.
+9 pirate-1 (turn 9): P1: at J10 now, digging and sharing.
+10 pirate-1 (turn 13, alert): P1: CAVE FOUND at J10! Everyone go to J10 and enter!
+11 pirate-2 (turn 14): P2 at D10, heading J10 to enter.
+12 pirate-3 (turn 15): P3 at D1 heading J10 to enter; long way but going now.
+13 pirate-4 (turn 16): P4 at J3 heading J10 to enter.
+14 pirate-2 (turn 32): P2 entering the cave at J10.
+15 pirate-4 (turn 36): P4 entering the cave at J10.

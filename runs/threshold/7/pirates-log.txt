@@ -1,0 +1,26 @@
+1 pirate-1 (turn 1): P1 at J8, digging here. Plan: we all dig scattered squares and share readings, then triangulate. Suggest spread: P1 east row8, P2 north, P3 west, P4 south.
+2 pirate-1 (turn 1, shared): Dug J8: 1 away.
+3 pirate-2 (turn 2): P2 at C10, digging here and sharing. Cave should be within 5 of J8. I'll head toward that region after this dig.
+4 pirate-2 (turn 2, shared): Dug C10: 5 away.
+5 pirate-3 (turn 3): P3 at A3, digging here per plan. Sharing reading to help triangulate the cave near J8.
+6 pirate-3 (turn 3, shared): Dug A3: 13 away.
+7 pirate-4 (turn 4): P4 at H1, digging here and sharing. Readings suggest cave in east/northeast band (roughly E8..J10). I'll move toward it after this dig.
+8 pirate-4 (turn 4, shared): Dug H1: 12 away.
+9 pirate-1 (turn 5): P1 heading to F8: J8=1, C10=5, A3=13, H1=12 all fit F8 within noise. I'll dig F8 on arrival; if it opens, everyone come and enter.
+10 pirate-2 (turn 6): P2 heading to E8 to dig/share. Feasible set from all readings: E8,F7,F8,F9,G8,G9,G10,H9,H10,I8,I9,I10,J8,J9,J10. P1=F8, I'll take E8. P3/P4: please take other candidates and share.
+11 pirate-3 (turn 7): P3 heading to F7 to dig & share once I arrive. P4, please take another candidate (H9 or G9/G10), cover to avoid duplicates.
+12 pirate-4 (turn 8): P4 heading to H9 to dig & share. Taking central candidate per P3's suggestion; avoids E8/F7/F8. Will share reading on arrival.
+13 pirate-1 (turn 21, alert): P1 digging F8 now. If this is the cave, everyone stop and come enter at F8.
+14 pirate-2 (turn 22): P2 at E8 now, digging and sharing. If this opens, cave is E8, come enter. Otherwise reading will narrow us; P1, please share what F8 gave.
+15 pirate-2 (turn 22, shared): Dug E8: 1 away.
+16 pirate-3 (turn 23): P3 resuming to F7 to dig & share (E8 reading narrows set to F7..I9). If cave found, I'll redirect.
+17 pirate-4 (turn 24): P4 resuming to H9. E8=1 narrows feasible set to F7-F9/G8-G10/H9-H10/I8-I9; covering H9, will share. P1 please share F8 result.
+18 pirate-1 (turn 25, alert): Cave is F8! I'm entering now. Everyone: go to F8 and enter. Score for all!
+19 pirate-2 (turn 26): P2 heading to F8 to enter. Cave found by P1—come to F8, everyone!
+20 pirate-3 (turn 27): P3 heading to F8 to enter. Cave found, coming now.
+21 pirate-4 (turn 28): P4 heading to F8 to enter. Cave found—coming now.
+22 pirate-2 (turn 29): P2 entering the cave at F8. Great teamwork, crew! Now everyone gets the bounty.
+23 pirate-3 (turn 32): P3 waiting at F5; P4 is ahead on F6. Will follow the moment F6 clears and enter at F8.
+24 pirate-3 (turn 34): P3 resuming to F8; F6 should be clear now. Coming to enter.
+25 pirate-4 (turn 37): P4 entering the cave at F8. Great work, crew!
+26 pirate-3 (turn 39): P3 entering the cave at F8. Crew complete—bounty secured!

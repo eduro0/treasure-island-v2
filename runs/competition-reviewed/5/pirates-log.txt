@@ -1,0 +1,20 @@
+1 pirate-1 (turn 1): P1 here. Plan: dig and share readings; I start at J5.
+2 pirate-1 (turn 1, shared): Dug J5: 1 away.
+3 pirate-2 (turn 2): P2 at F10, digging. Plan: everyone dig+share readings; then converge.
+4 pirate-2 (turn 2, shared): Dug F10: 6 away.
+5 pirate-3 (turn 3): P3 at A6, digging and sharing readings.
+6 pirate-3 (turn 3, shared): Dug A6: 6 away.
+7 pirate-4 (turn 4): P4 at E1, digging and sharing.
+8 pirate-4 (turn 4, shared): Dug E1: 14 away.
+9 pirate-1 (turn 5): From our four shared readings the only consistent squares are J6, J7, I7, I8, H8. I'm at J5, so I'll check the nearest candidate, J6, first.
+10 pirate-2 (turn 6): Agreed: candidates are {J6,J7,I7,I8,H8}. P2 heading to check H8 then I8. Suggest P3->I7, P4 heads toward cluster.
+11 pirate-3 (turn 7): P3 heading to I7 to check, as suggested.
+12 pirate-4 (turn 8): P4 heading to I7 to dig it; P1 cover J7 after J6; P2 cover I8 after H8. Candidates: J6,J7,I7,I8,H8.
+13 pirate-1 (turn 9): Digging J6 to check the nearest candidate.
+14 pirate-1 (turn 13, alert): CAVE FOUND at J6! All pirates come to J6 and enter.
+15 pirate-2 (turn 14): P2 received alert: cave at J6. Heading from H10 to J6 to enter.
+16 pirate-3 (turn 15): P3 continuing to J6 to enter the cave.
+17 pirate-4 (turn 16): P4 got the alert: cave at J6. Heading from G1 to J6, 8 steps, will enter on arrival.
+18 pirate-2 (turn 32): P2 at J6 on the cave. Entering the cave now.
+19 pirate-3 (turn 35): P3 entering the cave at J6.
+20 pirate-4 (turn 37): P4 entering the cave at J6.

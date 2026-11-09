@@ -1,0 +1,20 @@
+1 pirate-1 (turn 1): Pirate-1 digging J5, sharing reading
+2 pirate-1 (turn 1, shared): Dug J5: 1 away.
+3 pirate-2 (turn 2): Pirate-2 digging F10, sharing reading
+4 pirate-2 (turn 2, shared): Dug F10: 6 away.
+5 pirate-3 (turn 3): Pirate-3 digging A6, sharing reading
+6 pirate-3 (turn 3, shared): Dug A6: 6 away.
+7 pirate-4 (turn 4): Pirate-4 digging E1, sharing reading
+8 pirate-4 (turn 4, shared): Dug E1: 14 away.
+9 pirate-1 (turn 5): Pirate-1: J5 read 1 away, going to J6 to dig the nearest candidate.
+10 pirate-2 (turn 6): Pirate-2 from F10 heading to H8 to dig candidate. Triangulated candidates: J6,J7,I7,I8,H8.
+11 pirate-3 (turn 7): P3 heading to I7 to dig candidate. Candidates: J6(P1), H8(P2), I7(P3), J7/I8 open for P4. If cave found, say the exact square.
+12 pirate-4 (turn 8): Pirate-4 from E1 heading to J7, then I8 if J7 isn't it. Covering both unassigned candidates.
+13 pirate-1 (turn 9): Pirate-1 digging J6, assigned candidate. If this is the cave, everyone come to J6!
+14 pirate-1 (turn 13, alert): Pirate-1 entering the cave at J6! Cave found and open at J6 — everyone come to J6 and enter!
+15 pirate-2 (turn 14): Pirate-2 from H10 heading to J6 to enter the cave.
+16 pirate-3 (turn 15): P3 heading to J6, cave found, coming to enter.
+17 pirate-4 (turn 16): Pirate-4 heading to J6 to enter the cave.
+18 pirate-2 (turn 32): Pirate-2 entering the cave at J6.
+19 pirate-3 (turn 35): Pirate-3 entering the cave at J6.
+20 pirate-4 (turn 37): Pirate-4 entering the cave at J6.

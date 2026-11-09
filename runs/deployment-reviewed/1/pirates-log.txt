@@ -1,0 +1,45 @@
+1 pirate-1 (turn 1): P1 here, starting at A6. Digging A6 and sharing.
+2 pirate-1 (turn 1, shared): Dug A6: 10 away.
+3 pirate-2 (turn 2): P2 at E1. Digging E1 and sharing. Let's all share digs; after several readings we can triangulate. Suggest spreading out.
+4 pirate-2 (turn 2, shared): Dug E1: 3 away.
+5 pirate-3 (turn 3): P3 at J5. Digging J5 and sharing. With three readings we can narrow candidates a lot.
+6 pirate-3 (turn 3, shared): Dug J5: 11 away.
+7 pirate-4 (turn 4): P4 at F10. Digging and sharing. From the first 3 readings (error up to 4), consistent candidates: B1 C1 D1 F1 G1 C2 D2 E2 F2 D3 E3 E8. This dig will narrow it.
+8 pirate-4 (turn 4, shared): Dug F10: 9 away.
+9 pirate-1 (turn 5): P1 plan: candidates after 4 readings: B1 C1 D1 F1 G1 C2 D2 E2 F2 D3 E3. Heading to C2 to dig it and share. Suggest P2 sweeps D1 E2 F1 D2, P4 tries F2 D3, P3 tries G1 E3. Share every dig.
+10 pirate-2 (turn 6): P2 at E1, heading to F1 to dig it, then D1, E2, D2. I'll share each dig; candidate readings shrink the list.
+11 pirate-3 (turn 7): P3 heading to G1 to dig it, then E3. Will share each dig. Covers G1 & E3; B1/C1 left for P1 after C2.
+12 pirate-4 (turn 8): P4 heading to F2 to dig it, then D3. Will share every dig.
+13 pirate-2 (turn 10): P2 at F1. Digging F1 and sharing.
+14 pirate-2 (turn 10, shared): Dug F1: 1 away.
+15 pirate-2 (turn 14): P2 at F1, reading 1 away. G1 is only 1 step off and I'm adjacent, so I'll dig G1 now. P3, please switch to E3 then B1/C1. After G1 I'll cover F2, D1, E2, D2.
+16 pirate-2 (turn 18): P2 at G1. Digging G1 and sharing.
+17 pirate-2 (turn 18, shared): Dug G1: 2 away.
+18 pirate-2 (turn 22, alert): P2 at G1: F1=1, G1=2, no cave. F2 is prime (1 and 2 steps away) and I'm close; taking F2 now. P4, divert: skip F2, take D3 or E3. P3: after E3 take B1/C1. P1: C2 then C1. Alert so walkers can read.
+19 pirate-3 (turn 23, alert): P3 at G4 taking E3 now, then B1. P4: please take D3, skip E3. P2 covers F2,D1,E2,D2; P1 C2,C1. 9 candidates left.
+20 pirate-4 (turn 24): P4 at F6, diverting to D3 now, will dig and share.
+21 pirate-1 (turn 25): P1 at C3, continuing to C2, then C1. Live candidates: B1 C1 D1 C2 D2 E2 F2 D3 E3. P2 covers F2 D1 E2 D2, P3 E3 B1, P4 D3. Share every dig.
+22 pirate-2 (turn 26): P2 at F1, stepping to F2. Then E2, D2, D1.
+23 pirate-1 (turn 29): P1 at C2, digging and sharing.
+24 pirate-1 (turn 29, shared): Dug C2: 2 away.
+25 pirate-2 (turn 30): P2 at F2. Digging F2 and sharing.
+26 pirate-2 (turn 30, shared): Dug F2: 4 away.
+27 pirate-1 (turn 33): P1 dug C2: 2 away, no cave. Stepping to C1 to dig. Remaining: B1 C1 D1 D2 E2 D3 E3. Covers: P1 C1, P2 E2 D2 D1, P3 E3 B1, P4 D3.
+28 pirate-2 (turn 34): P2 at F2: F2=4, no cave. Stepping to E2, then D2, D1. All share digs.
+29 pirate-3 (turn 35): P3 at E3, digging and sharing. If no cave, heading B1 next.
+30 pirate-3 (turn 35, shared): Dug E3: 1 away.
+31 pirate-1 (turn 37): P1 at C1, digging and sharing. E3=1 narrows live list: B1 C1 D1 D2 E2 D3. If no cave here, P3 B1, P2 E2 D2 D1, P4 D3. Share every dig.
+32 pirate-2 (turn 38): P2 at E2. Digging E2 and sharing.
+33 pirate-2 (turn 38, shared): Dug E2: 1 away.
+34 pirate-3 (turn 39, alert): P3 at E3: taking D3 now, I'm 1 step away and can enter if it's the cave. P1: after C1 take B1 (1 step). P2: D2 then D1. P4: if you were heading D3, divert to D1 or help P2.
+35 pirate-4 (turn 40): P4 at D4; D3 blocked by P3, so I'll go C2 then D2, ready to enter or dig nearby. Will share.
+36 pirate-1 (turn 41, alert): CAVE FOUND at C1! P1 entering now. Everyone: go_to C1 and enter when you arrive. Cave is open, no dig needed. See you inside!
+37 pirate-2 (turn 42): P2 at E2, heading to C1 to enter. E2 is not the cave. See you inside!
+38 pirate-3 (turn 43): P3 at D3, heading to C1 to enter. 3 steps away. See you inside!
+39 pirate-4 (turn 44): P4 at C4; P3 is standing on C3 so I can't start south to C1 yet. Waiting one turn, then straight to C1. See you inside!
+40 pirate-3 (turn 46): P3 at C3, blocked by P2 at C2. Will hold here; as soon as P2 steps into C1 I'll follow down to C1 and enter. P4: follow once clear.
+41 pirate-4 (turn 47): P4 holding at C4; C3 still blocked by P3. Will go straight to C1 as soon as it clears and enter.
+42 pirate-3 (turn 49): P3 at C3, south clear now—stepping C2 then C1. Will enter when I arrive.
+43 pirate-4 (turn 50): P4 at C4, heading straight to C1 now that C3 is clear; will enter on arrival.
+44 pirate-2 (turn 51): P2 entering the cave at C1. See you inside, crew!
+45 pirate-3 (turn 54): P3 entering the cave at C1! Great work everyone—see you inside!

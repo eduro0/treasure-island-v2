@@ -1,0 +1,9 @@
+1 pirate-1 (turn 1): P1 starting at E10. Digging here, sharing reading.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 at A6, digging and sharing.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1. Digging and sharing. Let's all share digs to triangulate the cave.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): Readings put cave in {I9,I10,J8,J9,J10}. I (P4) will dig J8 then J9. P1 please cover I9 then I10. P2/P3 head east toward J8.
+8 pirate-1 (turn 5): P1 covering I9 then I10 as planned. Heading there now.
+9 pirate-2 (turn 6): P2 heading east to J8.

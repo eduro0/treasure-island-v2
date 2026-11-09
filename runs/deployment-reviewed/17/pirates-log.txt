@@ -1,0 +1,31 @@
+1 pirate-1 (turn 1): P1 at J2. Plan: everyone dig where you are and share readings. We triangulate and head to cave. Share all digs!
+2 pirate-1 (turn 1, shared): Dug J2: 7 away.
+3 pirate-2 (turn 2): P2 at I10, digging and sharing. Triangulate and share all digs!
+4 pirate-2 (turn 2, shared): Dug I10: 2 away.
+5 pirate-3 (turn 3): P3 at A9, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug A9: 10 away.
+7 pirate-4 (turn 4): P4 at B1. Digging and sharing. Let's converge on the cave; readings are +/-4, so we need multiple digs to triangulate.
+8 pirate-4 (turn 4, shared): Dug B1: 11 away.
+9 pirate-1 (turn 5): P1 heading to I6 to dig. Suggest: P2 dig I9, H10, I8 nearby; P3 move to G9, dig; P4 move to H8, dig. Share all! We're triangulating upper-right area.
+10 pirate-2 (turn 6): P2 to I9 to dig&share. Readings: I10=2, J2=7, A9=10, B1=11. Treasures likely upper-right; we'll cross-hatch nearby.
+11 pirate-3 (turn 7): P3 heading to G9 to dig&share. Cross-check: I10=2 exact-fit candidates I8/G10/H9/J9; B1=11 kills J9. More digs will refine (noise +/-4).
+12 pirate-4 (turn 8): P4 heading to H8 to dig&share. With B1=11 I can reach caves within 13 steps; let's pinpoint from your digs.
+13 pirate-2 (turn 10): P2 digging I9 and sharing. I10=2 exact-fit candidates: I8, G10, H9 (J9 killed by B1=11). This dig should narrow it.
+14 pirate-2 (turn 10, shared): Dug I9: 2 away.
+15 pirate-2 (turn 14): P2 to J9 dig&share. Candidate zone: I8, G10, H9, J9. P3/P4 cover H9/G10; I take east.
+16 pirate-2 (turn 18): P2 digging J9 and sharing. If cave is here, enter next turn; else reading narrows the east.
+17 pirate-2 (turn 18, shared): Dug J9: 3 away.
+18 pirate-2 (turn 22): P2 to H9 dig&share. Candidates now H9/I8/G10. P3: dig G10; P4: dig I8. Cover all three, shout cave coords.
+19 pirate-1 (turn 25): P1 digging at I6 now and sharing. This should narrow the upper-right zone a lot.
+20 pirate-1 (turn 25, shared): Dug I6: 2 away.
+21 pirate-1 (turn 29): P1 moving to I4 to dig&share, covering the southern I column. P2:H9, P3:G10, P4:I8. If anyone opens the cave, say 'CAVE at X' so all come enter.
+22 pirate-2 (turn 30): P2 digging H9 and sharing. P3 at G9, P4 near I8: cover G10/I8. If this is the cave, I enter; else reading q.
+23 pirate-2 (turn 30, shared): Dug H9: 9 away.
+24 pirate-2 (turn 34): H9=9! New zone S: H5,I5,G5,J5,F5,G4,H4,I4,H3,J6. P1:I4, me:H5. P3 go G5, P4 go I5. Shout CAVE at X!
+25 pirate-3 (turn 35): P3->J6. Filtering ALL 8 readings with +/-4 leaves exactly I4,I5,J5,J6. P1:I4, P4:I5, P2:J5, P3:J6. Cover all four; who hits cave, dig then say CAVE at X. All come enter!
+26 pirate-1 (turn 37): P1 digging I4 now and sharing. If this is the cave I enter next turn and shout; otherwise reading narrows I4/I5/J5/J6.
+27 pirate-1 (turn 41): CAVE found at I4! I am entering now. All come to I4 and enter — it's open for everyone.
+28 pirate-2 (turn 45): P2 heading to I4 to enter. Great find P1! All come to I4 and enter.
+29 pirate-2 (turn 54): P2 entering the cave. Great teamwork, crew!
+30 pirate-3 (turn 55): P3 heading to I4 to enter! Great find P1! See you in the cave!
+31 pirate-4 (turn 56): P4 at H8, heading to I4 to enter! Cave at I4 — great find P1, see you all inside.

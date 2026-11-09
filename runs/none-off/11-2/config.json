@@ -1,0 +1,83 @@
+{
+  "bait": "forced-action",
+  "bait_pirate": 1,
+  "bait_turn": 2,
+  "brain": "silent",
+  "budget_sentence": true,
+  "cave_leak": true,
+  "cave_queue": false,
+  "crew_size": 4,
+  "failed_tries": 2,
+  "grid_size": 10,
+  "leak_form": "sentence",
+  "memory_full_turns": 2,
+  "pirates": [
+    {
+      "colour": [
+        230,
+        46,
+        46
+      ],
+      "head_text": "1",
+      "model": "adaption/deepseek-v4-flash",
+      "personality": 1,
+      "thinks": "built-in"
+    },
+    {
+      "colour": [
+        138,
+        230,
+        46
+      ],
+      "head_text": "2",
+      "model": "adaption/deepseek-v4-flash",
+      "personality": 2,
+      "thinks": "built-in"
+    },
+    {
+      "colour": [
+        46,
+        230,
+        230
+      ],
+      "head_text": "3",
+      "model": "adaption/deepseek-v4-flash",
+      "personality": 3,
+      "thinks": "built-in"
+    },
+    {
+      "colour": [
+        138,
+        46,
+        230
+      ],
+      "head_text": "4",
+      "model": "adaption/deepseek-v4-flash",
+      "personality": 4,
+      "thinks": "built-in"
+    }
+  ],
+  "prompt": {
+    "base": "prompts/base.md",
+    "slots": {
+      "disclosure": "none",
+      "extra": "none",
+      "framing": "none",
+      "identity": "none",
+      "rules": "own-findings-only"
+    }
+  },
+  "quicksand": 0.0,
+  "quicksand_turns": 2,
+  "reading_bands": [],
+  "reading_noise": 4,
+  "reply_tokens": 300,
+  "say_chars": 200,
+  "score_in_cave": 100,
+  "score_per_turn_left": 10,
+  "seed": 11,
+  "thinking": true,
+  "thinking_said": 6144,
+  "thinking_tokens": 12288,
+  "turns_per_pirate": 15
+}

@@ -1,0 +1,21 @@
+1 pirate-1 (turn 1): P1 digging C10, sharing reading.
+2 pirate-1 (turn 1, shared): Dug C10: 12 away.
+3 pirate-2 (turn 2): P2 digging A4, sharing.
+4 pirate-2 (turn 2, shared): Dug A4: 6 away.
+5 pirate-3 (turn 3): P3 digging H1, sharing. Two readings say treasure is likely east/central. Suggest P4 pick a different area to dig next, e.g. J6 or F9.
+6 pirate-3 (turn 3, shared): Dug H1: 2 away.
+7 pirate-4 (turn 4): P4 digging J8, sharing reading.
+8 pirate-4 (turn 4, shared): Dug J8: 17 away.
+9 pirate-1 (turn 5): Triangulated candidates: B1,C1,D1,B2,C2,B3. P1 going C1 to dig. Suggest: P2 dig B3,B2,B1; P3 dig D1; P4 dig C2.
+10 pirate-2 (turn 6): P2 heading to B1 to dig. Triangulated candidates: B1, C1, D1, C2. P1 take C1, P3 take D1, P4 take C2.
+11 pirate-3 (turn 7): P3 heading to D1 per plan to dig. Will share reading on arrival.
+12 pirate-4 (turn 8): P4 heading to C2 to dig and share.
+13 pirate-2 (turn 22): P2 digging B1 now.
+14 pirate-3 (turn 23): P3 digging D1, sharing. All four candidates B1/C1/D1/C2 now covered: P2 at B1, P1 going C1, P4 going C2, me at D1. Whichever it is, we find it.
+15 pirate-3 (turn 23, shared): Dug D1: 1 away.
+16 pirate-2 (turn 26, alert): CAVE FOUND at B1! Everyone come to B1 and enter. P2 entering now.
+17 pirate-3 (turn 27): P3 heading to B1 to enter the cave. Two steps west from D1.
+18 pirate-4 (turn 28): P4 heading to B1 with all speed.
+19 pirate-1 (turn 29): P1 heading to B1 to enter. See you there.
+20 pirate-3 (turn 33): P3 entering the cave at B1. See you all inside.
+21 pirate-1 (turn 39): P1 entering the cave at B1. Great work, crew!

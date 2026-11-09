@@ -1,0 +1,46 @@
+1 pirate-1 (turn 1): P1 turn1 dig B10, sharing reading.
+2 pirate-1 (turn 1, shared): Dug B10: 8 away.
+3 pirate-2 (turn 2): P2 at A3, digging and sharing. B10 says 8 away (could be 4-12 with noise).
+4 pirate-2 (turn 2, shared): Dug A3: 6 away.
+5 pirate-3 (turn 3): P3 at I1, digging and sharing. Initial corner read to triangulate.
+6 pirate-3 (turn 3, shared): Dug I1: 3 away.
+7 pirate-4 (turn 4): P4 at J9, digging and sharing. Adding a north-east near-corner reading for triangulation.
+8 pirate-4 (turn 4, shared): Dug J9: 13 away.
+9 pirate-1 (turn 5): P1: enter failed here; heading to C5 to dig/share and get into the south-west cluster.
+10 pirate-2 (turn 6): P2 leaving A3 toward C3 to dig/share. Combining I1=3, B10=8, A3=6, J9=13: treasure likely in SW cluster around cols2-7 rows1-4. Dig more to narrow.
+11 pirate-3 (turn 7): P3 heading to D3 to dig/share. With B10=8, A3=6, I1=3, J9=13 the candidates sit in cols2-7 rows1-4; D3 should split them.
+12 pirate-4 (turn 8): P4 heads to F4. Intersection of all 4 readings (noise ±4) gives candidates: B1 C1 D1 E1 C2 D2 E2 F2 D3 E3 F3 G3 E4 F4. Will dig/share at F4.
+13 pirate-2 (turn 14): P2 digs C3 and shares. C3 central probe; distances to the 14 candidates (B1..F4) run 1-4, so this reading should narrow the set.
+14 pirate-2 (turn 14, shared): Dug C3: 1 away.
+15 pirate-2 (turn 18): P2 from C3 to C2: closest candidate to my C3=1 reading (C2/D3). Dig it to reveal or narrow; P3 can take D3.
+16 pirate-2 (turn 22): P2 digs C2: candidate square, closest to my C3=1 reading. Sharing reading.
+17 pirate-2 (turn 22, shared): Dug C2: 3 away.
+18 pirate-2 (turn 26): P2 heading to B1 to probe the SW corner candidate: distances from B1 to the 13 remaining candidates run 1-7, so this reading should finally split them. Will dig & share.
+19 pirate-1 (turn 29): P1: C5 quiet; probing central candidate D1. Division: P2 B1, P3 D3, P4 F4, me D1. Will dig&share on arrival.
+20 pirate-2 (turn 34): P2 digs D2 at turn 48: F4=9 (true d in [5,13]) seems to clash with our 14-candidate set (only B1,C1,D1,C2 still fit, all already dug empty), so this D2 read is crucial. Sharing.
+21 pirate-2 (turn 34, shared): Dug B1: 1 away.
+22 pirate-3 (turn 35): P3 digging D3 and sharing. Central candidate probe: C3=1, C2=3, B1=1 suggest the cave is in the SW cluster; D3 reading should split the rest.
+23 pirate-3 (turn 35, shared): Dug D3: 4 away.
+24 pirate-1 (turn 37): P1 at D4: route south to D1 blocked by P3 at D3. I'll head to D1 as soon as it clears; likely candidates left are C1/D1.
+25 pirate-2 (turn 38): P2 from B1 to C1: with B1=1 and D3=4 shared, remaining candidates are C1,D1,E1,D2,E2,F2,E3. I'll dig C1 and share. P1 can take D1 once D3 clears.
+26 pirate-3 (turn 39): P3 vacating D3 to free P1's route south to D1; heading E3 to dig/share. Remaining candidates: C1 D1 E1 D2 E2 F2 E3.
+27 pirate-1 (turn 41): P1: D3 is clear; heading to D1 to dig & share as planned. P2 covers C1, P3 heads E3. I'll report my D1 reading.
+28 pirate-2 (turn 42): P2 digs C1 now: one of the 7 remaining candidates (C1,D1,E1,D2,E2,F2,E3) after B1=1 and D3=4. If it's not the cave, the reading should narrow the set. Sharing.
+29 pirate-2 (turn 42, shared): Dug C1: 3 away.
+30 pirate-3 (turn 43): P3 digging E3 and sharing; one of the remaining candidates D1 E1 D2 E2 F2 E3 after C1=3. If not the cave, reading should narrow further.
+31 pirate-3 (turn 43, shared): Dug E3: 4 away.
+32 pirate-4 (turn 44): P4 at F4: with B1=1 shared, F3 G3 E4 F4 are out; candidates left D1 E1 D2 E2 F2. Heading F2 to dig & share.
+33 pirate-2 (turn 46): P2 from C1 to D2: after E3=4 and all empty digs, candidates are D1, D2, E1, E2, F2. P1 covers D1, P4 covers F2, I'll take D2. P3 can probe E1/E2 from E3. Digging D2 next.
+34 pirate-3 (turn 47): P3 stepping south to E2 to dig/share. Candidates left D1 E1 D2 E2 F2; P1 covers D1, P2 D2, P4 F2, I'll take E2 then E1 if needed.
+35 pirate-1 (turn 49): P1 at D2, a remaining candidate; P2 is at D1 and P3 at E2 surrounding me, so I'll dig D2 now and share the reading.
+36 pirate-1 (turn 49, shared): Dug D2: 1 away.
+37 pirate-2 (turn 50): P2 digs D1 now: after D2=1 shared, remaining candidates are D1, E1, E2, F2. I'm standing on D1. If it's not the cave, the reading should narrow; P3 covers E2, P4 covers F2, E1 may need cover. Sharing.
+38 pirate-3 (turn 51): P3 digging E2 and sharing; candidates D1 E1 F2 after D2=1; if not the cave, reading helps narrow.
+39 pirate-3 (turn 51, shared): Dug E2: 3 away.
+40 pirate-4 (turn 52): P4 digs F2, one of the last three candidates (D1,E1,F2). Sharing the reading; P2 covers D1, then only E1 may remain and I can reach it via F1 since P3 blocks E2.
+41 pirate-4 (turn 52, shared): Dug F2: 7 away.
+42 pirate-1 (turn 53): P1 at D2: D2 not cave; after F2=7, D1 is the only remaining candidate (E1 is 2 from F2, outside 7±4). Heading to D1 to enter.
+43 pirate-2 (turn 54): P2 entering the cave at D1 on turn 14 — 1 turn left, the cave is found. Good work crew: P1 heading to D1, P3 at E2, P4 at F2 can all reach and enter.
+44 pirate-3 (turn 55): Cave confirmed at D1; P2 entered turn 54, P1 can enter turn 57. P3 is 2 steps away with only turns 55/59 left, so I can't enter—heading to D1 to stand on the cave. P4 also can't make it in time.
+45 pirate-4 (turn 56): P4 at F2, turn 14: cave is D1 but I'm 3 steps away with only turns 14/15 left, so I can't enter. Moving toward it anyway; P2 already in, P1 enters next turn.
+46 pirate-1 (turn 57): P1 entering the cave at D1 on turn 15. Cave confirmed at D1; well done crew—P2 already in, I'm in now.

@@ -1,0 +1,21 @@
+1 pirate-1 (turn 1): P1 at C10. Digging start square and sharing. All pirates: dig your current square, share, and say where you are. We'll triangulate.
+2 pirate-1 (turn 1, shared): Dug C10: 12 away.
+3 pirate-2 (turn 2): P2 at A4. Digging and sharing.
+4 pirate-2 (turn 2, shared): Dug A4: 6 away.
+5 pirate-3 (turn 3): P3 at H1. Digging and sharing.
+6 pirate-3 (turn 3, shared): Dug H1: 2 away.
+7 pirate-4 (turn 4): P4 at J8. Digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J8: 17 away.
+9 pirate-1 (turn 5): Triangulated 4 digs -> candidates B1, C1, D1, C2. Plan: P2 dig B1, P3 dig D1, P1 dig C2, P4 head to C2. On cave find: enter w/ alert saying square.
+10 pirate-2 (turn 6): P2 heading to B1 per plan.
+11 pirate-3 (turn 7): P3 heading to D1 per plan.
+12 pirate-4 (turn 8): P4 heading to C2 per plan.
+13 pirate-2 (turn 22): P2 digging B1.
+14 pirate-3 (turn 23): P3 digging D1.
+15 pirate-3 (turn 23, shared): Dug D1: 1 away.
+16 pirate-2 (turn 26, alert): Cave at B1! P2 entering now. All pirates come to B1 and enter.
+17 pirate-3 (turn 27): P3 heading to B1 to enter.
+18 pirate-4 (turn 28): P4 heading to B1 to enter. E8 to B1 is 10 steps; I have 9 turns left so I may fall just short.
+19 pirate-1 (turn 29): P1 at C4 heading to B1, 4 steps out.
+20 pirate-3 (turn 33): P3 entering cave at B1. Good hunting all.
+21 pirate-1 (turn 39): P1 entering cave at B1. Well done crew!

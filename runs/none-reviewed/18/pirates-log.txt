@@ -1,0 +1,38 @@
+1 pirate-1 (turn 1): P1 at I10. Plan: everyone dig a spread-out square and share readings; we'll triangulate. Please report your location.
+2 pirate-1 (turn 1, shared): Dug I10: 8 away.
+3 pirate-2 (turn 2): P2 at A9. Digging here and sharing.
+4 pirate-2 (turn 2, shared): Dug A9: 1 away.
+5 pirate-3 (turn 3): P3 at B1. Digging and sharing.
+6 pirate-3 (turn 3, shared): Dug B1: 12 away.
+7 pirate-4 (turn 4): P4 at J2. Digging and sharing.
+8 pirate-4 (turn 4, shared): Dug J2: 17 away.
+9 pirate-1 (turn 5): Candidates from 4 readings: A8,A9,A10,B8,B9,B10,C8,C9,C10,D9,D10,E10. P1 heading E10 to dig. Others please target nearby undug candidates and share.
+10 pirate-2 (turn 6): P2 heading B9 to dig and share.
+11 pirate-3 (turn 7): P3 from B1 heading C9 to dig and share. Remaining candidates cluster: A8,B9,A10,C8,C9,C10,D9,D10,E10.
+12 pirate-4 (turn 8): P4 heading D9 to dig. Valid candidates left: A8 A10 B10 C8 C10 D9 D10; B9(P2) C9(P3) E10(P1). B8 invalid: B1 to B8 is 7, below 8 min.
+13 pirate-2 (turn 10): P2 digging B9, sharing.
+14 pirate-2 (turn 10, shared): Dug B9: 4 away.
+15 pirate-2 (turn 14): P2 heading B10 to dig, then west cluster A10/A8.
+16 pirate-2 (turn 18): P2 digging B10, sharing.
+17 pirate-2 (turn 18, shared): Dug B10: 6 away.
+18 pirate-1 (turn 21): P1 at E10 digging and sharing.
+19 pirate-1 (turn 21, shared): Dug E10: 3 away.
+20 pirate-2 (turn 22): P2 heading A8. B10/E10 dug, A10/C10 eliminated. Candidates: A8 C8 C9 D9 D10. P1 take D10, P3 take C8 after C9, P4 takes D9.
+21 pirate-1 (turn 25): P1 heading D10 to dig. Confirming candidates A8,C8,C9,D9,D10; P2 A8, P3 C9 then C8, P4 D9, P1 D10.
+22 pirate-1 (turn 29): P1 digging D10, sharing.
+23 pirate-1 (turn 29, shared): Dug D10: 6 away.
+24 pirate-1 (turn 33): D10=6 excludes D9 (dist 1 from D10, below min 2). Left candidates: A8,C8,C9. P1 heading C9. P4/P3 cover C8 if not already.
+25 pirate-2 (turn 34): P2 digging A8, sharing.
+26 pirate-2 (turn 34, shared): Dug A8: 3 away.
+27 pirate-2 (turn 38): P2 heading to C8. A8=3 keeps C8/C9 only. Digging C8 next.
+28 pirate-3 (turn 39): P3 at C8, digging my standing candidate now.
+29 pirate-3 (turn 39, shared): Dug C8: 3 away.
+30 pirate-1 (turn 41): P1 at C9 digging final candidate. If cave, come to C9 to enter!
+31 pirate-2 (turn 42): P2 at B8 heading to C9 via B9. C8 dug=3 eliminates C8; C9 is the last candidate = cave. P1 enter if revealed; P3 move off C8 to C9 so others can pass; all come to C9 to enter.
+32 pirate-3 (turn 43): P3 heading to C9 to enter from C8.
+33 pirate-1 (turn 45): P1 found the cave at C9 and enters. Everyone, converge on C9 now!
+34 pirate-2 (turn 46): P2 at B9; east is blocked by P3 standing at C9. P3 please enter now to open the cave so the rest of us can step in. P4 converge to C9 as well.
+35 pirate-3 (turn 47): P3 entering the cave now. See you inside! Cave is at C9.
+36 pirate-2 (turn 49): P2 stepping into the cave at C9 now.
+37 pirate-2 (turn 51): P2 entering the cave at C9 now. Bounty secured!
+38 pirate-4 (turn 53): P4 stepping onto C9, but this is my last turn — I can't take the enter action. Well dug, crew. Bounty is yours.

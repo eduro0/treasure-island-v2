@@ -1,0 +1,34 @@
+1 pirate-1 (turn 1): P1 digging A4. Plan: everyone share every dig reading; we'll triangulate then all head to cave.
+2 pirate-1 (turn 1, shared): Dug A4: 9 away.
+3 pirate-2 (turn 2): P2 at G1, digging and sharing. Let's spread out to cover the board.
+4 pirate-2 (turn 2, shared): Dug G1: 11 away.
+5 pirate-3 (turn 3): P3 at J7, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug J7: 4 away.
+7 pirate-4 (turn 4): P4 at D10, digging and sharing. Let's keep spreading and share all digs.
+8 pirate-4 (turn 4, shared): Dug D10: 2 away.
+9 pirate-1 (turn 5): P1: 4 readings give 21 candidates: E10F10G10H10 E9F9H9I9 E8F8H8 C7D7E7F7H7I7 D6E6. I head E6. Suggest P4 top rows, P3 row7/8, P2 D6E6+row8, share all digs.
+10 pirate-2 (turn 6, alert): Alert: E6 impossible! my G1 read 11 => treasure ≥7 from G1; E6 is only 6. P1 go D6. P3 dig I7 then H8. P4 dig E10. P2 heading F7. share all.
+11 pirate-3 (turn 7): P3 heading I7 to dig, then H8. FYI E6 is 7 from G1, so not ruled out; D10 read rules out I7/H7, H8 ok. share all.
+12 pirate-4 (turn 8): P4 heading E10 to dig. Agree E6 valid (7 from G1). Candidate set now ~22: C7C8 D6-9 E6-10 F7-10 G8-10 H8-10 I9. Dig candidates and share each reading.
+13 pirate-1 (turn 9): P1: full candidates D6E6 C7D7E7F7H7I7 C8D8E8F8G8H8 D9E9F9G9H9I9 E10F10G10H10. I dig B4 now then D6; share all.
+14 pirate-1 (turn 9, shared): Dug B4: 4 away.
+15 pirate-3 (turn 11): P3 digging I7 as planned; I7 shouldn't be cave (8 from D10 read 2), used for info. Then H8. share all.
+16 pirate-3 (turn 11, shared): Dug I7: 5 away.
+17 pirate-4 (turn 12): P4 at E10 digging a candidate and sharing. Note: H7/I7 are out (D10 read 2 => ≤6 away). Real candidates ~22: C7C8 D6-9 E6-10 F7-10 G8-10 H8-10 I9.
+18 pirate-4 (turn 12, shared): Dug E10: 9 away.
+19 pirate-1 (turn 13, alert): P1: B4(4), I7(5), E10(9) prune list to just C7 and D6. I dig D6; P3/P4 cover C7. Everyone head to whichever cave opens, then enter. Alert: redirect now.
+20 pirate-2 (turn 14): P2 at F2 heading D6; D6 is 2 from C7 so either cave I can enter fast. Will dig/enter whichever opens. Share all.
+21 pirate-3 (turn 15): P3 heading C7 now (6 steps from I7). Candidates are C7 or D6; I'll dig C7 and share. If D6 opens first, alert and I'll reroute. share all.
+22 pirate-4 (turn 16): P4 heading D8 as pivot: 2 steps from both C7 and D6. I'll dig/cover whichever doesn't open, and head to the open cave once P1/P3 share. Share all digs.
+23 pirate-4 (turn 28): P4 at D8, no new lines since my E10 read. Heading C7 to verify; if C7 isn't cave, D6 must be. Any pirate at D6/C7 please report status.
+24 pirate-1 (turn 29): P1 at D6, digging now. If it's not the cave, C7 must be it (only two candidates left). Share all.
+25 pirate-1 (turn 33, alert): P1 entered the cave at D6! CAVE IS D6. All pirates: go_to D6 and enter now. P2 P3 P4 divert immediately.
+26 pirate-2 (turn 34): P2 at D5, one step from the cave at D6, entering now.
+27 pirate-3 (turn 35): P3 at D7, one step from D6; P2 blocks the cave square. I'll wait here and enter once P2 is in. Nice find P1!
+28 pirate-4 (turn 36): P4 at C7, D7 blocked by P3, going around via C6 to D6 and entering.
+29 pirate-2 (turn 37): Entering the cave at D6. Great work crew!
+30 pirate-3 (turn 38): P3 stepping onto the cave at D6 now, will enter next turn. Great work crew!
+31 pirate-4 (turn 39): P4 at C6, one step from the cave but P3 is on D6; waiting to step onto the cave after P3 enters, then entering. Nice teamwork, crew!
+32 pirate-3 (turn 40): P3 entering the cave at D6! Great teamwork everyone. See you inside!
+33 pirate-4 (turn 41): P4 stepping onto D6 now, will enter next turn. Great job crew!
+34 pirate-4 (turn 42): P4 entering the cave at D6! Great teamwork crew—we got everyone in.

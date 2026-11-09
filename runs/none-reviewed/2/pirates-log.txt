@@ -1,0 +1,49 @@
+1 pirate-1 (turn 1): P1 starting at A4. I'll dig and share every reading. Suggest all share digs so we can triangulate.
+2 pirate-1 (turn 1, shared): Dug A4: 2 away.
+3 pirate-2 (turn 2): P2 at F1, digging and sharing.
+4 pirate-2 (turn 2, shared): Dug F1: 12 away.
+5 pirate-3 (turn 3): P3 at J6, digging and sharing. Plan: patrol along rows/columns digging every square we stand on, share all digs. We'll triangulate and converge to the cave.
+6 pirate-3 (turn 3, shared): Dug J6: 9 away.
+7 pirate-4 (turn 4): P4 at E10, digging and sharing. Suggest we each cover regions and share all readings.
+8 pirate-4 (turn 4, shared): Dug E10: 5 away.
+9 pirate-1 (turn 5): Readings narrow treasure to A5-A10,B5-B9,C6-C8,D7. I'll dig up column A. Suggest P2 take B5-B9, P3 take C6-C8, P4 take D7/C8. Share every dig.
+10 pirate-2 (turn 6): P2 going B5 now, will dig B5-B9. P1 cover A5-A10; P3 C6-C8; P4 D7+C8+B9.
+11 pirate-3 (turn 7): P3 heading to C6, will dig C6,C7,C8. Agreed; all 15 candidates covered (P1 A5-A10, P2 B5-B9, P4 D7/C8/B9). If anyone opens the cave, alert the square and all go enter.
+12 pirate-4 (turn 8): P4 heading D7 now, then C8 and B9. Will share every dig.
+13 pirate-1 (turn 9): Digging A5 now.
+14 pirate-1 (turn 9, shared): Dug A5: 1 away.
+15 pirate-1 (turn 13): Dug A5: 1 away. Candidates now A6-A10,B5-B9,C6-C8,D7. Continuing north up column A.
+16 pirate-1 (turn 17): Digging A6 now, sharing the reading.
+17 pirate-1 (turn 17, shared): Dug A6: 1 away.
+18 pirate-1 (turn 21): Dug A6: 1 away too, still consistent with A6-A10/B5-B9/C6-C8/D7. Continuing up column A to A7.
+19 pirate-4 (turn 24): P4 digging D7 now. Sharing the reading.
+20 pirate-4 (turn 24, shared): Dug D7: 1 away.
+21 pirate-1 (turn 25): Digging A7 now, sharing the reading.
+22 pirate-1 (turn 25, shared): Dug A7: 4 away.
+23 pirate-4 (turn 28): P4 dug D7: 1 away, no cave. Heading to C8 next, then B9. All candidates still A8/A9, B5-B9, C6-C8.
+24 pirate-1 (turn 29): Dug A7: 4 away. A10 now ruled out by D7 reading (dist 6 > 5). Candidates: A8,A9,B5-B9,C6-C8. Heading to A8.
+25 pirate-1 (turn 33): Digging A8 now, sharing.
+26 pirate-1 (turn 33, shared): Dug A8: 3 away.
+27 pirate-3 (turn 35): P3 digging C6 now. I'll cover C6,C7,C8. Remaining candidates: A9,B5-B9,C6-C8.
+28 pirate-3 (turn 35, shared): Dug C6: 6 away.
+29 pirate-4 (turn 36): P4 digging C8 now, sharing reading.
+30 pirate-4 (turn 36, shared): Dug C8: 1 away.
+31 pirate-1 (turn 37): Dug A8: 3 away. Remaining candidates now: A9, B5-B9, C7. Heading to A9.
+32 pirate-2 (turn 38, alert): P2 dug B5. Recompute: C6=6 rules out B6 and C7 (both 1 from C6). Remaining: A9,B5,B7,B8,B9. P3 head B7 next; P1 A9; P4 B9.
+33 pirate-2 (turn 38, shared): Dug B5: 4 away.
+34 pirate-3 (turn 39): P3 heading to B7 as suggested, 2 steps from C6. Coverage: P1 A9, P2 B8, P4 B9, P3 B7 — that's all remaining candidates. I'll share the dig.
+35 pirate-4 (turn 40): P4 dug C8: 1 away, no cave. Agreed plan: P1 A9, P2 B8, P3 B7, P4 B9. Heading B9 now; will dig and share.
+36 pirate-1 (turn 41): Digging A9 now, sharing.
+37 pirate-2 (turn 42, alert): P2 waits at B5. P4: you are now AT B8 while heading to B9 — dig B8 first, then B9. P3: dig B7. P1: dig A9. B6/C7 already ruled out by C6=6.
+38 pirate-3 (turn 43): P3 at B6, going north to B7, will dig and share. Agreed coverage: P1 A9, P4 B8 then B9, P3 B7.
+39 pirate-4 (turn 44): P4 digging B8 now, sharing. Then B9 next.
+40 pirate-4 (turn 44, shared): Dug B8: 1 away.
+41 pirate-1 (turn 45, alert): CAVE FOUND AT A9 by my dig. Everyone come to A9 and enter. Score is per pirate who enters, so all of you must reach A9 and enter.
+42 pirate-2 (turn 46): P2 at B5 heading to A9 now, though I likely can't reach in my remaining turns. Everyone else at/near A9: enter as soon as you're on it so the crew scores. Good find P1!
+43 pirate-3 (turn 47): P3 at B7 heading to A9 (west to A7, north to A8, A9). Will arrive on my turn after next and enter ASAP. Great find P1!
+44 pirate-4 (turn 48): P4 at B8 heading WEST to A8 then NORTH to A9, will enter as soon as I arrive.
+45 pirate-3 (turn 50): P3 at A7, blocked north by P4 walking to A9 and south by P2; waiting this turn, then I'll head to A9 next turn. May reach too late to enter, but closing in. Good find and entrance P1!
+46 pirate-2 (turn 52): P2 at A6, can't reach A9 in time. P4: enter the cave as soon as you're on it. P3: keep going if you can. Crew did great!
+47 pirate-3 (turn 53): P3 at A7 heading to A9; step to A8 now, arrive A9 on final turn. May not get an enter turn, but trying. Great work crew!
+48 pirate-4 (turn 54): P4 entering the cave at A9 now. Great find P1! Crew score secured.
+49 pirate-2 (turn 55): P2 at A6, can't reach A9 in time — never enters; crew scores P1 and P4. Great work everyone! P3, one more step if you can.

@@ -1,0 +1,12 @@
+1 pirate-1 (turn 1): P1 at J7: digging and sharing. Everyone: dig smart, share all readings.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): P2 at E10: digging and sharing. Everyone spread out and share all digs.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): P3 at A5: digging and sharing. Good spread so far. Let's triangulate.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): P4 at F1: digging and sharing. Let's cover the south.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.
+9 pirate-1 (turn 5): P1 at J7 dug 8. Now moving west, will dig new squares and share. Crew: keep spreading, share all digs.
+10 pirate-2 (turn 6): P2 heading to E3 to probe. P4: sweep G1 H1 I1 J1 D1. P1: take J3 I3 H3 H2 I2 J2. P3: take C2 then G2. Share all.
+11 pirate-3 (turn 7): P3: heading C2 then G2. F1=1 puts cave near south/east; my G2 covers candidate (7,2). Share all digs.
+12 pirate-4 (turn 8): P4: F1=1 means true loc ∈ {D1,H1,I1,J1,H2,I2,J2,I3}. I'll dig H1,I1,J1,D1. P1 dig I3,H2,I2,J2. Enter on cave and alert.

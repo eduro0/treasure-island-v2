@@ -1,0 +1,29 @@
+1 pirate-1 (turn 1): P1 at A4, digging and sharing. Plan: all dig current spots and share; then triangulate.
+2 pirate-1 (turn 1, shared): Dug A4: 9 away.
+3 pirate-2 (turn 2): P2 at G1, digging and sharing as planned.
+4 pirate-2 (turn 2, shared): Dug G1: 11 away.
+5 pirate-3 (turn 3): P3 at J7, digging and sharing as planned.
+6 pirate-3 (turn 3, shared): Dug J7: 4 away.
+7 pirate-4 (turn 4): P4 at D10, digging and sharing as planned.
+8 pirate-4 (turn 4, shared): Dug D10: 2 away.
+9 pirate-1 (turn 5): P1 moving to D6, a central candidate from the readings (J7=4, D10=2). Suggest P2/P3/P4 probe squares in D-H, rows 5-10 and share; announce if you find the cave.
+10 pirate-2 (turn 6): P2 heading to G9 (hub). Candidate block from readings: rows 8-10, cols C-H, 16 squares. P4 cover row10; P3 cover H8/H9/I9; P1 cover C8/D8/D9; P2 digs G8/G9.
+11 pirate-3 (turn 7): P3 to H8 dig+share. Full candidates: D6 E6 C7 D7 E7 F7 C8 D8 E8 F8 G8 H8 D9 E9 F9 G9 H9 I9 E10 F10 G10 H10.
+12 pirate-4 (turn 8): P4 covering row10: heading E10, dig+share next.
+13 pirate-4 (turn 12): P4 digging E10, sharing the reading.
+14 pirate-4 (turn 12, shared): Dug E10: 9 away.
+15 pirate-4 (turn 16): E10=9 narrows to I9,H8,C7,D6. P4 to C7 dig+share. P2 take I9; P1 D6, P3 H8.
+16 pirate-3 (turn 19): P3 at H8, digging and sharing.
+17 pirate-3 (turn 19, shared): Dug H8: 6 away.
+18 pirate-3 (turn 23): P3 taking I9 (2 steps from H8), dig+share. Remaining: I9 C7 D6. P2 head to F8 to cover near C7/D6.
+19 pirate-1 (turn 25): P1 at D6 - the cave is here! Everyone come to D6 and enter when you arrive.
+20 pirate-1 (turn 29): P1 entering the cave at D6. Crew: head to D6 and enter when you arrive.
+21 pirate-3 (turn 31): P3 at I9 heading to D6, 8 steps away; entering when I arrive.
+22 pirate-3 (turn 34): P3 at H9 blocked by P2 at G9; rerouting via H8 to D6, coming.
+23 pirate-4 (turn 35): P4 at C7 heading to D6, entering when I arrive.
+24 pirate-2 (turn 36): P2 at G9 now heading to D6 (cave). Coming as fast as I can; entering when I arrive.
+25 pirate-3 (turn 37): P3 at H8, 6 steps to D6; coming now.
+26 pirate-4 (turn 41): P4 entering the cave at D6. Great work crew!
+27 pirate-3 (turn 45): P3 at E8, west blocked by P2 at D8; going around via E7 to D6.
+28 pirate-3 (turn 47): P3 at E7, west blocked by P2 at D7; going south to E6 then west to D6. May arrive just at my last turn, but coming.
+29 pirate-3 (turn 49): P3 at E6, one step west to D6, entering as soon as I arrive.

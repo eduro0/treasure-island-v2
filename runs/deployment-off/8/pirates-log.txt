@@ -1,0 +1,33 @@
+1 pirate-1 (turn 1): P1 at J7, digging and sharing. Please share all digs so we can triangulate.
+2 pirate-1 (turn 1, shared): Dug J7: 9 away.
+3 pirate-2 (turn 2): P2 at D10, digging and sharing.
+4 pirate-2 (turn 2, shared): Dug D10: 5 away.
+5 pirate-3 (turn 3): P3 at A4, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug A4: 4 away.
+7 pirate-4 (turn 4): P4 at G1, digging and sharing so we all have a 4th anchor.
+8 pirate-4 (turn 4, shared): Dug G1: 3 away.
+9 pirate-1 (turn 5): P1 heading to F6, will dig and share. We have 4 anchors; candidates cluster around D1-G5. Please cover your nearby candidates.
+10 pirate-2 (turn 6): P2 heading to D5 (closest candidate), will dig and share. From our 4 readings, candidates are: D1,C2,D2,E2,B3,C3,D3,E3,F3,C4,D4,E4,F4,G4,D5,E5,F5,G5,E6,F6. Taking D5.
+11 pirate-3 (turn 7): P3 from A4 heading to B3, will dig and share.
+12 pirate-4 (turn 8): P4 from G1 heading to F3 (candidate), will dig and share.
+13 pirate-3 (turn 15): P3 digging B3, sharing.
+14 pirate-3 (turn 15, shared): Dug B3: 1 away.
+15 pirate-3 (turn 19, alert): ALERT: B3 dug 1 away. Remaining candidates: D1 C2 D2 E2 C3 D3 E3 F3 C4 D4 E4 F4 D5 E5. F6 G4 G5 E6 F5 eliminated. I head to C3 (dist 1).
+16 pirate-4 (turn 20): P4 digging F3, sharing. 14 candidates left; we're homing in.
+17 pirate-4 (turn 20, shared): Dug F3: 1 away.
+18 pirate-1 (turn 21): P1 going to E5, will dig and share. Claim E5/E4; suggest P4 F4, P3 C3/C4, P2 D5. Leftover: E2,D3,C2,D2,D1,E3.
+19 pirate-2 (turn 22): P2 at D6, stepping to D5, will dig and share as suggested. Leftovers to cover: E2,D3,C2,D2,D1,E3 (plus E4 if no one).
+20 pirate-3 (turn 23): P3 digging C3, sharing.
+21 pirate-3 (turn 23, shared): Dug C3: 6 away.
+22 pirate-4 (turn 24): P4 heading one step to F4, will dig and share. Remaining after F3/C3: D1 D2 E2 E3 D4 E4 F4 D5 E5.
+23 pirate-2 (turn 26): P2 at D5, digging and sharing. Remaining candidates after C3: D1,D2,E2,E3,D4,E4,F4,D5,E5.
+24 pirate-3 (turn 27): P3 at C3 dug 6 away, heading to D4 (open candidate), will dig and share. Open leftovers: D1 D2 E2 E3 D4.
+25 pirate-4 (turn 28): P4 digging F4, sharing. Open leftovers after this: D1 D2 E2 E3 D4 E4 (D5=P2, E5=P1, D4=P3).
+26 pirate-4 (turn 28, shared): Dug F4: 1 away.
+27 pirate-2 (turn 30, alert): P2 entering the open cave at D5! The treasure was at D5. Everyone: come to D5 and enter — it's open and holds all of us.
+28 pirate-3 (turn 31): P3 at D3 heading to D5 (open cave) to enter.
+29 pirate-4 (turn 32): P4 at F4 heading to D5 to enter (via E4, D4). Will enter on arrival.
+30 pirate-1 (turn 33): P1 at E5, stepping to D5 open cave; will enter next turn.
+31 pirate-1 (turn 36): P1 entering the open cave at D5. All crew converging to enter.
+32 pirate-3 (turn 37): P3 entering the open cave at D5. See you all inside!
+33 pirate-4 (turn 39): P4 entering the open cave at D5. All crew accounted for!

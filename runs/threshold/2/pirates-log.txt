@@ -1,0 +1,25 @@
+1 pirate-1 (turn 1): Crew plan: everyone shares every dig reading. If you dig the cave, announce 'CAVE <square>'. Otherwise we triangulate readings. Move toward center after your first few digs.
+2 pirate-1 (turn 1, shared): Dug A4: 2 away.
+3 pirate-2 (turn 2): P2 digging F1, sharing.
+4 pirate-2 (turn 2, shared): Dug F1: 12 away.
+5 pirate-3 (turn 3): P3 dug J6
+6 pirate-3 (turn 3, shared): Dug J6: 9 away.
+7 pirate-4 (turn 4): P4 digging E10, sharing.
+8 pirate-4 (turn 4, shared): Dug E10: 5 away.
+9 pirate-1 (turn 5): Four readings narrow cave to NW cluster: A5,B5,A6,B6,C6,A7,B7,C7,D7,A8,B8,C8,A9,B9,A10. P2 dig F6, P3 dig D7, P4 dig B9, share. I head up col A to dig.
+10 pirate-2 (turn 6): P2 heading F6, will dig and share.
+11 pirate-3 (turn 7): P3 heading D7, will dig and share.
+12 pirate-4 (turn 8): P4 heading to B9 per plan; will dig and share.
+13 pirate-2 (turn 22): F6 was blocked by P3; P2 diverting one square to E5 to dig+share instead.
+14 pirate-4 (turn 24): P4 digging B9, sharing per plan.
+15 pirate-4 (turn 24, shared): Dug B9: 2 away.
+16 pirate-1 (turn 25): Digging A9 now. If this is the cave: CAVE FOUND at A9 - everyone come to A9 and enter.
+17 pirate-2 (turn 26): P2 digging E5, sharing.
+18 pirate-2 (turn 26, shared): Dug E5: 9 away.
+19 pirate-4 (turn 28): P4 stepping south to B8 (remaining candidate) to dig and share.
+20 pirate-1 (turn 29): P1 entering the open cave at A9 now. Cave is at A9 — everyone, come to A9 and enter!
+21 pirate-2 (turn 30): Cave at A9 confirmed. P2 heading to A9 to enter.
+22 pirate-4 (turn 32): P4 heading to A9 to enter, cave found!
+23 pirate-3 (turn 34): P3 heading to A9 to enter. Nice work P1!
+24 pirate-4 (turn 38): P4 entering the cave at A9!
+25 pirate-3 (turn 46): P3 entering the open cave at A9!

@@ -1,0 +1,38 @@
+1 pirate-1 (turn 1): P1 at G10. I'll dig here and share. Suggest others dig near their start too, share readings. We can triangulate.
+2 pirate-1 (turn 1, shared): Dug G10: 12 away.
+3 pirate-2 (turn 2): P2 at A7. Digging and sharing.
+4 pirate-2 (turn 2, shared): Dug A7: 5 away.
+5 pirate-3 (turn 3): P3 at D1. Digging and sharing. All keep sharing readings; we'll triangulate and all enter.
+6 pirate-3 (turn 3, shared): Dug D1: 2 away.
+7 pirate-4 (turn 4): P4 at J4. Digging and sharing. Let's all share readings; we can triangulate. After initial digs, suggest we converge to the common candidate region.
+8 pirate-4 (turn 4, shared): Dug J4: 9 away.
+9 pirate-1 (turn 5): P1 heading to E3 to dig and share. P3, search near D1. When the cave is found, post an ALERT with its square so walkers stop and divert.
+10 pirate-2 (turn 6): P2 at A7, heading to B5 to dig and share. Cave candidates now cluster around rows 1-6, cols 1-6 (D1 reading 2 bounds it). Digging candidates, will share.
+11 pirate-3 (turn 7): P3 leaving D1 for A1 to dig+share; covering SW edge. Will share reading. All keep sharing; we'll narrow then converge.
+12 pirate-4 (turn 8): P4 at J4 heading to D4 to dig and share; candidates cluster WSW (rows 1-6, cols A-F). Will share reading on arrival.
+13 pirate-2 (turn 18): P2 at B5, digging and sharing.
+14 pirate-2 (turn 18, shared): Dug B5: 6 away.
+15 pirate-3 (turn 19): P3 at A1, digging and sharing. Readings so far: G10=12, A7=5, D1=2, J4=9, B5=6. All keep sharing.
+16 pirate-3 (turn 19, shared): Dug A1: 5 away.
+17 pirate-2 (turn 22): P2 at B5 (6 away). Heading to C4 to dig and share. Candidates now: rows1-6 colsA-F, shrinking. Let's keep sharing and converge.
+18 pirate-3 (turn 23): P3 at A1: 5 away. Heading north to A2 to dig+share. Covering west edge of candidate set.
+19 pirate-3 (turn 27): P3 at A2, digging and sharing.
+20 pirate-3 (turn 27, shared): Dug A2: 9 away.
+21 pirate-2 (turn 30): P2 at C4, probing before hitting candidates. Full set now: C6, D4, D5, E3, E4, F3. Will head to one next.
+22 pirate-2 (turn 30, shared): Dug C4: 7 away.
+23 pirate-3 (turn 31): P3: C4's 7 reading narrows to E3 & F3 ONLY (D4,E4,C6,D5 are within 2 of C4). P2: head E3 (3 from C4). P4: from D4 head F3. I'm heading E3 as backup.
+24 pirate-4 (turn 32): P4 at D4 heading to F3 to test the remaining candidate. E3/F3 only; will dig+share on arrival.
+25 pirate-1 (turn 33): P1 at E5, way south blocked by P4; rerouting east/south to F3 to test. If F3 is the cave I'll enter; else I'll go E3. Converging to the two candidates.
+26 pirate-2 (turn 34): P2 at C4 (7 reading) heading E3 to dig+share. Candidates narrowed to E3/F3. F3 covered by P1/P4; I'll test E3. If E3 not cave, converge to F3.
+27 pirate-1 (turn 37): P1 at F5, F4 blocked by P4; rerouting to E3. If E3 opens I enter; else F3 is 1 step away.
+28 pirate-1 (turn 41): P1 at E5, E4 blocked by P2; rerouting east/south to F3. From F3 I'm 1 step from E3; will enter whichever is the cave.
+29 pirate-4 (turn 44): P4 at F3 digging and sharing. If this is the cave, it's here; otherwise E3 is the one. Will enter if open.
+30 pirate-2 (turn 46): P2 at E3 digging+sharing. If not cave, F3 is it; P4 should have it open. Checking now.
+31 pirate-2 (turn 46, shared): Dug E3: 1 away.
+32 pirate-3 (turn 47, alert): P3 ALERT: CAVE IS AT F3 (P4 dug it open; P2's E3 reading=1 confirms). All route to F3 and enter. P3 heading E2-F2-F3.
+33 pirate-4 (turn 48): P4 entering the cave at F3. Well dug everyone — see you inside! Cave is open, all converge to F3 and enter.
+34 pirate-1 (turn 49): P1 at F4, one step north of F3. Heading in now; will enter immediately on arrival.
+35 pirate-2 (turn 50): P2 at E3, heading into the open cave at F3. Great work P4! See you inside.
+36 pirate-1 (turn 52): P1 entering the cave at F3. Great work crew!
+37 pirate-2 (turn 53): P2 entering the cave at F3. Great work crew, see you inside!
+38 pirate-3 (turn 54): P3 entering the open cave at F3. Great work everyone!

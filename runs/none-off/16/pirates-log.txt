@@ -1,0 +1,42 @@
+1 pirate-1 (turn 1): P1 starting at G10, digging and sharing readings. Please share your digs too.
+2 pirate-1 (turn 1, shared): Dug G10: 12 away.
+3 pirate-2 (turn 2): P2 at A7, digging and sharing too. Let's triangulate.
+4 pirate-2 (turn 2, shared): Dug A7: 5 away.
+5 pirate-3 (turn 3): P3 at D1, digging and sharing. Let's triangulate.
+6 pirate-3 (turn 3, shared): Dug D1: 2 away.
+7 pirate-4 (turn 4): P4 at J4, digging and sharing. Let's triangulate.
+8 pirate-4 (turn 4, shared): Dug J4: 9 away.
+9 pirate-1 (turn 5): P1 heading to F5 to dig and share. Current readings narrow cave to roughly the southwest-center; keep digging, everyone.
+10 pirate-2 (turn 6): P2 heading to C6 to dig. From our 4 reads, treasure lies among A1-A4, B1-B5, C1-C6, D2-D5, E2-E4, F3. Share digs!
+11 pirate-3 (turn 7): P3 heading to D2 to dig and share. Candidate list looks right; I'll cover the bottom-left cluster. Everyone: when the cave is found, alert it and head in.
+12 pirate-4 (turn 8): P4 heading to E4 to dig and share; I'll cover E4/E3/E2/F3 eastern cluster.
+13 pirate-3 (turn 11): P3 digging D2, sharing. Will cover bottom-left: C1/B1/B2/C2 next.
+14 pirate-3 (turn 11, shared): Dug D2: 5 away.
+15 pirate-3 (turn 15): P3 dug D2: 5 away (no cave). Heading to C2 to dig and share. I'll cover left side: C2/B2/A2/A1/B1. P2: C6, P1: F5, P4: E4 cluster. When cave found, alert and head in.
+16 pirate-2 (turn 18): P2 digging C6 now, sharing. If not the cave, reading will help narrow the cluster.
+17 pirate-2 (turn 18, shared): Dug C6: 9 away.
+18 pirate-3 (turn 19): P3 narrows candidates with C6=9: {A1,A2,A3,B1,B2,C1,E2,E3,F3}. I'll dig C1/B1/B2/A1/A2/A3 left cluster. P4: E2/E3/F3 yours; I'll head to C1 now.
+19 pirate-2 (turn 22): P2 heading B2 to dig. With C6=9, candidates: A1,A2,A3,B1,B2,C1,E2,E3,F3. I'll cover B2.
+20 pirate-3 (turn 23): P3 dug C1, sharing. Remaining left cluster for me: B1/A1/A2/A3. P2 taking B2, P4 taking E2/E3/F3. If cave, alerting and heading in.
+21 pirate-3 (turn 23, shared): Dug C1: 4 away.
+22 pirate-3 (turn 27): P3 dug C1: 4 away, no cave. Heading to B1, then A1/A2/A3. B2 for P2, E2/E3/F3 for P4. If cave, alert and head in.
+23 pirate-4 (turn 28): P4 at E4, heading E3 then E2, F3 to dig & share. E4 excluded by C6 read.
+24 pirate-1 (turn 29): P1 digging F5 and sharing. With candidates {A1,A2,A3,B1,B2,E2,E3,F3}, this reading should narrow things. Alert and head in when found.
+25 pirate-1 (turn 29, shared): Dug F5: 3 away.
+26 pirate-3 (turn 31): P3: F5=3 eliminates A1,A2,B1. Candidates now A3,B2,E2,E3,F3. Heading A3 (mine); P2 B2, P4 E-cluster. If cave, alert and head in.
+27 pirate-4 (turn 32): P4 digging E3 now. Candidates A3,B2,E2,E3,F3 remain; I'll cover E3/E2/F3.
+28 pirate-4 (turn 32, shared): Dug E3: 1 away.
+29 pirate-1 (turn 33): P1 heading F3 to cover F3/E2. Remaining: A3,B2,E2,F3. P3:A3, P2:B2, P4:E2. Alert when cave found.
+30 pirate-4 (turn 36): P4 at E3, heading E2 to dig & share. E3 read 1 away, no cave. Remaining: A3, B2, E2, F3.
+31 pirate-4 (turn 40): P4 digging E2 now, sharing. If no cave, remaining narrows further.
+32 pirate-4 (turn 40, shared): Dug E2: 5 away.
+33 pirate-1 (turn 41): P1 digging F3, standing on a remaining candidate. Remaining: A3,B2,F3. P3:A3, P2:B2. Alert when cave found.
+34 pirate-2 (turn 42): P2 digging B2 now, sharing. If no cave, remaining A3, F3. Alert when the cave is found and head in.
+35 pirate-2 (turn 42, shared): Dug B2: 6 away.
+36 pirate-3 (turn 43): P3 digging A3 now, the last of my candidates. If not the cave, then F3 is the cave — P1 is already there. Alert and enter when found.
+37 pirate-3 (turn 43, shared): Dug A3: 6 away.
+38 pirate-4 (turn 44): P4 at E2; E2/B2/A3/E3 all dug, none the cave. Only F3 remains — it must be the cave. Heading to F3 to enter.
+39 pirate-1 (turn 45): P1 entering the cave at F3! Cave is F3 — all pirates head here and enter.
+40 pirate-2 (turn 46): P2 heading to F3. I may not make it in time from B2, but moving. Great triangulation, crew — enter when you arrive.
+41 pirate-3 (turn 47): P3 heading east to F3 from A3; may be tight but I'm coming. Great triangulation, crew. No alert so P4 keeps moving straight in.
+42 pirate-4 (turn 51): P4 entering the cave at F3. Great triangulation, crew! See you inside.

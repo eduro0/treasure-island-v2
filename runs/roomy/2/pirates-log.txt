@@ -1,0 +1,37 @@
+1 pirate-1 (turn 1): P1 at A4 digging here, I'll work the SW area.
+2 pirate-1 (turn 1, shared): Dug A4: 2 away.
+3 pirate-2 (turn 2): P2 at F1 digging and sharing. Treasure is within ~6 of A4, plan to dig points around there.
+4 pirate-2 (turn 2, shared): Dug F1: 12 away.
+5 pirate-3 (turn 3): P3 at J6 digging and sharing; will head west after.
+6 pirate-3 (turn 3, shared): Dug J6: 9 away.
+7 pirate-4 (turn 4): P4 at E10, heading to B9 to dig & share; early candidates cluster top-left (A5-D7).
+8 pirate-1 (turn 5): P1: moving north on column A to dig A7. So far everything consistent with treasure within 6 of A4; sharing digs.
+9 pirate-2 (turn 6): P2 heading to C6 (candidate) to dig & share. From A4=2, F1=12, J6=9, candidates are A5-A10, B5-B9, C6-C8, D7. Let's split these.
+10 pirate-3 (turn 7): P3 heading to D7 via row6 to dig & share. I'll take D7. Alert us when cave found!
+11 pirate-1 (turn 17): P1 digging A7 (candidate).
+12 pirate-1 (turn 17, shared): Dug A7: 4 away.
+13 pirate-4 (turn 20): P4 at B9 digging & sharing.
+14 pirate-4 (turn 20, shared): Dug B9: 2 away.
+15 pirate-1 (turn 21): P1 dug A7. Undug candidates: A5,A6,A8,A9,A10,B5,B6,B7,B8,C6,C7,C8,D7. I take A8-A10. P4: B5-B8. P2: C6-C8. P3: D7. Dig & share.
+16 pirate-4 (turn 24): P4 at B9, heading to B8 to dig & share, then B7/B6/B5.
+17 pirate-1 (turn 25): P1 digging A8.
+18 pirate-1 (turn 25, shared): Dug A8: 3 away.
+19 pirate-4 (turn 28): P4 digging B8 & sharing.
+20 pirate-4 (turn 28, shared): Dug B8: 1 away.
+21 pirate-1 (turn 29): P1 at A8 dug:3. P4 B8:1. Left: A5,A6,A9,A10,B5,B6,B7,C6,C7,C8,D7. P1: A9,A10. P4 after B5: A5,A6. P2: C6-C8. P3: D7.
+22 pirate-4 (turn 32): P4 dug B8:1. I'll take B7, then B6, B5, then A5/A6. P1: A9/A10, P2: C6-C8, P3: D7.
+23 pirate-1 (turn 33): P1 dug A9.
+24 pirate-3 (turn 35): P3 digging D7 & sharing.
+25 pirate-3 (turn 35, shared): Dug D7: 1 away.
+26 pirate-4 (turn 36): P4 digging B7:1 from B8 and D7 both consistent. Note: A10 is now excluded by D7=1 (dist 6), so P1 skip A10.
+27 pirate-4 (turn 36, shared): Dug B7: 5 away.
+28 pirate-1 (turn 37, alert): CAVE FOUND at A9! P1 entering now. Everyone: go_to A9 and enter to score. P2/P3/P4 please come to A9!
+29 pirate-2 (turn 38): P2 heading to A9 to enter. Great find P1!
+30 pirate-3 (turn 39): P3 at D7 heading to A9 to enter! Great find P1!
+31 pirate-4 (turn 40): P4 heading to A9 to enter! Great find P1!
+32 pirate-3 (turn 45): P3 at B7, west blocked by P2; detouring via B8/B9 to A9.
+33 pirate-4 (turn 49): P4 entering the cave at A9! Great work crew!
+34 pirate-3 (turn 51): P3 at B9, west blocked by P2 on the cave at A9; waiting for P2 to enter, then I step in.
+35 pirate-2 (turn 52): P2 entering the cave at A9 now! P3, the square is free after I go in—step west and enter. Great work everyone!
+36 pirate-3 (turn 53): P3 stepping west to A9 now, then entering. Great work P2!
+37 pirate-3 (turn 54): P3 entering the cave at A9! Great work everyone!

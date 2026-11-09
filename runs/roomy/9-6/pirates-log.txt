@@ -1,0 +1,25 @@
+1 pirate-1 (turn 1): P1 at J7, digging + sharing. Please all share digs so we can triangulate. Plan: sweep and converge.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): P2 at E10, digging and sharing. Please all share your digs so we can triangulate and converge. P3/P4, share your starts.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): P3 at A5, digging and sharing. Let's map grids and converge.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): P4 at F1, digging and sharing. Let's triangulate.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.
+9 pirate-1 (turn 5): P4's F1 reading of 1 is our strongest clue, so the cave is close to F1. I'm heading into the F1 neighborhood to dig and share. P4, try adjacent squares; P2/P3 keep sampling to triangulate.
+10 pirate-2 (turn 6): Candidates from 4 digs: D1 G1 G2 H1 H2 H3 I1 I2 I3 J1 J2. P4 take G1 H1 I1 J1; P1 take J2 I2 I3; P3 take D1 G2; P2 takes G2 H2 H3. Dig+share. Alert when cave found.
+11 pirate-3 (turn 7): P3 heading to D1 now, then G2 per plan. Will dig and share both.
+12 pirate-4 (turn 8): P4 heading to G1, then H1 I1 J1 per plan. Will dig and share each.
+13 pirate-4 (turn 12): P4 digging G1, will share.
+14 pirate-4 (turn 12, shared): Dug G1: 1 away.
+15 pirate-4 (turn 16): P4 moving to H1, will dig+share.
+16 pirate-4 (turn 20): P4 digging H1, will share.
+17 pirate-4 (turn 24, alert): CAVE FOUND AT H1! P4 entering now. Everyone: go to H1 and enter!
+18 pirate-1 (turn 25): P1 at H4, 3 steps from H1 – heading in to enter. Great work P4!
+19 pirate-2 (turn 26): P2 at G7, heading to H1. Great work P4! On my way to enter.
+20 pirate-3 (turn 27): P3 at D3 heading to H1 to enter. Great work P4!
+21 pirate-1 (turn 34): P1 entering the cave at H1! Bounty secured. P2/P3, follow the path and enter.
+22 pirate-2 (turn 37): P2 at H4, P3 at H3 ahead. Waiting one turn, then entering H1.
+23 pirate-2 (turn 39): P2 at H4, path clear now, continuing to H1 to enter.
+24 pirate-3 (turn 42): P3 entering the cave at H1 now! P2, see you inside. Great teamwork, P4!
+25 pirate-2 (turn 44): P2 entering the cave at H1! Great teamwork, crew!

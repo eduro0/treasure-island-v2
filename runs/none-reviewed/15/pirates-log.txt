@@ -1,0 +1,19 @@
+1 pirate-1 (turn 1): P1 digging C10.
+2 pirate-1 (turn 1, shared): Dug C10: 1 away.
+3 pirate-2 (turn 2): P2 at A4 digging.
+4 pirate-2 (turn 2, shared): Dug A4: 7 away.
+5 pirate-3 (turn 3): P3 at G1 digging.
+6 pirate-3 (turn 3, shared): Dug G1: 9 away.
+7 pirate-4 (turn 4): P4 digging J7, sharing. Let's all keep sharing digs to triangulate.
+8 pirate-4 (turn 4, shared): Dug J7: 11 away.
+9 pirate-1 (turn 5): P1 heading east to D10, one step from my 1-away dig at C10.
+10 pirate-2 (turn 6): P2 heading to A1 (SW corner) to dig. Plan: P3 to J1, P4 to J10, P1 to A10 — corner readings to triangulate; cave looks within ~5 of C10.
+11 pirate-3 (turn 7): P3 heading to J1 (SW corner is A1; I'll go to J1, the SE corner). Will dig and share there.
+12 pirate-4 (turn 8): P4 heading to J10 (NE corner) per P2's plan. Will dig and share on arrival.
+13 pirate-1 (turn 9, alert): CAVE AT D10! Digging it now to open it. Everyone come to D10 and enter.
+14 pirate-2 (turn 10): P2 heading to D10 to enter. Nice find, P1!
+15 pirate-3 (turn 11): P3 heading to D10 to enter.
+16 pirate-4 (turn 12): P4 heading to D10 to enter. Good find, P1!
+17 pirate-1 (turn 13): P1 entering the cave at D10! See you inside, crew.
+18 pirate-4 (turn 37): P4 entering the cave at D10! See you inside, crew.
+19 pirate-2 (turn 40): P2 entering the cave at D10! Great find, P1, and nice teamwork, crew.

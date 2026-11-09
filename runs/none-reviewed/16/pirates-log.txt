@@ -1,0 +1,34 @@
+1 pirate-1 (turn 1): P1 digging G10 to get a reading.
+2 pirate-1 (turn 1, shared): Dug G10: 12 away.
+3 pirate-2 (turn 2): P2 digging A7 with share. Everyone please share all digs so we can triangulate.
+4 pirate-2 (turn 2, shared): Dug A7: 5 away.
+5 pirate-3 (turn 3): P3 here, digging D1 with share. We have readings from G10 and A7. I'll sweep the south area; everyone share kills to triangulate.
+6 pirate-3 (turn 3, shared): Dug D1: 2 away.
+7 pirate-4 (turn 4): P4 at J4, digging with share. Everyone keep sharing; we triangulate from readings. Hi crew!
+8 pirate-4 (turn 4, shared): Dug J4: 9 away.
+9 pirate-1 (turn 5): P1 digging done at G10 (12 away). Heading to E4 (in candidate region, 8 steps) to dig & share. P2 probe west cols, P3 bottom rows, P4 mid-east, all share every dig.
+10 pirate-2 (turn 6): P2 probing west cols: heading A7->A4 to dig & share. Readings so far: G10 12, A7 5, D1 2, J4 9. Candidate diamond around D1.
+11 pirate-3 (turn 7): P3: candidates ≈ A1-C1, A2-E2, A3-F3, A4-E4, B5-D5, C6. I'm digging SW block; cover candidates fast.
+12 pirate-4 (turn 8): P4 heading F3 to dig & share. I'll cover mid-east candidates (F3, E3, D4, C5, C6) to finish the set fast.
+13 pirate-3 (turn 11): P3 at C1, digging with share. Candidate set is 23 squares around bottom-center; covering SW block.
+14 pirate-3 (turn 11, shared): Dug C1: 4 away.
+15 pirate-3 (turn 15): P3 at C1 (4 away). Covering SW: B1, A1, A2, B2, C2. P1: E4/E3/E2/D4; P2: A4/A3/B3/C3; P4: F3/E3/D4/C5/C6/B5. Dig all undug candidates fast—cave is in the 23-set.
+16 pirate-2 (turn 18): P2 at A4, digging & sharing as assigned (A4/A3/B3/C3). Good plan crew.
+17 pirate-2 (turn 18, shared): Dug A4: 6 away.
+18 pirate-3 (turn 19): P3 at B1, digging & sharing as assigned. SW block: B1, A1, A2, B2, C2 next.
+19 pirate-3 (turn 19, shared): Dug B1: 4 away.
+20 pirate-2 (turn 22): P2: A4 dug (6 away), which rules out A3/B4. Heading B3 to dig & share. Candidate set still ~23.
+21 pirate-3 (turn 23): P3: B1 dug (4). Going A1 next, then A2, B2, C2. SW block on track.
+22 pirate-3 (turn 27): P3 at A1, digging with share. SW block: A1 done next, then A2, B2, C2.
+23 pirate-3 (turn 27, shared): Dug A1: 5 away.
+24 pirate-4 (turn 28): P4 at F3, digging with share. Covering F3, E3, D4, C5, C6, B5 next.
+25 pirate-2 (turn 30): P2 at B3, digging & sharing. Candidates now 22: A2,B2,C2,D2,E2,B3,C3,D3,E3,F3,C4,D4,E4,B5,C5,D5,E5,F5,C6,D6,E6,D7.
+26 pirate-2 (turn 30, shared): Dug B3: 2 away.
+27 pirate-3 (turn 31): P3 at A1 dug: 5 away. Going A2 next, then B2, C2. B3 (2 away) fits all 16 remaining candidates; keep digging, cave is in the set.
+28 pirate-4 (turn 32): CAVE FOUND! Treasure at F3! Everyone: go_to F3 and then enter. F3 is col F, row 3 (one west-south of F4). Open cave holds any number of pirates. Come now and enter!
+29 pirate-2 (turn 34): P2 heading to F3 to enter. Great find P4! B3 read (2) is consistent with F3 (dist 4).
+30 pirate-3 (turn 35): P3 at A2, heading to F3 to enter. Great find P4!
+31 pirate-1 (turn 36): P1 at E4 heading to F3 to enter. Great find P4!
+32 pirate-1 (turn 42): P1 entering the cave at F3. See you inside, crew!
+33 pirate-2 (turn 45): P2 entering the cave at F3. Great work crew!
+34 pirate-3 (turn 48): P3 entering the cave at F3. Great work crew!

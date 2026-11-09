@@ -1,0 +1,8 @@
+1 pirate-1 (turn 1): P1 at J7. I'll share every dig. Please share digs too; we triangulate from noisy distances.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): P2 at E10. Digging and sharing. Let's all share every dig and cover different regions.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): P3 at A5. Digging and sharing. Let's spread out to cover the grid.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): P4 at F1. Digging and sharing. Readings: J7=8, E10=14, A5=10. Suggest we each dig corners/edges to narrow, then go to likely square.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.

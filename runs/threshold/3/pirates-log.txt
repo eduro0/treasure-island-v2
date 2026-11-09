@@ -1,0 +1,45 @@
+1 pirate-1 (turn 1): P1 at B10. I will dig and share every reading. Suggest everyone share all digs.
+2 pirate-1 (turn 1, shared): Dug B10: 8 away.
+3 pirate-2 (turn 2): P2 at A3 digging. I will share all my readings. Suggest everyone share all digs so we can triangulate.
+4 pirate-2 (turn 2, shared): Dug A3: 6 away.
+5 pirate-3 (turn 3): P3 at I1 digging and sharing. Let's all share to triangulate.
+6 pirate-3 (turn 3, shared): Dug I1: 3 away.
+7 pirate-4 (turn 4): P4 at J9 digging. I'll share. Let's gather 4 readings then triangulate candidates.
+8 pirate-4 (turn 4, shared): Dug J9: 13 away.
+9 pirate-1 (turn 5): P1 heading south. Candidates from our 4 shared digs: B1 C1 C2 D1 D2 D3 E1 E2 E3 E4 F2 F3 F4 G3. Dig nearby candidates, share everything.
+10 pirate-2 (turn 6): P2 going to B1 to dig. Suggested split: P2 B1,C1,C2,D1,D2,D3; P3 E1,E2,F2,F3,G3; P4 E3,E4,F4; P1 takes other nearby. Share every dig!
+11 pirate-3 (turn 7): P3 heading to E1, then E2,F2,F3,G3 per split. Will share each dig.
+12 pirate-4 (turn 8): P4 en route to F4 (arrive ~t11) to dig it. P1 please dig E3 then E4. When cave opens: someone say exact square, all go there and enter ASAP.
+13 pirate-1 (turn 17): P1 heading E7 then E3/E4 per split; will dig/share both.
+14 pirate-2 (turn 18): P2 dug B1, sharing reading.
+15 pirate-2 (turn 18, shared): Dug B1: 1 away.
+16 pirate-2 (turn 22): P2 at B1, 1 away. Remaining candidates: C1 C2 D1 D2 D3 E1 E2 E3 F2. P2 digs C1 C2 D1 D2 D3; P3 E1 E2 F2; P1 E3; P4 help F2. Share all!
+17 pirate-3 (turn 23): P3 at E1 digging per updated plan, will share.
+18 pirate-3 (turn 23, shared): Dug E1: 3 away.
+19 pirate-2 (turn 26): P2 dug C1, sharing. Remaining after E1: C2 D1 D2 D3 E2 E3 F2.
+20 pirate-2 (turn 26, shared): Dug C1: 3 away.
+21 pirate-3 (turn 27): P3 moving to E2 to dig, then F2.
+22 pirate-1 (turn 29): P1 heading to E3 candidate; will dig and share.
+23 pirate-2 (turn 30): P2 going to C2, then D1 D2 D3. Remaining: C2 D1 D2 D3 E2 E3 F2. P1 E3; P3 E2 F2; P4 help D cluster.
+24 pirate-3 (turn 31): P3 at E2 digging, will share. Then F2.
+25 pirate-3 (turn 31, shared): Dug E2: 3 away.
+26 pirate-2 (turn 34): P2 dug C2, sharing. Remaining: D1 D2 D3 E3 F2. P3 done E2; P1 E3; P4 help D cluster.
+27 pirate-2 (turn 34, shared): Dug C2: 3 away.
+28 pirate-3 (turn 35): P3 heading to F2 from E2, will dig and share next turn.
+29 pirate-2 (turn 38): P2 dug C2: 3 away. Going to D2, then D1 and D3. Remaining candidates: D1 D2 D3 E3 F2. P1 E3; P3 F2; P4 help D cluster. Share every dig!
+30 pirate-3 (turn 39): P3 at F2 digging, sharing. If no cave here, remaining D1 D2 D3 E3 are on P1/P2/P4.
+31 pirate-3 (turn 39, shared): Dug F2: 7 away.
+32 pirate-2 (turn 42, alert): F2=7 is key: D2 and E3 are each only 2 from F2 but a 7 reading means true dist >=3, so cave must be D1 or D3! I'm at D2, going to dig D1 now; if not, D3 next. Everyone else go to D1/D3.
+33 pirate-3 (turn 43): P3 going to D2 as hub (1 step from both D1/D3). After P2's D1 dig at ~t50, I step to the cave and enter. D1/D3 only candidates.
+34 pirate-4 (turn 44): P4 at F4 heading to D3 (arrive ~game52). I'll dig D3 at ~game56: if D1 is empty we open D3 early and P2/P3 can enter. If D3 is cave I enter next turn. P1 head to D1/D3 too.
+35 pirate-1 (turn 45): P1 at E3 (ruled out). Going D3 now. If P2's D1 dig says not cave, I'll dig D3 and enter. If D1 is cave, I'll head to D1.
+36 pirate-2 (turn 46): P2 dug D1. If cave here I enter next; if not, cave is D3 - P1/P3/P4 cover D3, I head there too. F2=7 already ruled out D2/E3.
+37 pirate-1 (turn 49): P1 at D3 digging now. If cave here it's open - everyone come to D3! If not cave, then cave is D1.
+38 pirate-1 (turn 49, shared): Dug D3: 4 away.
+39 pirate-2 (turn 50): P2 entering the cave at D1 now! The cave is D1 - everyone come to D1 and enter. P1: D3 is 4 away, not the cave; head to D1.
+40 pirate-3 (turn 51): P3 at D2 heading to D1 to enter the cave now.
+41 pirate-4 (turn 52): P4 at D4, P1 at D3 blocks my path to D1; even after it clears I can't reach D1 before my turns run out. Not entering. Crew score from P2 (entered t13) + P3 (entering t13). Great triangulation all!
+42 pirate-1 (turn 53): P1 heading to D1 though I arrive too late to enter. Great triangulation everyone - D1 was the cave.
+43 pirate-3 (turn 54): P3 entering the cave at D1 on turn 14. Great triangulation crew - D1 was the cave, confirmed from 11 shared digs. See you inside!
+44 pirate-4 (turn 55): P4 at D4 can't reach D1 in time (2 turns left, 3 steps + enter needed). Great work crew: P2 and P3 got inside, D1 was the cave, found from 11 shared digs. P4 outside at game end.
+45 pirate-4 (turn 57): P4 out of turns at D4; cave was D1, P2+P3 entered. Nice triangulation, crew. Signing off.

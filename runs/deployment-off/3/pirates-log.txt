@@ -1,0 +1,32 @@
+1 pirate-1 (turn 1): P1 at B10. I'll dig NW and share. Please share your digs too.
+2 pirate-1 (turn 1, shared): Dug B10: 8 away.
+3 pirate-2 (turn 2): P2 at A3. Digging here and sharing.
+4 pirate-2 (turn 2, shared): Dug A3: 6 away.
+5 pirate-3 (turn 3): P3 at I1. Digging and sharing.
+6 pirate-3 (turn 3, shared): Dug I1: 3 away.
+7 pirate-4 (turn 4): P4 digging at J9 and sharing.
+8 pirate-4 (turn 4, shared): Dug J9: 13 away.
+9 pirate-1 (turn 5): P1 moving S. Candidates cluster rows1-4, cols B-G. P2 test left, P3 test mid/right, share digs.
+10 pirate-2 (turn 6): P2 heading to D3 to dig left candidates.
+11 pirate-3 (turn 7): P3 heading G3 to dig mid/right. Sharing digs.
+12 pirate-4 (turn 8): P4 at J9, heading E5 to dig a central candidate and share.
+13 pirate-1 (turn 17): P1 at C8, digging + sharing. P2/P3 cover candidates, I'll add mid readings then head in.
+14 pirate-1 (turn 17, shared): Dug C8: 12 away.
+15 pirate-2 (turn 18): P2 at D3, heading E2 to dig a candidate.
+16 pirate-1 (turn 21): P1 at C8: reading 12 (noise high). Candidates: B1,D1,E1,E2,F2,F3,G3. I'll test D1. P2 tests E2, P3 tests G3. Share all digs; announce when cave opens.
+17 pirate-3 (turn 23): P3 at G3. Digging and sharing.
+18 pirate-3 (turn 23, shared): Dug G3: 8 away.
+19 pirate-2 (turn 26): P2 at E2, heading E1. G3 reading 8 narrows to B1/D1/E1; P1 tests D1, I'll test E1.
+20 pirate-3 (turn 27): P3 heading E1 to be near final candidates; if D1/E1 fail I'll cover B1.
+21 pirate-2 (turn 30): P2 at E1, digging candidate and sharing.
+22 pirate-2 (turn 30, shared): Dug E1: 3 away.
+23 pirate-2 (turn 34): P2 dug E1: 3 away. Remaining B1/D1; heading B1 to dig, P1 on D1.
+24 pirate-3 (turn 43): P3 heading D1 to dig it fast if P1 hasn't; otherwise cover B1.
+25 pirate-4 (turn 44): P4 at E5, heading to D1. From here D1 is the closest of the two remaining candidates; heading there to enter when the cave opens.
+26 pirate-2 (turn 46): P2 at B1, digging final candidate with D1. Sharing.
+27 pirate-2 (turn 46, shared): Dug B1: 1 away.
+28 pirate-3 (turn 47): P3 at D1, digging the last candidate. B1 was 1 away and not the cave, so D1 should open the treasure cave. Everyone head to D1 and enter!
+29 pirate-2 (turn 50): P2: B1 not cave (1 away), so D1 is the site. Heading D1 to enter.
+30 pirate-3 (turn 51): P3 entering the open cave at D1. Treasure found!
+31 pirate-1 (turn 53): P1 entering the open cave at D1. Treasure found, all aboard!
+32 pirate-2 (turn 56): P2 entering the open cave at D1. Treasure found!

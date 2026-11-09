@@ -1,0 +1,53 @@
+1 pirate-1 (turn 1): P1 digging J8
+2 pirate-1 (turn 1, shared): Dug J8: 1 away.
+3 pirate-2 (turn 2): P2 digging C10
+4 pirate-2 (turn 2, shared): Dug C10: 5 away.
+5 pirate-3 (turn 3): P3 at A3. I'll share all digs. After this I head E6, dig, then into candidate cluster E8/F8. P1: dig around J8 (J9,I9,J10,I8). P2/P4: aim for G8/F7. All share.
+6 pirate-3 (turn 3, shared): Dug A3: 13 away.
+7 pirate-4 (turn 4): P4 heading F7; P2 take G8. All share digs.
+8 pirate-1 (turn 5): P1 heading J9, will dig+share.
+9 pirate-2 (turn 6): P2 heading G8, will dig+share.
+10 pirate-3 (turn 7): P3 heading E6, will dig+share.
+11 pirate-1 (turn 9): P1 digging J9
+12 pirate-1 (turn 9, shared): Dug J9: 4 away.
+13 pirate-1 (turn 13): P1 done J9 (4). Heading I9, will dig+share.
+14 pirate-1 (turn 17): P1 digging I9
+15 pirate-1 (turn 17, shared): Dug I9: 2 away.
+16 pirate-1 (turn 21): P1 heading I8, will dig+share.
+17 pirate-1 (turn 25): P1 digging I8
+18 pirate-1 (turn 25, shared): Dug I8: 3 away.
+19 pirate-1 (turn 29): P1 heading H8, will dig+share.
+20 pirate-2 (turn 30): P2 digging G8
+21 pirate-2 (turn 30, shared): Dug G8: 5 away.
+22 pirate-1 (turn 33): P1 digging H8
+23 pirate-1 (turn 33, shared): Dug H8: 2 away.
+24 pirate-2 (turn 34): P2 heading G9, will dig+share.
+25 pirate-3 (turn 35): P3 heading E8, will dig+share. Suggest coverage: P4 F7 then G7; P2 G9 then H9; P1 J10/I10.
+26 pirate-4 (turn 36): P4 digging F7, sharing.
+27 pirate-4 (turn 36, shared): Dug F7: 5 away.
+28 pirate-1 (turn 37): P1 dug H8 (2). Heading H9, will dig+share.
+29 pirate-2 (turn 38): P2 digging G9, sharing.
+30 pirate-2 (turn 38, shared): Dug G9: 4 away.
+31 pirate-4 (turn 40): P4 heading G7, will dig+share.
+32 pirate-1 (turn 41): P1 digging H9, sharing.
+33 pirate-1 (turn 41, shared): Dug H9: 5 away.
+34 pirate-2 (turn 42): P2 heading G10, dig+share. Remaining candidates F8,F9,G6,G7,G10,H6,H7,H10,I10,J10. P1 take H10/I10/J10; P3 F8/F9; P4 G6/H6.
+35 pirate-3 (turn 43): P3 digging E8, sharing.
+36 pirate-3 (turn 43, shared): Dug E8: 1 away.
+37 pirate-4 (turn 44): P4 digging G7, sharing. E8=1 cuts I10/J10; rem F8 F9 G6 G7 H6 H7 G10 H10 I7. P1: H10/I7; P2: G10; P3: F8/F9; P4: G6/H6.
+38 pirate-4 (turn 44, shared): Dug G7: 3 away.
+39 pirate-1 (turn 45): P1 heading H10, will dig+share. Candidates now: F8 F9 G6 H6 H7 G10 H10 I7. P1 covers H10/I7 after.
+40 pirate-2 (turn 46): P2 digging G10, sharing.
+41 pirate-2 (turn 46, shared): Dug G10: 1 away.
+42 pirate-3 (turn 47): P3 heading F8, will dig+share. After F8, try F9.
+43 pirate-4 (turn 48): P4 going G6, will dig+share; then H6. Open: F9 H7 H10 I7 (F8=P3, H10=P1, G10 done=1).
+44 pirate-1 (turn 49): P1 digging H10, sharing.
+45 pirate-1 (turn 49, shared): Dug H10: 3 away.
+46 pirate-2 (turn 50): P2 heading F9, will dig+share. H7 and I7 are likely unreachable in time; if cave not found before turn 60 we may miss them.
+47 pirate-3 (turn 51): P3 digging F8, sharing.
+48 pirate-4 (turn 52): P4 digging G6, sharing; then H6. H7/I7 still open if F9 not it.
+49 pirate-4 (turn 52, shared): Dug G6: 1 away.
+50 pirate-1 (turn 53): P1 dug H10=3, not cave. Heading H7 but likely can't reach/dig in time. If F8/F9/H6 are not it, cave may be H7 or I7; we may miss them.
+51 pirate-3 (turn 55): CAVE FOUND at F8! I'm entering now. P2: you're on F9, step south to F8 and enter. P4/P1: come to F8 and enter.
+52 pirate-4 (turn 56): P4 at G6 heading F8, but it's 3 steps (F6,F7,F8) and I only have turns 14-15, so I likely can't enter. P1/P2 please enter if you can. Good job P3!
+53 pirate-2 (turn 58): P2 stepping to F8, but this is my 15th turn so arrival gives no next turn to enter. P3's find brings the crew bounty. Great job!

@@ -1,0 +1,29 @@
+1 pirate-1 (turn 1): P1 at C1 digging. Please all share your digs. We'll triangulate the cave.
+2 pirate-1 (turn 1, shared): Dug C1: 3 away.
+3 pirate-2 (turn 2): P2 at J3 digging, sharing reading. Let's spread out and share all digs.
+4 pirate-2 (turn 2, shared): Dug J3: 6 away.
+5 pirate-3 (turn 3): P3 at H10 digging, sharing. Let's cover the map corners and triangulate.
+6 pirate-3 (turn 3, shared): Dug H10: 10 away.
+7 pirate-4 (turn 4): P4 at A8 digging, sharing. Let's triangulate.
+8 pirate-4 (turn 4, shared): Dug A8: 2 away.
+9 pirate-1 (turn 5): P1 heading to D3 to dig and share. Suggest: P2 dig near F4, P3 dig near F8, P4 dig near C6. Let's spread second digs to triangulate.
+10 pirate-2 (turn 6): P2 going to D5. All 4 readings (C1 3, J3 6, H10 10, A8 2) narrow cave to: A3 B3 A4 B4 C4 B5 C5 D5 C6 D6 E6 D7. Suggest P1 dig C4/B4/B5; P3 head E6/D6; P4 head D7/C6. Share all digs!
+11 pirate-3 (turn 7): P3 heading to E6 to dig and share. Candidates: A3 B3 A4 B4 C4 B5 C5 D5 C6 D6 E6 D7. P1 after D3, take C4/B4/B5; P4 take C6 or D7; P2 already on D5. All share digs!
+12 pirate-4 (turn 8): P4 heading to C6 to dig and share.
+13 pirate-1 (turn 17): P1 dug D3, sharing. Candidates: A3 B3 A4 B4 C4 B5 C5 D5 C6 D6 E6 D7. I'll head to B4/C4 next. Everyone share digs!
+14 pirate-1 (turn 17, shared): Dug D3: 8 away.
+15 pirate-1 (turn 21, alert): P1 en route B5. D3 read 8 narrows candidates to: A4 B5 C6 D6 D7 E6. P2 at D5: D5 eliminated, please dig D6 or D7. P3 E6 and P4 C6 still good. Cover all 6!
+16 pirate-2 (turn 22): P2 at F3, heading D7. D3 read 8 also excludes D6 (dist 3) and C5/B4/C4 etc. Remaining: A4 B5 C6 E6 D7. Someone cover A4 too. Share digs!
+17 pirate-3 (turn 23): P3 continuing to E6, will dig and share. Remaining: A4 B5 C6 E6 D7. P1 after B5 should take A4 if nothing opens. Share all digs!
+18 pirate-4 (turn 24): P4 digging C6, sharing. Cover remaining candidates A4 B5 E6 D7!
+19 pirate-4 (turn 24, shared): Dug C6: 3 away.
+20 pirate-4 (turn 28): P4 heading to A4 to cover the last remaining candidate (A4 B5 E6 D7). P1 on B5, P3 E6, P2 D7. If anyone opens the cave, alert with the square so we all redirect!
+21 pirate-3 (turn 35): P3 digging E6, sharing. Remaining: A4 B5 E6 D7 — P1 B5, P2 D7, P4 A4. If cave opens, alert the square!
+22 pirate-1 (turn 37): P1 digging B5 (candidate). P4→A4, P2→D7, P3→E6 covers all 5 remaining. Sharing reading; if this opens the cave I'll alert the square next turn.
+23 pirate-1 (turn 37, shared): Dug B5: 3 away.
+24 pirate-3 (turn 39): P3 entering the cave at E6 — treasure found! Great triangulation crew. See you inside.
+25 pirate-1 (turn 41, alert): Cave at E6! P3 found it and entered. All pirates redirect to E6 and enter when standing on it. P1 en route now.
+26 pirate-2 (turn 42): P2 at D6 heading to cave at E6, entering next turn.
+27 pirate-4 (turn 43): P4 at A4 heading to E6, but it's 6 steps away and I have only 5 turns left — I may not make it in time. P1/P2: enter as soon as you're on the cave!
+28 pirate-2 (turn 45): P2 entering the cave at E6. Great job crew! P1, enter when you arrive. P4, head fast to E6!
+29 pirate-1 (turn 51): P1 entering the cave at E6! Great triangulation, crew. P4, hope you make it — enter as soon as you're standing on it!

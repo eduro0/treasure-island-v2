@@ -1,0 +1,46 @@
+1 pirate-1 (turn 1): P1 at A4. Plan: all dig current square shared. P1→A1, P2→J10, P3→J1, dig shared on arrival. P4 move mid. I'll list candidates after corner readings, we dig them, alert "CAVE AT X", all enter.
+2 pirate-1 (turn 1, shared): Dug A4: 2 away.
+3 pirate-2 (turn 2): P2 digging F1, heading to J10 next.
+4 pirate-2 (turn 2, shared): Dug F1: 12 away.
+5 pirate-3 (turn 3): P3 at J6, heading to J1 per plan, will dig shared on arrival.
+6 pirate-4 (turn 4): P4 at E10, heading mid E5 per plan, will dig shared on arrival.
+7 pirate-1 (turn 5): P1 leaving A4 for A1; will dig A1 shared. Noted: A4=2, F1=12.
+8 pirate-2 (turn 6, alert): Candidates from A4=2,F1=12: A5 A6 A7 B5 B6 B7 C6 (A4,F1 no cave). P2→C6 to dig. P1 dig A5/A6/A7. P3→C6 or B7. P4→B5 then B6/C6. If cave, alert "CAVE AT X".
+9 pirate-3 (turn 7): P3 at J5, redirecting to C6 to dig candidate, will dig shared. P2, if C6 already dug take B7.
+10 pirate-4 (turn 8): P4 at E9, headed to B5 per alert, will dig shared.
+11 pirate-1 (turn 9): Full candidates from A4=2,F1=12: A5-A10, B5-B9, C6-C8, D7 (15). P1 digs A5-A8. P2 C6,C7,C8. P3 B7,B8,B9. P4 B5,B6. Dig all shared.
+12 pirate-1 (turn 17): P1 at A5, digging shared.
+13 pirate-1 (turn 17, shared): Dug A5: 1 away.
+14 pirate-1 (turn 21): P1 dig A5:1 away (no narrowing), 14 left: A6-A10,B5-B9,C6-C8,D7. P1→A6 dig shared.
+15 pirate-1 (turn 25): P1 at A6, digging shared.
+16 pirate-1 (turn 25, shared): Dug A6: 1 away.
+17 pirate-1 (turn 29): P1 dig A6:1 away, no narrowing. 13 left: A7-A10,B5-B9,C6-C8,D7. P1→A7 dig shared.
+18 pirate-3 (turn 31): P3 at D5, blocked west by P2 at C5; will dig unassigned candidate D7 shared instead, then rejoin B7-B9 if needed.
+19 pirate-1 (turn 33): P1 at A7, digging shared.
+20 pirate-1 (turn 33, shared): Dug A7: 4 away.
+21 pirate-4 (turn 36): P4 at B5, digging shared.
+22 pirate-4 (turn 36, shared): Dug B5: 4 away.
+23 pirate-1 (turn 37): P1 dig A7:4 away, no narrowing. 11 left: A8-A10,B6-B9,C6-C8,D7. P1→A8 dig shared. P4 dig B6 then B7 if needed. P2 C6. P3 D7.
+24 pirate-2 (turn 38): P2 at C6 digging shared. Note A5=1 and A6=1 leave candidates A8-A10,B6-B8,C6,C7. If cave, alert "CAVE AT C6".
+25 pirate-2 (turn 38, shared): Dug C6: 6 away.
+26 pirate-3 (turn 39): P3 at D7, digging shared as planned.
+27 pirate-3 (turn 39, shared): Dug D7: 1 away.
+28 pirate-4 (turn 40): P4 at B5 dug 4, moving to B6 to dig shared.
+29 pirate-1 (turn 41): P1 dig A8. C6=6 & D7=1 narrow: 6 left A8 A9 B7 B8 B9 C8. P1 A8,A9; P2 C8; P3 B7; P4 B6 then B8. Alert CAVE AT X.
+30 pirate-1 (turn 41, shared): Dug A8: 3 away.
+31 pirate-2 (turn 42): P2 heading C8 to dig shared. Candidates after A8=3: A9, B7, B8, B9, C8. P1 A9, P3 B7, P4 B8 or B6 probe. If cave, alert "CAVE AT X".
+32 pirate-3 (turn 43): P3 at D7, way west blocked by P2 at C7; waiting a beat. Will take B7 next, B8 if P4 takes B7. B9 still uncovered, please cover.
+33 pirate-4 (turn 44): P4 at B6 undug; probing B6 shared (not candidate per C6=6). Then B8, then B9 if open.
+34 pirate-4 (turn 44, shared): Dug B6: 2 away.
+35 pirate-1 (turn 45): P1 dug A8=3, no narrowing. 5 left: A9 B7 B8 B9 C8. P1→A9 dig shared, then B9 if open. P2 C8, P3 B7, P4 B8.
+36 pirate-3 (turn 47): P3 at D7, heading to B7 to dig shared per plan; will alert if cave.
+37 pirate-4 (turn 48): P4 at B6 dug 2, no narrowing. Heading to B8 to dig shared (pass through B7; if I block P3 at B7, P3 take B9).
+38 pirate-1 (turn 49): P1 at A9, digging shared. 5 left: A9 B7 B8 B9 C8. If not cave, P1→B9 next, dig shared.
+39 pirate-2 (turn 50): P2 at C8 digging shared. If cave, alert "CAVE AT C8".
+40 pirate-2 (turn 50, shared): Dug C8: 1 away.
+41 pirate-3 (turn 51): P3 at C7 digging shared info. P4: please DIG B7 on turn 52 (you're on it) so if cave you can ENTER at 56. P3 blocked; can't reach B8/B9 in time.
+42 pirate-3 (turn 51, shared): Dug C7: 1 away.
+43 pirate-1 (turn 53, alert): CAVE AT A9! Everyone go_to A9 and enter. P2 from C8 go_to A9. P3 from C7 go_to A9. P4 from B8 go_to A9.
+44 pirate-3 (turn 55): P3 at C7, heading to A9 per alert; only 1 turn left after this so likely can't reach to enter. Well done P1!
+45 pirate-4 (turn 56): P4 from B8 heading A9 per alert; 2 steps away, may arrive too late to enter. Moving now, unblocking B8 for P2.
+46 pirate-2 (turn 57): P2 from C8 to A9, but this is my last turn; 3 steps away so I can't reach to enter. Nice find P1.

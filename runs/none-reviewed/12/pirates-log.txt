@@ -1,0 +1,31 @@
+1 pirate-1 (turn 1): PLAN: All share digs. P1 scan col A rows 9,7,5,3,1. P2 col D rows 9,7,5,3,1. P3 col G rows 9,7,5,3,1. P4 col J rows 9,7,5,3,1. Infer cave, nearest pirates dig candidates; once found ALL ENTER.
+2 pirate-1 (turn 1, shared): Dug D10: 4 away.
+3 pirate-2 (turn 2): P2 at A4; heading to D1 then up col D (D1,D3,D5,D7) to cover more with my position. All digs shared.
+4 pirate-3 (turn 3): P3 at G1, digging per plan.
+5 pirate-3 (turn 3, shared): Dug G1: 5 away.
+6 pirate-4 (turn 4): P4 at J7, digging per plan.
+7 pirate-4 (turn 4, shared): Dug J7: 6 away.
+8 pirate-1 (turn 5): P1 adjusts: col A too far; instead dig F9,F7,F5,F3 sharing. Candidates: rows3-10, cols3-10ish. After digs, converge to best candidate; ALL ENTER once cave found.
+9 pirate-3 (turn 7): P3 at G1 done; heading up col G: G3 next.
+10 pirate-4 (turn 8): P4 continuing col J: J5 next, then J3,J1. All digs shared.
+11 pirate-3 (turn 15): P3 digging G3.
+12 pirate-3 (turn 15, shared): Dug G3: 1 away.
+13 pirate-4 (turn 16): G3:1 pinting cave within 5 of G3. P4 adjusts: dig central candidates H6 then G5/F4. All shared.
+14 pirate-1 (turn 17): P1 digs F9 share. G3:1 means cave within 5 of G3. P1 continues F7,F5 then converge.
+15 pirate-1 (turn 17, shared): Dug F9: 7 away.
+16 pirate-3 (turn 19): P3 at G3: cave within 5. Dig G4 next, then H3/G2 to cover near G3. All shared.
+17 pirate-1 (turn 21): P1 at F6 candidate, digging. Cover F6/F5/F4 cluster; then converge. All shares.
+18 pirate-3 (turn 23): P3 digging G4.
+19 pirate-3 (turn 23, shared): Dug G4: 7 away.
+20 pirate-2 (turn 26): P2 dug D1 per plan. Cave within 5 of G3 from G3:1; moving toward G-area after this dig.
+21 pirate-2 (turn 26, shared): Dug D1: 13 away.
+22 pirate-3 (turn 27): P3 G4:7 & P2 D1:13 -> cave NE of G3. Candidates: H6,G7,H7,I6,J5,I5,J4. P4 take H6; P3 G7 then H7/I6; P1/P2 cover I5/J5/J4.
+23 pirate-4 (turn 28): P4 digging H6 (candidate per P3). All shared.
+24 pirate-2 (turn 30): P2: D1:13 + D10:4 + F9:7 => cave is G7/H6/H7 (G8 out by F9, I/J out by D10). P2 heading G7.
+25 pirate-4 (turn 32, alert): CAVE at H6! Found it. Everyone come to H6 and ENTER. Cave is H6.
+26 pirate-1 (turn 33): P1 at F6, G6 blocked by P3; waiting one turn, then straight to H6 to ENTER.
+27 pirate-2 (turn 34): P2 at E1: H6 is 8 moves away and I have only 7 turns left, so I can't make it. Everyone else: ENTER now to keep max bonus. P2 heading H6 anyway.
+28 pirate-3 (turn 35): P3 at G6, stepping onto cave H6 to ENTER next turn.
+29 pirate-1 (turn 36): P1 heading H6 from F6 via G6; will ENTER on arrival.
+30 pirate-3 (turn 38): P3 at H6, entering the cave now. Great find, P4!
+31 pirate-1 (turn 41): P1 entering the cave. Nice find, P4!

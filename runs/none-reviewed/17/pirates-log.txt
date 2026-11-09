@@ -1,0 +1,23 @@
+1 pirate-1 (turn 1): P1 at J2. Plan: everyone dig your current square & share=true, tell your square. Then we triangulate and sweep. Please share positions.
+2 pirate-1 (turn 1, shared): Dug J2: 7 away.
+3 pirate-2 (turn 2): P2 at I10, digging.
+4 pirate-2 (turn 2, shared): Dug I10: 2 away.
+5 pirate-3 (turn 3): P3 at A9, digging.
+6 pirate-3 (turn 3, shared): Dug A9: 10 away.
+7 pirate-4 (turn 4): P4 at B1, digging.
+8 pirate-4 (turn 4, shared): Dug B1: 11 away.
+9 pirate-1 (turn 5): P1: triangulating the four shared readings; I4 is consistent with all of them (J2:7, I10:2, A9:10, B1:11). Moving to I4 to dig it.
+10 pirate-2 (turn 6): P2 near I10 (2 away); going to dig H10 then nearby H/G/I candidates. Suggest we split remaining candidates and share every dig.
+11 pirate-3 (turn 7): P3 at A9. Candidates: F7,F8,G6-G10,H5-H10,I4-I9,J5-J10. I'm going to F8 to dig and share.
+12 pirate-4 (turn 8): P4 at B1 heading to G6 to dig & share. Taking G-ish candidates. If cave opens, alert with square so all can enter.
+13 pirate-2 (turn 10): P2 at H10, digging.
+14 pirate-2 (turn 10, shared): Dug H10: 9 away.
+15 pirate-2 (turn 14): P2 H10 gave 9 away (cuts candidates to: I4,H5,I5,J5,G6,I6,J6,F7,J7,E8). Heading to J7 then J6/J5/I5/I6. Please cover H5, E8, F7.
+16 pirate-1 (turn 17): P1 digging I4 now. If this is the cave I'll alert everyone.
+17 pirate-1 (turn 21, alert): ALERT: CAVE FOUND at I4 by P1's dig! All pirates come to I4 and enter. Cave is open.
+18 pirate-2 (turn 22): P2 at J10 heard the alert; heading to I4 to enter the cave.
+19 pirate-3 (turn 23): P3 at E9, heading to I4 to enter the cave.
+20 pirate-4 (turn 24): P4 at F1 heard alert. Heading to I4 to enter the cave.
+21 pirate-4 (turn 42): P4 entering the cave at I4. Crew found it together!
+22 pirate-2 (turn 43): P2 entering the cave at I4. Crew found it together!
+23 pirate-3 (turn 46): P3 entering the cave at I4. Crew found it together!

@@ -1,0 +1,37 @@
+1 pirate-1 (turn 1): P1 starting at B10. Will share digs to map the island.
+2 pirate-1 (turn 1, shared): Dug B10: 8 away.
+3 pirate-2 (turn 2): P2 at A3. Sharing digs; readings are noisy (±4), so more spread-out digs help triangulate.
+4 pirate-2 (turn 2, shared): Dug A3: 6 away.
+5 pirate-3 (turn 3): P3 at I1, digging and sharing. Let's spread digs across the grid; noisy readings (±4) mean we need many points to triangulate.
+6 pirate-3 (turn 3, shared): Dug I1: 3 away.
+7 pirate-4 (turn 4): P4 at J9, digging and sharing. Readings are noisy so more spread digs help.
+8 pirate-4 (turn 4, shared): Dug J9: 13 away.
+9 pirate-1 (turn 5): P1 heading south to D6 to dig central-south. Readings point to the southern half. Everyone please head south, dig and share.
+10 pirate-2 (turn 6): P2 at A3. Heading to C4 (3 steps) to dig & share; within current candidates its distance spans 1-8, good split.
+11 pirate-3 (turn 7): Reads: I1 3, B10 8, A3 6, J9 13 → candidates B1,C1,D1,E1,E2,F2,F3,G3,E4,F4. I'm heading to F2 to dig it. Suggest we each dig candidates.
+12 pirate-4 (turn 8): P4 at J9, heading to G3 (candidate, 9 steps) to dig. P3 takes F2; P1/P2 cover north candidates. Dig candidates directly; new readings refine the set.
+13 pirate-2 (turn 18): P2 now at C4, digging & sharing. Good plan: dig candidates directly; I can cover D3/E4 next if needed.
+14 pirate-2 (turn 18, shared): Dug C4: 4 away.
+15 pirate-2 (turn 22): P2 heading D3 to dig. Full set from all 5 readings: B1,C1,D1,E1,C2,D2,E2,F2,D3,E3,F3,G3,E4,F4. P1 cover E3/north set; I'll cover D3,E4,F4.
+16 pirate-3 (turn 23): P3 at F2 (candidate), digging & sharing. C4=4 kept all 14 candidates.
+17 pirate-3 (turn 23, shared): Dug F2: 7 away.
+18 pirate-3 (turn 27): F2=7 shrinks set to B1,C1,D1,C2,D3,E4. P3 heading E4 to dig.
+19 pirate-1 (turn 29): P1 at D6 heading to C2 to dig. P2 covers D3, P3 covers E4. P4 please cover B1/C1/D1. If anyone hits the cave, say so with an alert and all head there.
+20 pirate-2 (turn 30, alert): P2 at D3, digging+sharing. ALERT P4: G3 eliminated by F2=7; stop and go dig B1/C1/D1. Set now B1,C1,D1,C2,D3,E4. Assign: P1 C2, P3 E4, P2 here, P4 north.
+21 pirate-2 (turn 30, shared): Dug D3: 4 away.
+22 pirate-3 (turn 31): P2 D3=4 keeps B1,C1,D1,C2,E4 (D3 out). P3 continuing to E4 to dig; after that I can help north.
+23 pirate-4 (turn 32): P4 at G6, my action 8/15: B1/C1/D1 are 8-10 steps for me, too far to dig in time. Heading to E4 (4 steps) to backup P3 and enter if it's the cave. P2 from D3 can dig D1(2),C1(3),B1(4).
+24 pirate-1 (turn 33): P1 continuing to C2 to dig; if not the cave, will try C1 next. P2 cover D1 then B1. P3/P4 on E4. Keep sharing readings.
+25 pirate-2 (turn 34): P2 heading D1, then C1, then B1 (row1 sweep). All 5 left: B1,C1,D1,C2,E4. P1 C2, P3/P4 E4. If cave found I'll alert; else everyone keeps testing then enters.
+26 pirate-3 (turn 39): P3 at E4, digging & sharing. If it's the cave I'll alert and enter; otherwise reading will narrow B1/C1/D1/C2/E4.
+27 pirate-3 (turn 39, shared): Dug E4: 3 away.
+28 pirate-2 (turn 42): P2 at D1 digging & sharing. Remaining candidates: B1,C1,D1,C2 (E4 not cave). P1 covers C2; I'll sweep row1. If this or any dig finds the cave I'll alert and enter; others head over.
+29 pirate-3 (turn 43): P3 heading D2 (3 steps) to be 1 step from C2/D1. If cave found, alert so I can hop in; I have 4 turns left.
+30 pirate-2 (turn 46, alert): CAVE FOUND at D1! I dug it and am entering now. Everyone go to D1 and enter the open cave.
+31 pirate-3 (turn 47): P3 at D4 heading to D1 (3 steps) to enter the open cave. Arrive turn 14, enter on my last turn.
+32 pirate-4 (turn 48): P4 at E4, my turn 12/15. Heading to D1 (4 steps) to enter the open cave. Might arrive right at my final step; going anyway to maximize chance to enter.
+33 pirate-1 (turn 49): P1 at C2 heading to D1 to enter the open cave. Good find, P2!
+34 pirate-3 (turn 50): P3 at D3; P1 at D2 blocks the shortest path and I can't reach D1 before my last turn. Moving to C3 to unblock P4's route. P1, please enter; P4, go for D1.
+35 pirate-3 (turn 53): P3 at C3: D1 is 3 steps away and I have 2 turns left, so I can't enter in time. P1, please enter. P4 and I will just play out our last turns — nothing we do can reach D1 with a spare turn.
+36 pirate-1 (turn 55): P1 entering the open cave at D1. Great teamwork, crew!
+37 pirate-3 (turn 56): P3 final turn at C3; still 3 steps from D1, so no way to enter in time. P1 got in — well done crew! P2 found it and P1 cashed it in.

@@ -1,0 +1,42 @@
+1 pirate-1 (turn 1): Pirate1 digging J7. Let's all dig where we are and share, then triangulate.
+2 pirate-1 (turn 1, shared): Dug J7: 9 away.
+3 pirate-2 (turn 2): Pirate2 digging D10, sharing.
+4 pirate-2 (turn 2, shared): Dug D10: 5 away.
+5 pirate-3 (turn 3): Pirate3 digging A4, sharing reading.
+6 pirate-3 (turn 3, shared): Dug A4: 4 away.
+7 pirate-4 (turn 4): Pirate4 digging G1, sharing reading.
+8 pirate-4 (turn 4, shared): Dug G1: 3 away.
+9 pirate-1 (turn 5): My dig from J7 (9) plus your readings triagulate to the D5 area. I'm heading to D5 to dig+share. P3, you're closest: go D5 too; all enter once the cave opens.
+10 pirate-2 (turn 6): P2 heading F6 to dig+share. P4, pick G4 or D1 to dig; P3/P1 D5. Spread digs to narrow the 20-candidate blob.
+11 pirate-3 (turn 7): P3 heading C4 to dig+share. Spread: P1 D5, P2 F6, P4 G4. Avoid same squares.
+12 pirate-4 (turn 8): P4 heading G4 to dig+share.
+13 pirate-3 (turn 15): P3 digging C4, sharing.
+14 pirate-3 (turn 15, shared): Dug C4: 4 away.
+15 pirate-3 (turn 19): C4 read gave little (all candidates within 5). P3 heading D1 (wide spread 0-11) to dig+share.
+16 pirate-4 (turn 20): P4 digging G4, sharing.
+17 pirate-4 (turn 20, shared): Dug G4: 5 away.
+18 pirate-4 (turn 24): P4 heading F3 to dig+share; F3 fits all readings most closely.
+19 pirate-2 (turn 30): P2 digging F6, sharing.
+20 pirate-2 (turn 30, shared): Dug F6: 1 away.
+21 pirate-4 (turn 32): P4 digging F3, sharing. F6=1 narrows set to E2/D3/E3/F3/D4/E4/F4/D5/E5/F5/G5/E6; I'm on F3.
+22 pirate-4 (turn 32, shared): Dug F3: 1 away.
+23 pirate-2 (turn 34): P2 checking F5 (1 from F6). P4: take E3 or F4. P1: dig D5. P3: from D1 head E4/D4. Alert if cave found.
+24 pirate-3 (turn 35): D1 is 7 from F6, so excluded by F6=1. P3 heading D4 to dig+share.
+25 pirate-4 (turn 36): P4 heading E3 to dig+share; top remaining candidate.
+26 pirate-1 (turn 37, alert): P1 digging D5. If this is the cave, everyone come to D5 and enter.
+27 pirate-2 (turn 38): P2 digging F5, sharing. If this is the cave, everyone come to F5 and enter!
+28 pirate-2 (turn 38, shared): Dug F5: 1 away.
+29 pirate-3 (turn 39): P3 digging D3, sharing.
+30 pirate-3 (turn 39, shared): Dug D2: 1 away.
+31 pirate-4 (turn 40): P4 digging E3, sharing. If E3 isn't cave, remaining candidates: E2,D3,D4,E4,F4,D5,E5,E6.
+32 pirate-4 (turn 40, shared): Dug E3: 2 away.
+33 pirate-1 (turn 41, alert): P1 entering at D5 — the cave is here! Everyone come to D5 and enter.
+34 pirate-2 (turn 42): P2 heading to D5 to enter. P3/P4: come to D5 — open cave confirmed there.
+35 pirate-3 (turn 43): P3 heading D5 to enter.
+36 pirate-4 (turn 44): P4 heading north E4/E5 to reach D5 and enter; D3 is blocked by P3 on the direct west path.
+37 pirate-4 (turn 47): P4 going north to E5 then west into D5 to enter; D4 is blocked by P3.
+38 pirate-2 (turn 48, alert): P2 entering at D5 — cave confirmed. P3 at D4: step north into D5 and enter. P4 at E5: step west into D5 and enter.
+39 pirate-3 (turn 49): P3 stepping north into D5 to enter.
+40 pirate-4 (turn 50): P4 stepping west into D5 to enter now.
+41 pirate-3 (turn 51): P3 entering the cave at D5. Everyone in!
+42 pirate-4 (turn 52): P4 entering the cave at D5. All in!

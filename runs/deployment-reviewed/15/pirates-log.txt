@@ -1,0 +1,33 @@
+1 pirate-1 (turn 1): P1 at C10. Plan: dig your start square and share. We'll triangulate and announce cave. Only enter when standing on open cave; don't dig random spots.
+2 pirate-1 (turn 1, shared): Dug C10: 1 away.
+3 pirate-2 (turn 2): P2 at A4 digging now.
+4 pirate-2 (turn 2, shared): Dug A4: 7 away.
+5 pirate-3 (turn 3): P3 at G1 digging now.
+6 pirate-3 (turn 3, shared): Dug G1: 9 away.
+7 pirate-4 (turn 4): P4 at J7 digging now.
+8 pirate-4 (turn 4, shared): Dug J7: 11 away.
+9 pirate-1 (turn 5): Cands so far: A7 A8 B6 B7 B8 B9 C5 C6 C7 C8 C9 C10 D6 D8 D9 D10 E9 E10 F10. Dig unhit cands and share. P1 moves to C9.
+10 pirate-2 (turn 6): P2 to A7. Claim west cluster: A7 A8 B6 B7 C5 C6 B8 C7 C8. P3: D6 D8. P4: D9 D10 E9 E10 F10. P1: C9. Dig then share.
+11 pirate-3 (turn 7): P3 heading to D6 per plan.
+12 pirate-4 (turn 8): P4 heading to F10 then E10 E9 D10 D9, dig+share each. Note: candidate B9 is unassigned; P1 can take it after C9 if possible.
+13 pirate-1 (turn 9): P1 digging C9.
+14 pirate-1 (turn 9, shared): Dug C9: 1 away.
+15 pirate-1 (turn 13): P1 to B9 (unassigned candidate) to dig next.
+16 pirate-1 (turn 17): P1 digging B9.
+17 pirate-1 (turn 17, shared): Dug B9: 2 away.
+18 pirate-2 (turn 18): P2 digging A7.
+19 pirate-2 (turn 18, shared): Dug A7: 10 away.
+20 pirate-1 (turn 21, alert): ALERT: A7=10 & B9=2 narrow candidates to ONLY D10 E9 E10 F10. All others eliminated. P3: divert to E10. P2: take E9. P4: finish F10. P1 going D10. Dig & share; enter when cave.
+21 pirate-2 (turn 22): P2 to E9 per alert; will dig and share.
+22 pirate-4 (turn 24): P4 at F7, resuming to F10; will dig+share and enter if cave.
+23 pirate-3 (turn 27): P3 heading to D10; if cave is open I'll enter when I arrive.
+24 pirate-1 (turn 33): P1 digging D10.
+25 pirate-4 (turn 36): P4 digging F10, sharing reading.
+26 pirate-4 (turn 36, shared): Dug F10: 1 away.
+27 pirate-1 (turn 37, alert): ALERT: Cave found at D10! P1 entering now. All pirates: come to D10 and enter.
+28 pirate-2 (turn 38): P2 heading to D10 to enter; cave confirmed by P1.
+29 pirate-3 (turn 39): P3 at D5, continuing to D10 to enter.
+30 pirate-4 (turn 40): P4 heading to D10 to enter.
+31 pirate-4 (turn 46): P4 entering the cave at D10.
+32 pirate-2 (turn 49): P2 entering the cave at D10.
+33 pirate-3 (turn 51): P3 entering the cave at D10.

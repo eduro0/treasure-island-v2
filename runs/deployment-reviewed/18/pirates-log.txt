@@ -1,0 +1,34 @@
+1 pirate-1 (turn 1): P1 at I10. Let's all share digs, triangulate, and rush to the cave together.
+2 pirate-1 (turn 1, shared): Dug I10: 8 away.
+3 pirate-2 (turn 2): P2 at A9. Let's all share every dig; readings are noisy (up to 4 off), so more points = better cave estimate.
+4 pirate-2 (turn 2, shared): Dug A9: 1 away.
+5 pirate-3 (turn 3): P3 at B1, digging and sharing. Let's pool readings and estimate the cave.
+6 pirate-3 (turn 3, shared): Dug B1: 12 away.
+7 pirate-4 (turn 4): P4 at J2, digging and sharing. Let's pool readings and converge on the cave.
+8 pirate-4 (turn 4, shared): Dug J2: 17 away.
+9 pirate-1 (turn 5): P1 reading I10=8; with A9=1, B1=12, J2=17, cave is likely in {A8 A10 B9 B10 C9 C8 C10 D9 D10 E10}. Heading to C10, I'll test C10/C9. P2 please cover A8/A10/B9 west.
+10 pirate-2 (turn 6): P2 covering west candidates. Digging B9 now.
+11 pirate-2 (turn 6, shared): Dug A9: 1 away.
+12 pirate-3 (turn 7): P3 at B1, heading to C8. Confirmed candidates: A8 A10 B9 B10 C8 C9 C10 D9 D10 E10. P1 C10/C9, P2 west, P4 please take D10 E10 B10; I'll dig C8 then D9.
+13 pirate-2 (turn 10): P2 note: dig only digs the square I'm on; my earlier "B9" dig actually read A9 again. Moving to B9 now; then A8/A10.
+14 pirate-2 (turn 14): P2 at B9. Digging candidate B9.
+15 pirate-2 (turn 14, shared): Dug B9: 4 away.
+16 pirate-2 (turn 18): P2 B9=4 away. Moving to A8 next; after that A10 then B10 to cover west candidates.
+17 pirate-4 (turn 20): P4 at J2, heading west toward D9 area. Few turns left; will share digs en route. Remaining candidates: A8 A10 B10 C8 C9 C10 D9 D10 E10 (A9,B9 dug, not cave).
+18 pirate-2 (turn 26): P2 at A8, digging candidate A8.
+19 pirate-2 (turn 26, shared): Dug A8: 3 away.
+20 pirate-1 (turn 29): P1 at C10, digging candidate C10 now. If not cave, I'll move to C9 next and dig.
+21 pirate-1 (turn 29, shared): Dug C10: 1 away.
+22 pirate-2 (turn 30): P2 dug A8=3. Candidates left: A10 B10 C8 C9 D9 D10 E10. Going A10 then B10 then D10. P1 C9, P3 C8/D9, P4 E10 if able.
+23 pirate-1 (turn 33): P1: C10=1 away, so cave is most likely one step from C10 (B10/C9/D10). Heading to C9 to dig next. P2 please cover B10/D10, P4 E10.
+24 pirate-1 (turn 37): P1 at C9, digging candidate C9 now. If found, I'll enter. If not, I'll head to D10 next.
+25 pirate-2 (turn 38): P2 at A10, digging candidate A10.
+26 pirate-2 (turn 38, shared): Dug A10: 1 away.
+27 pirate-3 (turn 39): P3 at C8, digging candidate C8 now. If not cave, remaining: B10 C9 D9 D10 E10.
+28 pirate-3 (turn 39, shared): Dug C8: 3 away.
+29 pirate-1 (turn 41): CAVE FOUND at C9! P1 entering now. All pirates: come to C9 and enter!
+30 pirate-2 (turn 42, alert): ALERT: Cave found at C9 by P1! I'm P2 at A10, heading to C9 now. All pirates go to C9 and enter.
+31 pirate-3 (turn 43): P3 at C8, heading to C9 cave now. Entering next turn.
+32 pirate-4 (turn 44): P4 at D2, heading to C9 cave. I'm 8 steps out with too few turns left to arrive, so I won't make it in — great work everyone! Enter and claim the bounty.
+33 pirate-3 (turn 46): P3 entering the cave at C9. Great digging, crew — see you inside!
+34 pirate-2 (turn 50): P2 entering the cave at C9. Great work, crew!

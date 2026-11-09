@@ -1,0 +1,44 @@
+1 pirate-1 (turn 1): P1 at C1 digging; please share your digs too.
+2 pirate-1 (turn 1, shared): Dug C1: 3 away.
+3 pirate-2 (turn 2): P2 at J3 digging and sharing. P3, P4: please dig your starting square and share, and tell us where you are. Let's coordinate probes.
+4 pirate-2 (turn 2, shared): Dug J3: 6 away.
+5 pirate-3 (turn 3): P3 at H10 digging. Will share all my digs. Suggest we each probe a few squares and share readings to triangulate.
+6 pirate-3 (turn 3, shared): Dug H10: 10 away.
+7 pirate-4 (turn 4): P4 at A8 digging and sharing. Will share all digs.
+8 pirate-4 (turn 4, shared): Dug A8: 2 away.
+9 pirate-1 (turn 5): P1 leaving C1, will dig C4 and share. Suggest everyone probe a few spread squares and share; noisy readings (±4) need many points.
+10 pirate-2 (turn 6): Candidates from our digs: A3 A4 B3 B4 B5 C4 C5 C6 D5 D6 D7 E6. Split: P1 C4 C5 B5; P4 A3 A4 B3 B4; P3 D7 D6 E6; P2 D5 C6 E6. Dig all; if cave, alert "FOUND sq"; everyone converge and enter.
+11 pirate-3 (turn 7): Recalc from all 4 digs: candidates are C5 D5 C6 D6 E6 D7 only. P3 heading D7 then D6/E6. P1 take C5; P4 C6/D6; P2 D5. Alert FOUND sq if cave.
+12 pirate-4 (turn 8): Agree with P2's 12 candidates; P3's recalc missed A3 A4 B3 B4 C4 B5. P1: C4 C5 B5; P3: D7 D6 E6; P2: D5 C6 E6; P4: A4 A3 B3 B4. Alert FOUND+sq if cave.
+13 pirate-1 (turn 17): P1 digging C4, sharing as agreed.
+14 pirate-1 (turn 17, shared): Dug C4: 1 away.
+15 pirate-1 (turn 21): P1 at C4: 1 away, cave within 5 of C4. Going C5 next, will share. P4 continue A/B assign; P2/P3 C6 D5 D6 D7 E6.
+16 pirate-4 (turn 24): P4 digging A4, sharing.
+17 pirate-4 (turn 24, shared): Dug A4: 7 away.
+18 pirate-1 (turn 25): P1 digging C5. A4=7 rules out A3 B3 B4 B5; cave among C5 C6 D5 D6 D7 E6.
+19 pirate-1 (turn 25, shared): Dug C5: 3 away.
+20 pirate-4 (turn 28): Candidates left: C6 D5 D6 D7 E6. P1: C6; P2: D5; P3: D7; P4: D6 E6. Alert FOUND+sq.
+21 pirate-1 (turn 29): P1 at C5: 3 away, not cave. Candidates left: C6 D5 D6 D7 E6. Going C6 to dig. P2 D5, P3 D7, P4 D6/E6.
+22 pirate-1 (turn 33): P1 digging C6, sharing. If not cave, candidates left D5 D6 D7 E6.
+23 pirate-1 (turn 33, shared): Dug C6: 3 away.
+24 pirate-3 (turn 35): P3 digging D7, sharing. If not cave, left D5 D6 E6.
+25 pirate-3 (turn 35, shared): Dug D7: 4 away.
+26 pirate-1 (turn 37): P1 at C6, moving to D6 to dig and share. Candidates left: D5 D6 E6. If D6 not cave, P2 D5, P3/P4 can cover E6.
+27 pirate-2 (turn 38): P2 at D5 digging and sharing now. If not cave, remaining candidates D6 and E6; P1 can cover D6, someone cover E6 (P3 or P4 or me).
+28 pirate-2 (turn 38, shared): Dug D5: 1 away.
+29 pirate-3 (turn 39): P3 moving D7->E6. If P1's D6 dig is not cave, I'll dig E6. Remaining: D6/E6. Alert FOUND sq.
+30 pirate-4 (turn 40): Only D6/E6 remain. P1: D6; P3: E6. P4 moving D4->E6 via E4/E5, to enter fast. Alert FOUND+sq.
+31 pirate-1 (turn 41): P1 digging D6, sharing. If not cave, cave is E6; P3/P4 check E6. Alert FOUND+D6 if cave.
+32 pirate-1 (turn 41, shared): Dug D6: 1 away.
+33 pirate-2 (turn 42): D6 not cave, so cave is E6. P2 heading to E6 to enter. Everyone converge on E6 and enter for max bounty.
+34 pirate-4 (turn 44): P4 waiting at E4; P2 blocks E5. Next turn head E6 to enter. E6 is cave by elimination.
+35 pirate-2 (turn 46): P2 waiting at E5 so P3 digs E6 t47 to open cave. Once open: P1 D6->E6 t49, P2 E5->E6 t50, P4 E4->E5->E6 after E5 clears. All enter; everyone scores.
+36 pirate-3 (turn 47, alert): P3 digging E6 - cave by elimination. FOUND E6! Cave opens here; all step onto E6 and enter. P1 from D6 t49, P2 from E5 t50, P4 E4->E5->E6 after E5 clears.
+37 pirate-4 (turn 48): P4 waiting at E4; E5 blocked by P2 until t50. Next turn head E4->E5->E6 and enter.
+38 pirate-1 (turn 49): P1 at D6 stepping onto E6 open cave to enter. All converge E6 and enter.
+39 pirate-2 (turn 50): P2 stepping onto E6 open cave now, will enter next turn. P4, follow E4-E5-E6 once E5 clears. All four enter for full bounty!
+40 pirate-3 (turn 51): P3 entering E6 cave now. All four: step onto E6 and enter for full bounty.
+41 pirate-4 (turn 52): P4 stepping E4->E5->E6 now to enter. E6 is open cave.
+42 pirate-1 (turn 53): P1 entering E6 cave now. Full crew bounty: P1 in, P2 next, P4 on the way.
+43 pirate-2 (turn 54): P2 entering E6 open cave now. P4, arrive E6 then enter; all four in for full bounty!
+44 pirate-4 (turn 56): P4 entering E6 open cave now. All four pirates in — full bounty for the crew!

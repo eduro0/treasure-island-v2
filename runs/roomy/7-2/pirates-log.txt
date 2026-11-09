@@ -1,0 +1,58 @@
+1 pirate-1 (turn 1): P1 at J8. I'll dig my start and share all readings; please share all digs so we can triangulate the cave.
+2 pirate-1 (turn 1, shared): Dug J8: 1 away.
+3 pirate-2 (turn 2): P2 at C10. I'll dig my start and share all readings too.
+4 pirate-2 (turn 2, shared): Dug C10: 5 away.
+5 pirate-3 (turn 3): P3 at A3. I'll share all digs too. Let's triangulate.
+6 pirate-3 (turn 3, shared): Dug A3: 13 away.
+7 pirate-4 (turn 4): P4 at H1. Digging start and sharing. Let's triangulate.
+8 pirate-4 (turn 4, shared): Dug H1: 12 away.
+9 pirate-1 (turn 5): Candidates: E8 F7 F8 F9 G8 G9 G10 H9 H10 I8 I9 I10 J9 J10. Plan: P1 digs I8/I9/J9; P2 digs G10/H10; P4 digs F7/E8/F8; P3 go toward E8 digging on way. Share all digs.
+10 pirate-2 (turn 6): P2 making for G10 per plan.
+11 pirate-3 (turn 7): P3 heading east per plan, digging on way. Will share all reads.
+12 pirate-4 (turn 8): P4 heading to F7 then E8/F8. Note: F10 also fits all readings; P2 may pass it en route to G10.
+13 pirate-1 (turn 9): F10 doesn't fit: it's 6 steps from my J8 (1 away allows only 1-5). Digging I8 now.
+14 pirate-1 (turn 9, shared): Dug I8: 3 away.
+15 pirate-3 (turn 11): Digging B3, sharing. Continuing east.
+16 pirate-3 (turn 11, shared): Dug B3: 12 away.
+17 pirate-1 (turn 13): Update candidates: E8 F7 F8 F9 G8 G9 G10 H9 H10 I9 I10 J9 J10. P1: dig I9 then J9/J10/I10. P2: dig G10/H10. P4: dig F8/E8/F7. P3: dig G8/F9/G9. Share all.
+18 pirate-3 (turn 15): P3 heading to G8, then F9/G9 per plan. Share all digs.
+19 pirate-1 (turn 17): Digging I9 now, sharing.
+20 pirate-1 (turn 17, shared): Dug I9: 2 away.
+21 pirate-1 (turn 21): I9=2 away keeps all. P1 now digging I10. Team: P2 G10/H10, P4 F8/E8/F7, P3 G8/F9/G9. Share all readings.
+22 pirate-2 (turn 22): P2 digging G10 per plan.
+23 pirate-2 (turn 22, shared): Dug G10: 1 away.
+24 pirate-1 (turn 25): At I10. Digging I10, sharing. G10=1 fits all remaining; candidates: E8 F7 F8 F9 G8 G9 H9 H10 I10 J9 J10.
+25 pirate-1 (turn 25, shared): Dug I10: 6 away.
+26 pirate-2 (turn 26): I10=6 eliminates H10 and J10. Candidates now: E8 F7 F8 F9 G8 G9 H9 J9. I'm at G10, will dig G9 next.
+27 pirate-1 (turn 29): I10=6 confirms H10/J10 out. Candidates: E8 F7 F8 F9 G8 G9 H9 J9. P1 digs J9 next. Share all.
+28 pirate-2 (turn 30): P2 digging candidate G9, sharing.
+29 pirate-2 (turn 30, shared): Dug G9: 4 away.
+30 pirate-2 (turn 34): G9=4 keeps all 7: E8 F7 F8 F9 G8 H9 J9. I'm at G9, will dig H9 next.
+31 pirate-1 (turn 37): At J9, digging and sharing. G9=4 keeps E8 F7 F8 F9 G8 H9 J9. Team: P2 H9, P3 G8/F9, P4 F7/E8/F8.
+32 pirate-1 (turn 37, shared): Dug J9: 4 away.
+33 pirate-2 (turn 38): P2 digging H9, sharing. J9=4 fits all remaining; candidates: E8 F7 F8 F9 G8 H9.
+34 pirate-2 (turn 38, shared): Dug H9: 5 away.
+35 pirate-4 (turn 40): P4 at F7, digging and sharing. H9=5 leaves candidates E8 F7 F8 F9 G8.
+36 pirate-4 (turn 40, shared): Dug F7: 5 away.
+37 pirate-1 (turn 41): Candidates E8 F8 F9 G8. P1 heading F8 to dig it and be 1 step from any find. P4 E8, P2 F9, P3 G8. If found, alert the cave square so everyone can come enter.
+38 pirate-2 (turn 42): P2 heading to F9 to dig and share. Agreed: finder alerts the cave square.
+39 pirate-4 (turn 44): P4 heading to E8 now (F7 was 5 away, keeps E8/F8/F9/G8). Will dig E8 and share; if the cave is found, alert the square.
+40 pirate-2 (turn 50): P2 digging F9, sharing. Finder will alert the cave square.
+41 pirate-2 (turn 50, shared): Dug F9: 1 away.
+42 pirate-4 (turn 52): P4 at E8, digging and sharing. F9=1 still fits E8/F8/G8. If cave found, alerting square.
+43 pirate-4 (turn 52, shared): Dug E8: 1 away.
+44 pirate-1 (turn 53): P1 at G9, waiting (P2 blocks F9, P3 at G8). Candidates now F8 or G8 only. If G8 isn't cave, F8 must be. I'll head to whichever is found; finder please alert.
+45 pirate-2 (turn 54): P2 moving to F8 to dig it — F8/G8 are the last two candidates. If G8 is the cave, P3 alert it and I'll come.
+46 pirate-3 (turn 55, alert): P3 digging G8 now. If not the cave, F8 must be it. Alerting if found.
+47 pirate-3 (turn 55, shared): Dug G8: 5 away.
+48 pirate-4 (turn 56): P4 waiting at E8; F8 is the only candidate left. P2 is on it, please dig and alert if it's the cave; I'll enter right after it opens.
+49 pirate-1 (turn 57): G8=5 means F8 is the cave. P1 heading to F8 via F9 (now clear). P2 opens it soon; everyone: enter as soon as you're on F8.
+50 pirate-2 (turn 58): P2 at F8, digging now. If it's the cave I'll enter next turn; everyone come to F8.
+51 pirate-3 (turn 59): P3 waiting at G8; F8 is open per P2. Will step onto F8 and enter right after P2 enters.
+52 pirate-4 (turn 60): P4 stepping onto the open cave F8 now; will enter as soon as I arrive.
+53 pirate-2 (turn 62): P2 entering the cave at F8. See you all inside!
+54 pirate-3 (turn 63): P3 waiting at G8; F8 is the cave and P1 is on it. I'll step onto F8 and enter as soon as it's clear.
+55 pirate-4 (turn 64): P4 entering the cave at F8. See you all inside!
+56 pirate-1 (turn 65): P1 entering the open cave at F8. See you all inside!
+57 pirate-3 (turn 66): P3 stepping onto the open cave F8; entering next turn.
+58 pirate-3 (turn 67): P3 entering the cave at F8. Great work, crew! All four inside.

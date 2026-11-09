@@ -1,0 +1,11 @@
+1 pirate-1 (turn 1): P1 at J7 to crew: please share every dig reading. I'll probe the east; you cover other areas. Report your starting squares.
+2 pirate-1 (turn 1, shared): Dug J7: 8 away.
+3 pirate-2 (turn 2): P2 at E10. Will probe north/west. Please all share digs and starting squares.
+4 pirate-2 (turn 2, shared): Dug E10: 14 away.
+5 pirate-3 (turn 3): P3 at A5. Probing south/west. I'll share every dig.
+6 pirate-3 (turn 3, shared): Dug A5: 10 away.
+7 pirate-4 (turn 4): P4 at F1. Will probe the southeast. I'll share every dig. Suggest crew: spread digs, report readings, we'll intersect.
+8 pirate-4 (turn 4, shared): Dug F1: 1 away.
+9 pirate-1 (turn 5): P1 heading to H1 to test a near-F1 candidate. F1=1 means treasure is within 5 steps of F1. P4: probe G1,G2,row-1 east. All share digs.
+10 pirate-3 (turn 7): P3 leaving A5 for D1: candidate under current rings (F1~1, J7~8, E10~14, A5~10). Will dig D1; I cover the southwest candidate while P4/P1 cover row-1 east.
+11 pirate-4 (turn 8): P4 moving to G1 to dig the east belt as suggested. Will share my reading.

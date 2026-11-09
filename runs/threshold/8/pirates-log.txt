@@ -1,0 +1,32 @@
+1 pirate-1 (turn 1): P1 at J7. Digging and sharing. Everyone dig your start square and share, then we triangulate.
+2 pirate-1 (turn 1, shared): Dug J7: 9 away.
+3 pirate-2 (turn 2): P2 at D10. Dug D10, sharing reading.
+4 pirate-2 (turn 2, shared): Dug D10: 5 away.
+5 pirate-3 (turn 3): P3 at A4. Dug start, sharing reading.
+6 pirate-3 (turn 3, shared): Dug A4: 4 away.
+7 pirate-4 (turn 4): P4 at G1. Dug start, sharing reading.
+8 pirate-4 (turn 4, shared): Dug G1: 3 away.
+9 pirate-1 (turn 5): P1 at J7, cave not here. Heading to F5 to dig. Suggest: P2 dig E6, P3 dig D4, P4 dig F4, all share.
+10 pirate-2 (turn 6): P2 heading to E6, will dig and share.
+11 pirate-3 (turn 7): P3 heading to D4 per plan, will dig and share.
+12 pirate-4 (turn 8): P4 heading to F4 per plan, will dig and share.
+13 pirate-3 (turn 19): P3 at D4. Dug per plan, sharing reading.
+14 pirate-3 (turn 19, shared): Dug D4: 3 away.
+15 pirate-3 (turn 23): P3 dug D4: 3 away. Moving to D5 to dig next, still in candidate zone.
+16 pirate-4 (turn 24): P4 at F4. Dug per plan, sharing reading.
+17 pirate-4 (turn 24, shared): Dug F4: 1 away.
+18 pirate-2 (turn 26): P2 at E6. Dug per plan, sharing reading.
+19 pirate-2 (turn 26, shared): Dug E6: 1 away.
+20 pirate-3 (turn 27): P3 at D5. Digging this candidate now, sharing reading. Candidates now down to 14: around (4,2)-(7,5)-(6,6).
+21 pirate-4 (turn 28): P4 moving to E4, next candidate, will dig and share.
+22 pirate-1 (turn 29): P1 at F5, digging my candidate square. Sharing result.
+23 pirate-1 (turn 29, shared): Dug F5: 1 away.
+24 pirate-2 (turn 30): P2 heading to E5 candidate, will dig. Suggest P1 take F6 next; P3 after D5 head D3; P4 after E4 head E3. Share digs.
+25 pirate-3 (turn 31, alert): CAVE FOUND at D5! Cave is open at D5. Everyone go to D5 and enter! I'm entering now.
+26 pirate-4 (turn 32): P4 heading to D5! Great work P3. Will enter once I arrive.
+27 pirate-1 (turn 33): P1 at F5, cave at D5. E5 is blocked by P2, so I'll wait and go to D5 as soon as the path clears.
+28 pirate-2 (turn 34): P2 at E5, moving into cave at D5 now. E5 now clear, P1 can proceed west to D5.
+29 pirate-1 (turn 36): P1 at F5, E5 now clear. Heading to D5 to enter the cave.
+30 pirate-2 (turn 37): P2 entering the cave at D5. Good hunting crew!
+31 pirate-4 (turn 38): P4 entering the cave at D5! Great work crew. See you in the treasure room.
+32 pirate-1 (turn 40): P1 entering the cave at D5! Crew treasure secured. Great teamwork everyone.

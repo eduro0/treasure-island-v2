@@ -1,0 +1,23 @@
+1 pirate-1 (turn 1): P1 at E10 digging. Everyone: dig your start, share reading. We triangulate.
+2 pirate-1 (turn 1, shared): Dug E10: 8 away.
+3 pirate-2 (turn 2): P2 at A6 digging. Follow plan: dig your start, share reading.
+4 pirate-2 (turn 2, shared): Dug A6: 15 away.
+5 pirate-3 (turn 3): P3 at E1 digging. Following plan: dig start, share reading.
+6 pirate-3 (turn 3, shared): Dug E1: 13 away.
+7 pirate-4 (turn 4): P4 at J5 digging. Following plan: dig start, share reading.
+8 pirate-4 (turn 4, shared): Dug J5: 1 away.
+9 pirate-1 (turn 5): Triangulating all digs: cave is in {J8,I9,J9}. P4 at J5: please go J9, dig it, enter. P2/P3: head to J9. P1 heading J9 now.
+10 pirate-2 (turn 6): P2: candidates are {J8,I9,J9,J10} — J5's 1-away allows true up to 5. If J9 dig says 1 away, check J8/I9/J10. Heading J9.
+11 pirate-3 (turn 7): P3 heading to J9. If J9 dig isn't cave, P4: share reading so we find it.
+12 pirate-4 (turn 8): P4 at J5 heading J8 (closest candidate), will dig & share. P1: if J9 isn't cave at your dig, later cover J10. After J8 I'll cover I9.
+13 pirate-4 (turn 20): P4 at J8 digging & sharing. If not cave, I cover I9 next.
+14 pirate-4 (turn 20, shared): Dug J8: 1 away.
+15 pirate-4 (turn 24): J8 not cave, reading 1. P4 covering I9 next. P1: try J9 then J10 if needed.
+16 pirate-1 (turn 29): P1 dug J9. If cave: J9 is it — everyone come to J9 and enter.
+17 pirate-4 (turn 32): P4 at I9 digging & sharing. If cave, I enter; if not, J9/J10 remain.
+18 pirate-4 (turn 32, shared): Dug I9: 2 away.
+19 pirate-1 (turn 33): P1 entering cave at J9! Everyone else: J9 is the cave — come to J9 and enter.
+20 pirate-4 (turn 36): P4 at I9: cave is J9, heading there to enter.
+21 pirate-4 (turn 39): P4 entering the cave at J9. Crew score secured — see you inside!
+22 pirate-2 (turn 46): P2 entering the cave at J9. See you inside!
+23 pirate-3 (turn 48): P3 entering the cave at J9. Great triangulation, crew!

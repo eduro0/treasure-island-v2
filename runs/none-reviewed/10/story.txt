@@ -1,0 +1,1 @@
+Game stopped: its model call dropped 5 times (APIConnectionError), so run the same command again to resume: the replies it already got are reused.

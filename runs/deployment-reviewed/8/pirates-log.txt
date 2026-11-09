@@ -1,0 +1,50 @@
+1 pirate-1 (turn 1): P1 at J7. Plan: everyone dig ~spread squares with share=true; we triangulate then converge. I'll head east-to-west digging.
+2 pirate-1 (turn 1, shared): Dug J7: 9 away.
+3 pirate-2 (turn 2): P2 at D10. Digging and sharing my square.
+4 pirate-2 (turn 2, shared): Dug D10: 5 away.
+5 pirate-3 (turn 3): P3 at A4. Digging and sharing my square.
+6 pirate-3 (turn 3, shared): Dug A4: 4 away.
+7 pirate-4 (turn 4): P4 at G1. Digging and sharing; will triangulate after we have more points.
+8 pirate-4 (turn 4, shared): Dug G1: 3 away.
+9 pirate-1 (turn 5): P1 heading to F6 to dig. Readings so far narrow cave to ~20 squares around rows1-6,cols2-7. Suggest: P3 dig C3, P4 dig E2, P2 dig D7 soon; each share=true, then we zero in.
+10 pirate-2 (turn 6): P2 moving to D7 to dig and share, per plan.
+11 pirate-3 (turn 7): P3 heading to C3 per plan; will dig+share when arrived.
+12 pirate-4 (turn 8): P4 heading to E2 to dig+share per plan.
+13 pirate-2 (turn 18): P2 digging D7, sharing reading.
+14 pirate-2 (turn 18, shared): Dug D7: 1 away.
+15 pirate-3 (turn 19): P3 at C3, digging+sharing per plan.
+16 pirate-3 (turn 19, shared): Dug C3: 6 away.
+17 pirate-4 (turn 20): P4 digging E2, sharing reading.
+18 pirate-4 (turn 20, shared): Dug E2: 1 away.
+19 pirate-2 (turn 22): P2 heading F7 to dig/share. Candidates now: D2 D4 D5 E3 E4 E5 E6 F4 F5 F6 G5. Suggest P1 dig F6+share, P3 dig A1+share, P4 dig G4+share.
+20 pirate-3 (turn 23): P3 heading to A1 to dig+share per P2's plan. Candidates ~11; hoping A1 reading splits them well.
+21 pirate-4 (turn 24): P4 heading to G4 to dig+share per plan. If any dig opens cave, alert with coords so we all reroute to enter fast.
+22 pirate-1 (turn 25): P1 at F6, digging and sharing now. If it's not the cave, reading should shrink the 11 candidates further. Then we converge on remaining candidates.
+23 pirate-1 (turn 25, shared): Dug F6: 1 away.
+24 pirate-1 (turn 29): P1: F6 was 1 away. Candidates now E3 D4 E4 F4 D5 E5 F5 G5 E6. Moving 1 step to E6 to dig+share; everyone dig nearest candidate and share so we zero in.
+25 pirate-2 (turn 30): P2 heading F5 to dig+share. Remaining 9 too tight to split: D4 D5 E3 E4 E5 E6 F4 F5 G5. P1: E6. P4: G4 not candidate, go G5 or F4. P3: head D4/D5/E3. All dig nearest candidate and share.
+26 pirate-1 (turn 33): P1 digging E6+share. If not cave, hopefully narrows cluster; then we check nearest candidates fast.
+27 pirate-1 (turn 33, shared): Dug E6: 1 away.
+28 pirate-1 (turn 37): P1: E6 not cave, 8 left: D4 D5 E3 E4 E5 F4 F5 G5. Moving to E5 to dig+share (then D5). Whoever opens cave: alert with coords!
+29 pirate-2 (turn 38): P2 digging F5+share. Still 8 candidates to dig: D4 D5 E3 E4 F4 G5 (E5 is P1's). P4: G4 not cave—go G5. P3: go D4 or E3. Then E4/F4 whoever arrives.
+30 pirate-2 (turn 38, shared): Dug F5: 1 away.
+31 pirate-3 (turn 39): P3 digging A1+sharing; will head toward the cluster (D4/E3) after.
+32 pirate-3 (turn 39, shared): Dug A1: 7 away.
+33 pirate-4 (turn 40): P4 at G4; G4 isn't a candidate and gives no info, heading to G5 to dig+share (1/7 chance it's cave). Cave opener: alert with coords so we all reroute fast!
+34 pirate-1 (turn 41): P1 on E5, digging+share. E5 reading splits: 1->D5/E4, 2->D4/E3/F4, 3->G5. I'll head to D5 after if needed.
+35 pirate-1 (turn 41, shared): Dug E5: 1 away.
+36 pirate-2 (turn 42): P2 at F5, going F4 to dig+share. 6 left: D4 D5 E3 E4 F4 G5. P1 take D5 then D4. P4 G5. P3 head D4/E3. If cave opens, alert coords!
+37 pirate-3 (turn 43): P3 at A1 done digging; heading toward E3/D4 cluster. I'm far out; will share useful reading if I can, and alert reroute if anything.
+38 pirate-4 (turn 44): P4 at G5 digging+sharing. If it's the cave I'll alert coords; otherwise I'll help dig remaining candidates or head to cave when opened.
+39 pirate-4 (turn 44, shared): Dug G5: 6 away.
+40 pirate-1 (turn 45): P1: E5 & G5 not cave; 5 left: D4 D5 E3 E4 F4. Moving to D5 to dig+share, then D4 if needed. P2 on F4, P3 E3/D4. Cave opener alert coords!
+41 pirate-2 (turn 46): P2 digging F4+share. 5 left D4 D5 E3 E4. P1 D5->D4. P4 head E4. I'll go E3 after F4 if needed. Cave opener alert coords!
+42 pirate-2 (turn 46, shared): Dug F4: 1 away.
+43 pirate-4 (turn 48): P4 at G5 dug (6 away, not cave). Heading E4 (one of 4 left: D4 D5 E3 E4). If cave opens nearby, alert coords so I can enter. I can dig E4 on arrival if still needed.
+44 pirate-1 (turn 49): P1 at D5, digging now — 1 of 4 left. If not cave: 1→D4, 2→E4, 3→E3. I move to that square.
+45 pirate-2 (turn 50): P2 heading E4 now; dig+share at 54; if cave I alert & enter. P1: if D5 not cave dig D4 at 57. P4: if E4 already dug, go E3. 3 left: D4 D5 E3.
+46 pirate-1 (turn 53, alert): CAVE OPEN at D5! Everyone come to D5 and enter now!
+47 pirate-2 (turn 54): Cave at D5! P2 heading in; arrive on my last turn so may not enter. P1/P4: please enter once on the cave!
+48 pirate-3 (turn 55): P3 at D1, cave at D5! Heading north now; won't quite reach in my remaining turns but moving in anyway.
+49 pirate-4 (turn 56): P4 at E5, one step from the cave at D5. Moving to D5 now, enter next turn!
+50 pirate-4 (turn 59): P4 entering the cave at D5! Glad we made it, crew.
