@@ -59,6 +59,7 @@ _EXEMPT_SUFFIXES = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".ico"}
 _NO_COMMENTS = {
     ".json",
     ".jsonl",
+    ".csv",
     ".gz",
     ".docx",
     ".pdf",

@@ -1,0 +1,933 @@
+{
+ "frozen_at": "2026-11-09T17:55:08+08:00",
+ "games": [
+  {
+   "cell": "none-off",
+   "seed": 0,
+   "folder": "runs/none-off/0",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 1,
+   "folder": "runs/none-off/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 2,
+   "folder": "runs/none-off/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 3,
+   "folder": "runs/none-off/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 4,
+   "folder": "runs/none-off/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 5,
+   "folder": "runs/none-off/5",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 6,
+   "folder": "runs/none-off/6",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 7,
+   "folder": "runs/none-off/7-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 8,
+   "folder": "runs/none-off/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 9,
+   "folder": "runs/none-off/9",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 10,
+   "folder": "runs/none-off/10-6",
+   "attempts": 6,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 11,
+   "folder": "runs/none-off/11-3",
+   "attempts": 3,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 12,
+   "folder": "runs/none-off/12",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 13,
+   "folder": "runs/none-off/13",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 14,
+   "folder": "runs/none-off/14",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 15,
+   "folder": "runs/none-off/15",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 16,
+   "folder": "runs/none-off/16",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 0,
+   "folder": "runs/competition-off/0-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 1,
+   "folder": "runs/competition-off/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 2,
+   "folder": "runs/competition-off/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 3,
+   "folder": "runs/competition-off/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 4,
+   "folder": "runs/competition-off/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 5,
+   "folder": "runs/competition-off/5",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 6,
+   "folder": "runs/competition-off/6-3",
+   "attempts": 3,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 7,
+   "folder": "runs/competition-off/7-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 8,
+   "folder": "runs/competition-off/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-off",
+   "seed": 9,
+   "folder": "runs/competition-off/9",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 0,
+   "folder": "runs/deployment-off/0-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 1,
+   "folder": "runs/deployment-off/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 2,
+   "folder": "runs/deployment-off/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 3,
+   "folder": "runs/deployment-off/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 4,
+   "folder": "runs/deployment-off/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 5,
+   "folder": "runs/deployment-off/5",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 6,
+   "folder": "runs/deployment-off/6-3",
+   "attempts": 3,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 7,
+   "folder": "runs/deployment-off/7-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 8,
+   "folder": "runs/deployment-off/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 9,
+   "folder": "runs/deployment-off/9",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 10,
+   "folder": "runs/deployment-off/10-6",
+   "attempts": 6,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 11,
+   "folder": "runs/deployment-off/11-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 12,
+   "folder": "runs/deployment-off/12",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 13,
+   "folder": "runs/deployment-off/13",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 14,
+   "folder": "runs/deployment-off/14",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 15,
+   "folder": "runs/deployment-off/15",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 0,
+   "folder": "runs/none-reviewed/0-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 1,
+   "folder": "runs/none-reviewed/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 2,
+   "folder": "runs/none-reviewed/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 3,
+   "folder": "runs/none-reviewed/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 4,
+   "folder": "runs/none-reviewed/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 5,
+   "folder": "runs/none-reviewed/5",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 6,
+   "folder": "runs/none-reviewed/6-4",
+   "attempts": 4,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 7,
+   "folder": "runs/none-reviewed/7-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 8,
+   "folder": "runs/none-reviewed/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 9,
+   "folder": "runs/none-reviewed/9-5",
+   "attempts": 5,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 10,
+   "folder": "runs/none-reviewed/10-5",
+   "attempts": 5,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 11,
+   "folder": "runs/none-reviewed/11-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 12,
+   "folder": "runs/none-reviewed/12",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 13,
+   "folder": "runs/none-reviewed/13",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 14,
+   "folder": "runs/none-reviewed/14",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 15,
+   "folder": "runs/none-reviewed/15",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 16,
+   "folder": "runs/none-reviewed/16",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 0,
+   "folder": "runs/competition-reviewed/0-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 1,
+   "folder": "runs/competition-reviewed/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 2,
+   "folder": "runs/competition-reviewed/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 3,
+   "folder": "runs/competition-reviewed/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 4,
+   "folder": "runs/competition-reviewed/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 5,
+   "folder": "runs/competition-reviewed/5",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 6,
+   "folder": "runs/competition-reviewed/6-3",
+   "attempts": 3,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 7,
+   "folder": "runs/competition-reviewed/7-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 8,
+   "folder": "runs/competition-reviewed/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "competition-reviewed",
+   "seed": 9,
+   "folder": "runs/competition-reviewed/9-5",
+   "attempts": 5,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 0,
+   "folder": "runs/deployment-reviewed/0",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 1,
+   "folder": "runs/deployment-reviewed/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 2,
+   "folder": "runs/deployment-reviewed/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 3,
+   "folder": "runs/deployment-reviewed/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 4,
+   "folder": "runs/deployment-reviewed/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 5,
+   "folder": "runs/deployment-reviewed/5",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 6,
+   "folder": "runs/deployment-reviewed/6-3",
+   "attempts": 3,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 7,
+   "folder": "runs/deployment-reviewed/7",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 8,
+   "folder": "runs/deployment-reviewed/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 9,
+   "folder": "runs/deployment-reviewed/9-5",
+   "attempts": 5,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 10,
+   "folder": "runs/deployment-reviewed/10-4",
+   "attempts": 4,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 11,
+   "folder": "runs/deployment-reviewed/11-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 12,
+   "folder": "runs/deployment-reviewed/12",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 13,
+   "folder": "runs/deployment-reviewed/13",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 14,
+   "folder": "runs/deployment-reviewed/14",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 15,
+   "folder": "runs/deployment-reviewed/15",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 0,
+   "folder": "runs/roomy/0",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 1,
+   "folder": "runs/roomy/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 2,
+   "folder": "runs/roomy/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 3,
+   "folder": "runs/roomy/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 4,
+   "folder": "runs/roomy/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 5,
+   "folder": "runs/roomy/5",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 6,
+   "folder": "runs/roomy/6-3",
+   "attempts": 3,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 7,
+   "folder": "runs/roomy/7-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 8,
+   "folder": "runs/roomy/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "roomy",
+   "seed": 9,
+   "folder": "runs/roomy/9-6",
+   "attempts": 6,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 0,
+   "folder": "runs/threshold/0",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 1,
+   "folder": "runs/threshold/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 2,
+   "folder": "runs/threshold/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 3,
+   "folder": "runs/threshold/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 4,
+   "folder": "runs/threshold/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 5,
+   "folder": "runs/threshold/5-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 6,
+   "folder": "runs/threshold/6-3",
+   "attempts": 3,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 7,
+   "folder": "runs/threshold/7",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 8,
+   "folder": "runs/threshold/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "threshold",
+   "seed": 9,
+   "folder": "runs/threshold/9-6",
+   "attempts": 6,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 0,
+   "folder": "runs/control/0-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 1,
+   "folder": "runs/control/1",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 2,
+   "folder": "runs/control/2",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 3,
+   "folder": "runs/control/3",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 4,
+   "folder": "runs/control/4",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 5,
+   "folder": "runs/control/5-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 6,
+   "folder": "runs/control/6-2",
+   "attempts": 2,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 7,
+   "folder": "runs/control/7",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 8,
+   "folder": "runs/control/8",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "control",
+   "seed": 9,
+   "folder": "runs/control/9-6",
+   "attempts": 6,
+   "debrief": true,
+   "debrief_judge": true
+  }
+ ]
+}
