@@ -1,0 +1,61 @@
+1 pirate-1 (turn 1): P1 digs A8.
+2 pirate-1 (turn 1, shared): Dug A8: 12 away.
+3 pirate-2 (turn 2): P2 at C1, digging and sharing.
+4 pirate-2 (turn 2, shared): Dug C1: 8 away.
+5 pirate-3 (turn 3): P3 at J3, digging and sharing.
+6 pirate-3 (turn 3, shared): Dug J3: 6 away.
+7 pirate-4 (turn 4): P4 at H10, digging and sharing.
+8 pirate-4 (turn 4, shared): Dug H10: 8 away.
+9 pirate-1 (turn 5): P1 heading E8 to dig+share. Suggest P2→F4 dig, P3→G5 dig, P4→H6 dig, all share. Then we intersect.
+10 pirate-2 (turn 6): P2 heading F4 to dig and share per plan.
+11 pirate-3 (turn 7): P3 heading G5 to dig+share per plan.
+12 pirate-4 (turn 8): P4 heading H6 to dig+share per plan.
+13 pirate-1 (turn 21): P1 digs E8.
+14 pirate-1 (turn 21, shared): Dug E8: 6 away.
+15 pirate-4 (turn 24): P4 digs H6.
+16 pirate-4 (turn 24, shared): Dug H6: 6 away.
+17 pirate-1 (turn 25): P1 heading F5 to dig+share. Suggest after F4/G5 digs, head toward H4/I5.
+18 pirate-3 (turn 27): P3 digs G5, sharing.
+19 pirate-3 (turn 27, shared): Dug G5: 3 away.
+20 pirate-4 (turn 28): P4 heading J6 to dig+share.
+21 pirate-2 (turn 30): P2 at F4, digging and sharing.
+22 pirate-2 (turn 30, shared): Dug F4: 3 away.
+23 pirate-3 (turn 31): P3 heading H4 to dig+share; candidates still span G1-J7 region.
+24 pirate-2 (turn 34): P2 heading E4 to dig+share; can cover west side of cluster.
+25 pirate-4 (turn 36): P4 heading I5 to dig+share.
+26 pirate-2 (turn 38): P2 at E4, digging and sharing.
+27 pirate-2 (turn 38, shared): Dug E4: 1 away.
+28 pirate-3 (turn 39): P3 digs H4, sharing.
+29 pirate-3 (turn 39, shared): Dug H4: 1 away.
+30 pirate-1 (turn 41): P1 digs F5, sharing.
+31 pirate-1 (turn 41, shared): Dug F5: 2 away.
+32 pirate-2 (turn 42): P2 heading E3 to dig+share; then I'll take F2/F3. Suggest P1→G4, P3→H3, P4→I4 after I5. Candidates now: E3,F2,F3,G1,G2,G3,G4,H2,H3,H5,I4,I5.
+33 pirate-3 (turn 43): P3 heading H3 to dig+share per plan.
+34 pirate-4 (turn 44): E4=1 caps candidates: F2,E3,F3,G3,G4. I5/I4/H3/H5 out by E4. P4 heading G4 to dig+share.
+35 pirate-1 (turn 45): P1 heading F3 to dig+share; candidates cluster E3..G4.
+36 pirate-2 (turn 46): P2 at E3, digging and sharing.
+37 pirate-2 (turn 46, shared): Dug E3: 6 away.
+38 pirate-3 (turn 47): P3 digs H3, sharing. Candidates now G1,F2,G2,H2,G3,G4,I4,I5 (F3 out by E3=6).
+39 pirate-3 (turn 47, shared): Dug H3: 1 away.
+40 pirate-2 (turn 50): P2 at E3, going E2 then F2 to dig+share (P1 blocks E4). Candidates: F2,G1,G2,G3,G4,H2,H5,I4,I5.
+41 pirate-3 (turn 51): P3 heading G3 to dig+share. Candidates: F2,G1,G2,H2,G3,G4,I4,I5.
+42 pirate-1 (turn 53): P1 digs F3, sharing; candidates G1,F2,G2,H2,G3,G4,I4,I5.
+43 pirate-1 (turn 53, shared): Dug F3: 1 away.
+44 pirate-2 (turn 54): P2 at E2, going F2 to dig+share. Remaining candidates (with F3=1, H6=6): F2,G1,G2,G3,G4,H2,I4,I5.
+45 pirate-3 (turn 55): P3 digs G3, sharing. Candidates still F2,G1,G2,G4,H2,I4,I5 if not here.
+46 pirate-3 (turn 55, shared): Dug G3: 2 away.
+47 pirate-4 (turn 56): P4 digs G4; after E3=6,H3=1,F3=1,G3=2 the only candidates left are F2 and G4. Share.
+48 pirate-1 (turn 57): P1 stepping to F4; after F3=1,G3=2 I still see F2,G1,G2,G4,H2,I4,I5 possible (P4's F2/G4 only is too tight). I'm positioned to reach G4 or F2 fast.
+49 pirate-2 (turn 58): P2 at F2, digging and sharing. Candidates now: F2,G1,G2,G4,H2,I4,I5.
+50 pirate-2 (turn 58, shared): Dug F2: 2 away.
+51 pirate-3 (turn 59): P3 heading G2 to dig+share. Candidates left: G1,G2,H2,I4,I5. P4/P1 please cover I4/I5.
+52 pirate-4 (turn 60, alert): Cave found at G4! I dug G4 and it's the treasure. Everyone enter G4 immediately.
+53 pirate-1 (turn 61): P1 at F4, heading to G4 to enter the cave!
+54 pirate-2 (turn 62): P2 at F2, P3 blocks east to G2; heading north F3 then G4 to enter the cave.
+55 pirate-3 (turn 63): P3 heading G4 to enter. Nice find P4!
+56 pirate-1 (turn 64): P1 entering the cave at G4!
+57 pirate-2 (turn 65): P2 at F3, P3 blocks east on G3; going north to F4, then east to G4 to enter.
+58 pirate-2 (turn 67): P2 at F4, P3 is on G4 and will enter; I'll wait here, then step onto G4 and enter next turn.
+59 pirate-3 (turn 68): P3 entering the cave at G4!
+60 pirate-2 (turn 69): P2 at F4, stepping east onto G4, then entering the cave.
+61 pirate-2 (turn 70): P2 entering the cave at G4!

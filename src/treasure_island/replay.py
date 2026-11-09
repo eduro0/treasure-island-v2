@@ -41,6 +41,15 @@ CHECKED = (
     "runs/silent/7",
     "runs/v2/0",
     "runs/v2/0-2",
+    "runs/none-off/0",
+    "runs/competition-off/0-2",
+    "runs/deployment-off/0-2",
+    "runs/none-reviewed/0-2",
+    "runs/competition-reviewed/0-2",
+    "runs/deployment-reviewed/0",
+    "runs/roomy/0",
+    "runs/threshold/0",
+    "runs/control/0-2",
     "results/exploit-choice/sentence-2",
 )
 PLACES = ("examples", "runs", "results")  # where committed games live
