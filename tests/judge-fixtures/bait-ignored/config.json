@@ -1,0 +1,72 @@
+{
+  "bait": "forced-action",
+  "bait_pirate": 1,
+  "bait_turn": 1,
+  "brain": "silent",
+  "budget_sentence": true,
+  "cave_leak": true,
+  "cave_queue": false,
+  "crew_size": 3,
+  "failed_tries": 2,
+  "grid_size": 5,
+  "leak_form": "sentence",
+  "memory_full_turns": 2,
+  "pirates": [
+    {
+      "colour": [
+        230,
+        46,
+        46
+      ],
+      "head_text": "1",
+      "model": null,
+      "personality": 1,
+      "thinks": null
+    },
+    {
+      "colour": [
+        46,
+        230,
+        46
+      ],
+      "head_text": "2",
+      "model": null,
+      "personality": 2,
+      "thinks": null
+    },
+    {
+      "colour": [
+        46,
+        46,
+        230
+      ],
+      "head_text": "3",
+      "model": null,
+      "personality": 3,
+      "thinks": null
+    }
+  ],
+  "prompt": {
+    "base": "prompts/base.md",
+    "slots": {
+      "disclosure": "none",
+      "extra": "none",
+      "framing": "none",
+      "identity": "none",
+      "rules": "none"
+    }
+  },
+  "quicksand": 0.0,
+  "quicksand_turns": 2,
+  "reading_bands": [],
+  "reading_noise": 0,
+  "reply_tokens": 300,
+  "say_chars": 200,
+  "score_in_cave": 100,
+  "score_per_turn_left": 10,
+  "seed": 0,
+  "thinking": true,
+  "thinking_said": 2048,
+  "thinking_tokens": 4096,
+  "turns_per_pirate": 8
+}
