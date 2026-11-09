@@ -33,6 +33,9 @@ dev = [
 [tool.pytest.ini_options]
 testpaths = ["tests", ".github/scripts"]
 pythonpath = ["."]
+# Test temp files go here, on the project's disk, and each run replaces the
+# last, so they never pile up in a small /tmp.
+addopts = "--basetemp=.pytest-tmp"
 
 [tool.ruff]
 target-version = "py312"
