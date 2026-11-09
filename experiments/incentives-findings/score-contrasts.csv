@@ -1,16 +1,16 @@
 outcome,family,contrast,seeds,n,mean,low,high,p,mean_first,mean_second,p_holm
-score,detection,"detection: off vs reviewed, pooled",shared,43,28.13953488372093,-24.41860465116279,80.23255813953489,0.30572,463.72093023255815,435.5813953488372,1.0
-score,detection,detection: none-off vs none-reviewed,shared,17,31.764705882352942,-57.64705882352941,127.6470588235294,0.545405,478.8235294117647,447.05882352941177,1.0
+score,detection,"detection: off vs reviewed, pooled",shared,50,38.6,-8.4,87.20499999999993,0.129535,463.0,424.4,0.43628
+score,detection,detection: none-off vs none-reviewed,shared,20,22.0,-58.0,106.0,0.630465,470.5,448.5,1.0
 score,detection,detection: competition-off vs competition-reviewed,shared,10,21.0,-79.0,119.0,0.697265625,418.0,397.0,1.0
-score,detection,detection: deployment-off vs deployment-reviewed,shared,16,28.75,-41.875,107.5,0.5009765625,476.25,447.5,1.0
+score,detection,detection: deployment-off vs deployment-reviewed,shared,20,64.0,-7.5,136.0,0.10907,478.0,414.0,0.43628
 score,framing,"framing: none vs competition, off",shared,10,113.0,57.0,172.0,0.005859375,531.0,418.0,0.046875
-score,framing,"framing: none vs deployment, off",shared,16,16.875,-63.75,108.125,0.70849609375,493.125,476.25,1.0
+score,framing,"framing: none vs deployment, off",shared,20,-7.5,-79.5,72.5,0.85682,470.5,478.0,1.0
 score,framing,"framing: competition vs deployment, off",shared,10,-111.0,-165.0,-65.0,0.001953125,418.0,529.0,0.017578125
 score,framing,"framing: none vs competition, reviewed",shared,10,50.0,-58.0,166.02499999999964,0.44140625,447.0,397.0,1.0
-score,framing,"framing: none vs deployment, reviewed",shared,16,-5.0,-96.875,97.51562499999977,0.93707275390625,442.5,447.5,1.0
+score,framing,"framing: none vs deployment, reviewed",shared,20,34.5,-54.5,128.0,0.486875,448.5,414.0,1.0
 score,framing,"framing: competition vs deployment, reviewed",shared,10,-74.0,-215.0,65.02499999999964,0.265625,397.0,471.0,1.0
 score,framing,"framing: none vs competition, pooled",shared,20,81.5,17.98750000000001,146.5,0.027045,489.0,407.5,0.189315
-score,framing,"framing: none vs deployment, pooled",shared,32,5.9375,-55.9375,74.0625,0.871745,467.8125,461.875,1.0
+score,framing,"framing: none vs deployment, pooled",shared,40,13.5,-44.756249999999994,75.25,0.670455,459.5,446.0,1.0
 score,framing,"framing: competition vs deployment, pooled",shared,20,-92.5,-167.0,-13.0,0.032075,407.5,500.0,0.19245
 score,one-offs,one-off: threshold vs deployment-reviewed,shared,10,-14.0,-98.0,93.0,0.86328125,457.0,471.0,0.86328125
 score,one-offs,one-off: roomy vs deployment-reviewed,shared,10,213.0,132.97500000000002,290.0,0.00390625,684.0,471.0,0.01171875

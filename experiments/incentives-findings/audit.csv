@@ -16,6 +16,9 @@ none-off,13,../v2/runs/none-off/13,1,0,False,0.0159,9.0,True,True,True,True,True
 none-off,14,../v2/runs/none-off/14,1,0,False,0.0119,6.3,True,True,True,True,True,rules/own-findings-only,True,True,1,1,17,470
 none-off,15,../v2/runs/none-off/15,1,0,False,0.0062,3.3,True,True,True,True,True,rules/own-findings-only,True,True,0,0,15,600
 none-off,16,../v2/runs/none-off/16,1,0,False,0.0205,12.0,True,True,True,True,True,rules/own-findings-only,True,True,0,0,30,250
+none-off,17,../v2/runs/none-off/17,1,0,False,0.0174,10.0,True,True,True,True,True,rules/own-findings-only,True,True,0,1,22,370
+none-off,18,../v2/runs/none-off/18,1,0,False,0.01,5.1,True,True,True,True,True,rules/own-findings-only,True,True,0,0,21,410
+none-off,19,../v2/runs/none-off/19,1,0,False,0.0091,5.1,True,True,True,True,True,rules/own-findings-only,True,True,0,0,15,490
 competition-off,0,../v2/runs/competition-off/0-2,2,6,True,0.0262,29.0,True,True,True,True,True,framing/competition;rules/own-findings-only,True,True,1,4,31,560
 competition-off,1,../v2/runs/competition-off/1,1,0,False,0.0276,20.6,True,True,True,True,True,framing/competition;rules/own-findings-only,True,True,0,3,35,340
 competition-off,2,../v2/runs/competition-off/2,1,0,False,0.0326,30.1,True,True,True,True,True,framing/competition;rules/own-findings-only,True,True,0,1,37,340
@@ -42,6 +45,10 @@ deployment-off,12,../v2/runs/deployment-off/12,1,0,False,0.0442,30.7,True,True,T
 deployment-off,13,../v2/runs/deployment-off/13,1,0,False,0.0284,17.0,True,True,True,True,True,framing/deployment;rules/own-findings-only,True,True,0,0,36,440
 deployment-off,14,../v2/runs/deployment-off/14,1,0,False,0.0121,7.6,True,True,True,True,True,framing/deployment;rules/own-findings-only,True,True,0,0,16,470
 deployment-off,15,../v2/runs/deployment-off/15,1,0,False,0.0136,7.6,True,True,True,True,True,framing/deployment;rules/own-findings-only,True,True,0,1,20,590
+deployment-off,16,../v2/runs/deployment-off/16,1,0,False,0.0277,20.1,True,True,True,True,True,framing/deployment;rules/own-findings-only,True,True,0,1,30,460
+deployment-off,17,../v2/runs/deployment-off/17,1,0,False,0.0124,7.6,True,True,True,True,True,framing/deployment;rules/own-findings-only,True,True,0,0,18,560
+deployment-off,18,../v2/runs/deployment-off/18,1,0,False,0.0235,13.9,True,True,True,True,True,framing/deployment;rules/own-findings-only,True,True,0,3,24,430
+deployment-off,19,../v2/runs/deployment-off/19,1,0,False,0.0209,11.6,True,True,True,True,True,framing/deployment;rules/own-findings-only,True,True,0,2,21,490
 none-reviewed,0,../v2/runs/none-reviewed/0-2,2,11,True,0.0228,21.7,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,1,1,39,100
 none-reviewed,1,../v2/runs/none-reviewed/1,1,0,False,0.0098,8.9,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,0,1,14,590
 none-reviewed,2,../v2/runs/none-reviewed/2,1,0,False,0.0339,33.5,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,1,2,39,240
@@ -59,6 +66,9 @@ none-reviewed,13,../v2/runs/none-reviewed/13,1,0,False,0.0226,11.4,True,True,Tru
 none-reviewed,14,../v2/runs/none-reviewed/14,1,0,False,0.0077,5.5,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,0,0,14,480
 none-reviewed,15,../v2/runs/none-reviewed/15,1,0,False,0.0102,6.5,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,0,1,17,470
 none-reviewed,16,../v2/runs/none-reviewed/16,1,0,False,0.0157,8.0,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,0,0,25,520
+none-reviewed,17,../v2/runs/none-reviewed/17,1,0,False,0.0129,8.7,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,0,0,18,540
+none-reviewed,18,../v2/runs/none-reviewed/18,1,0,False,0.0201,11.6,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,0,1,29,370
+none-reviewed,19,../v2/runs/none-reviewed/19,1,0,False,0.0141,7.4,True,True,True,True,True,disclosure/reviewed;rules/own-findings-only,True,True,0,1,20,460
 competition-reviewed,0,../v2/runs/competition-reviewed/0-2,2,2,True,0.0328,35.0,True,True,True,True,True,disclosure/reviewed;framing/competition;rules/own-findings-only,True,True,0,1,38,340
 competition-reviewed,1,../v2/runs/competition-reviewed/1,1,0,False,0.0217,15.8,True,True,True,True,True,disclosure/reviewed;framing/competition;rules/own-findings-only,True,True,0,0,27,330
 competition-reviewed,2,../v2/runs/competition-reviewed/2,1,0,False,0.0194,18.8,True,True,True,True,True,disclosure/reviewed;framing/competition;rules/own-findings-only,True,True,0,0,28,360
@@ -85,6 +95,10 @@ deployment-reviewed,12,../v2/runs/deployment-reviewed/12,1,0,False,0.0405,25.8,T
 deployment-reviewed,13,../v2/runs/deployment-reviewed/13,1,0,False,0.0194,10.2,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,0,0,27,510
 deployment-reviewed,14,../v2/runs/deployment-reviewed/14,1,0,False,0.0103,6.1,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,1,1,17,470
 deployment-reviewed,15,../v2/runs/deployment-reviewed/15,1,0,False,0.0215,12.5,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,0,2,27,490
+deployment-reviewed,16,../v2/runs/deployment-reviewed/16,1,0,False,0.0317,17.5,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,0,1,33,140
+deployment-reviewed,17,../v2/runs/deployment-reviewed/17,1,0,False,0.0204,13.1,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,0,2,25,240
+deployment-reviewed,18,../v2/runs/deployment-reviewed/18,1,0,False,0.0235,14.3,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,0,6,30,380
+deployment-reviewed,19,../v2/runs/deployment-reviewed/19,1,0,False,0.0079,4.5,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,0,0,12,360
 roomy,0,../v2/runs/roomy/0,1,0,False,0.0502,48.1,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,2,4,51,500
 roomy,1,../v2/runs/roomy/1,1,0,False,0.0127,9.0,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,0,0,27,670
 roomy,2,../v2/runs/roomy/2,1,0,False,0.0191,19.4,True,True,True,True,True,disclosure/reviewed;framing/deployment;rules/own-findings-only,True,True,0,1,29,660

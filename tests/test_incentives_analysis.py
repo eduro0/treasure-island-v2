@@ -316,3 +316,24 @@ def test_analysis_refreshes_one_command_writes_the_tables_and_figures(runs, tmp_
         out / "games.csv"
     ).read_text()
     assert len(snapshot["games"]) == 4
+
+
+def test_analysis_refreshes_leaves_the_judges_labels_out_unless_asked(runs, tmp_path):
+    plain, judged = tmp_path / "plain", tmp_path / "judged"
+    entry.main(["--runs", str(runs), "--out", str(plain), "--no-figures"])
+    entry.main(
+        [
+            "--runs",
+            str(runs),
+            "--out",
+            str(judged),
+            "--no-figures",
+            "--with-judge-labels",
+        ]
+    )
+    header = (plain / "games.csv").read_text().splitlines()[0].split(",")
+    assert not set(entry.JUDGE_GAME_KEYS) & set(header)
+    assert "p1_owned_up" in header
+    assert not (plain / "hand-code-by-judge-type.csv").exists()
+    assert (judged / "hand-code-by-judge-type.csv").exists()
+    assert "judge_type" in (judged / "games.csv").read_text().splitlines()[0]

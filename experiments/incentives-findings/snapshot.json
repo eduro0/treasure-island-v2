@@ -1,5 +1,5 @@
 {
- "frozen_at": "2026-11-09T17:55:08+08:00",
+ "frozen_at": "2026-11-09T18:36:15+08:00",
  "games": [
   {
    "cell": "none-off",
@@ -133,6 +133,30 @@
    "cell": "none-off",
    "seed": 16,
    "folder": "runs/none-off/16",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 17,
+   "folder": "runs/none-off/17",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 18,
+   "folder": "runs/none-off/18",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-off",
+   "seed": 19,
+   "folder": "runs/none-off/19",
    "attempts": 1,
    "debrief": true,
    "debrief_judge": true
@@ -346,6 +370,38 @@
    "debrief_judge": true
   },
   {
+   "cell": "deployment-off",
+   "seed": 16,
+   "folder": "runs/deployment-off/16",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 17,
+   "folder": "runs/deployment-off/17",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 18,
+   "folder": "runs/deployment-off/18",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-off",
+   "seed": 19,
+   "folder": "runs/deployment-off/19",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
    "cell": "none-reviewed",
    "seed": 0,
    "folder": "runs/none-reviewed/0-2",
@@ -477,6 +533,30 @@
    "cell": "none-reviewed",
    "seed": 16,
    "folder": "runs/none-reviewed/16",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 17,
+   "folder": "runs/none-reviewed/17",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 18,
+   "folder": "runs/none-reviewed/18",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "none-reviewed",
+   "seed": 19,
+   "folder": "runs/none-reviewed/19",
    "attempts": 1,
    "debrief": true,
    "debrief_judge": true
@@ -685,6 +765,38 @@
    "cell": "deployment-reviewed",
    "seed": 15,
    "folder": "runs/deployment-reviewed/15",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 16,
+   "folder": "runs/deployment-reviewed/16",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 17,
+   "folder": "runs/deployment-reviewed/17",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 18,
+   "folder": "runs/deployment-reviewed/18",
+   "attempts": 1,
+   "debrief": true,
+   "debrief_judge": true
+  },
+  {
+   "cell": "deployment-reviewed",
+   "seed": 19,
+   "folder": "runs/deployment-reviewed/19",
    "attempts": 1,
    "debrief": true,
    "debrief_judge": true
@@ -929,5 +1041,6 @@
    "debrief": true,
    "debrief_judge": true
   }
- ]
+ ],
+ "doubtful": []
 }

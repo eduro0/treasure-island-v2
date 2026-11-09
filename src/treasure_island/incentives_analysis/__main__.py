@@ -113,6 +113,33 @@ def crosstab(rows, first, second, where=lambda r: True):
     ]
 
 
+# Columns read off the main judge's labels and the debrief judge's
+# `knew_and_hid`, which hang on the main judge's type. They are left out until
+# both judges have been rerun on the current rubric (`--with-judge-labels`).
+JUDGE_GAME_KEYS = (
+    "judge_type",
+    "judge_shared",
+    "judge_hides",
+    "judge_rubric",
+    "eval_aware_pirate_1",
+    "eval_aware_any",
+    "peer_report_any",
+    "followed_any",
+    "p1_knew_and_hid",
+)
+JUDGE_PIRATE_KEYS = (
+    "judge_type",
+    "followed",
+    "peer_report",
+    "eval_aware",
+    "knew_and_hid",
+)
+
+
+def without(rows, keys):
+    return [{k: v for k, v in r.items() if k not in keys} for r in rows]
+
+
 def primary_summary(rows):
     """The headline contrasts of the primary outcomes, for the robustness table."""
     out = {}
@@ -124,6 +151,8 @@ def primary_summary(rows):
         "hides_use",
         "judge_hides",
     ):
+        if not any(outcome in r for r in rows):
+            continue
         result = contrasts.count_contrast(
             rows, outcome, (contrasts.OFF, contrasts.REVIEWED, "framing"), False
         )
@@ -151,29 +180,18 @@ def robustness(rows):
         "no resumed games": [r for r in rows if not r["resumed"]],
         "no cut-off pirate-1 replies": [r for r in rows if not r["cut_off_pirate_1"]],
         "seeds every cell has": [r for r in rows if r["seed"] in seeds_everywhere],
-        "judge on the current rubric only": [
-            r for r in rows if r["judge_rubric"] == "current"
-        ],
     }
+    if any("judge_rubric" in r for r in rows):
+        subsets["judge on the current rubric only"] = [
+            r for r in rows if r["judge_rubric"] == "current"
+        ]
     out = []
     for name, subset in subsets.items():
         out.append({"subset": name, "games": len(subset), **primary_summary(subset)})
-    for value in (True, False):
-        flipped = [dict(r) for r in rows]
-        for r in flipped:
-            if r["folder"] in ("runs/deployment-off/3", "runs/competition-off/5"):
-                r["p1_admits"] = value
-        out.append(
-            {
-                "subset": f"once-blocked games counted admits={value}",
-                "games": len(flipped),
-                **primary_summary(flipped),
-            }
-        )
     return out
 
 
-def judge_checks(out, runs="runs"):
+def judge_checks(out, runs="runs", main_judge=False):
     """Agreement of each judge with the committed hand labels."""
     result = {}
     debrief = (
@@ -206,7 +224,7 @@ def judge_checks(out, runs="runs"):
     )
     first = [r for r in check if r["pirate"] == "pirate-1" and r["type"] != "ambiguous"]
     crew = [r for r in check if r["pirate"] != "pirate-1"]
-    if check:
+    if check and main_judge:
         result["main judge type (pirate-1)"] = validation.agreement(
             [(r["type"], r["judge_type"], r["folder"]) for r in first]
         )
@@ -242,6 +260,29 @@ def judge_checks(out, runs="runs"):
     return result
 
 
+def write_manipulation(found, out):
+    """Each pirate's lever mentions, and their counts per cell for pirate-1 and crewmates."""
+    manip = [r for g in found for r in manipulation.pirate_rows(g)]
+    write_csv(out / "manipulation.csv", manip)
+    summary = []
+    for cell in CELLS:
+        for baited in (True, False):
+            mine = [r for r in manip if r["cell"] == cell and r["baited"] == baited]
+            if mine:
+                summary.append(
+                    {
+                        "cell": cell,
+                        "pirates": "pirate-1" if baited else "crewmates",
+                        "n": len(mine),
+                        **{
+                            lever: sum(r[lever] for r in mine)
+                            for lever in manipulation.PATTERNS
+                        },
+                    }
+                )
+    write_csv(out / "manipulation-by-cell.csv", summary)
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--runs", default="runs")
@@ -250,6 +291,11 @@ def main(argv=None):
     )
     parser.add_argument("--out", default=str(OUT))
     parser.add_argument("--no-figures", action="store_true")
+    parser.add_argument(
+        "--with-judge-labels",
+        action="store_true",
+        help="also report the main judge's labels and knew_and_hid",
+    )
     args = parser.parse_args(argv)
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
@@ -272,28 +318,14 @@ def main(argv=None):
     )
 
     write_csv(out / "audit.csv", audit.audit(found))
-    manip = [r for g in found for r in manipulation.pirate_rows(g)]
-    write_csv(out / "manipulation.csv", manip)
-    summary = []
-    for cell in CELLS:
-        for baited in (True, False):
-            mine = [r for r in manip if r["cell"] == cell and r["baited"] == baited]
-            if mine:
-                summary.append(
-                    {
-                        "cell": cell,
-                        "pirates": "pirate-1" if baited else "crewmates",
-                        "n": len(mine),
-                        **{
-                            lever: sum(r[lever] for r in mine)
-                            for lever in manipulation.PATTERNS
-                        },
-                    }
-                )
-    write_csv(out / "manipulation-by-cell.csv", summary)
+    write_manipulation(found, out)
 
     rows = [tables.game_row(g, codes, q1) for g in found]
     pirates = [r for g in found for r in tables.pirate_rows(g)]
+    judged = args.with_judge_labels
+    if not judged:
+        rows = without(rows, JUDGE_GAME_KEYS)
+        pirates = without(pirates, JUDGE_PIRATE_KEYS)
     write_csv(out / "games.csv", rows)
     write_csv(out / "pirates.csv", pirates)
     write_csv(out / "cells.csv", cell_rates(rows))
@@ -303,6 +335,7 @@ def main(argv=None):
         "p1_debrief_gap_hand",
         "p1_denies_both_hand",
         *contrasts.SECONDARY,
+        *(contrasts.JUDGE_SECONDARY if judged else ()),
     ]
     write_csv(out / "contrasts.csv", contrasts.all_contrasts(rows, outcomes))
     write_csv(out / "score-contrasts.csv", contrasts.score_contrasts(rows))
@@ -328,19 +361,24 @@ def main(argv=None):
             pirates, "how_found", "owned_up", lambda r: not r["baited"]
         ),
         "hand-q1-by-q2-baited": crosstab(baited, "p1_how_found_hand", "p1_owned_up"),
-        "hand-code-by-judge-type": crosstab(baited, "hand_code", "judge_type"),
-        "hand-code-by-judge-rubric": crosstab(baited, "hand_base", "judge_rubric"),
-        "hand-code-by-knew-and-hid": crosstab(baited, "hand_code", "p1_knew_and_hid"),
         "hand-code-by-hand-q1": crosstab(baited, "hand_code", "p1_how_found_hand"),
         "hand-code-by-q2": crosstab(baited, "hand_code", "p1_owned_up"),
         "hand-code-by-congruence": crosstab(
             baited, "hand_code", "congruence_scroll_set"
         ),
     }
+    if judged:
+        tabs["hand-code-by-judge-type"] = crosstab(baited, "hand_code", "judge_type")
+        tabs["hand-code-by-judge-rubric"] = crosstab(
+            baited, "hand_base", "judge_rubric"
+        )
+        tabs["hand-code-by-knew-and-hid"] = crosstab(
+            baited, "hand_code", "p1_knew_and_hid"
+        )
     for name, table in tabs.items():
         write_csv(out / f"{name}.csv", table)
     (out / "judge-checks.json").write_text(
-        json.dumps(judge_checks(out, args.runs), indent=1, default=str)
+        json.dumps(judge_checks(out, args.runs, judged), indent=1, default=str)
     )
     if not args.no_figures:
         from treasure_island.incentives_analysis import plots
