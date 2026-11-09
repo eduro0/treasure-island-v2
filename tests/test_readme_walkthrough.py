@@ -59,7 +59,7 @@ def test_readme_reads_a_game_commands_work(tmp_path, monkeypatch, capsys):
     block = re.search(r"```bash\n(.*?)```", section(), flags=re.DOTALL).group(1)
     clone, enter, show = block.strip().splitlines()
     assert clone.startswith("git clone ")
-    assert enter == "cd apart-swarm-alignment"
+    assert enter == "cd treasure-island-v2"
     shutil.copytree(ROOT / "examples", tmp_path / "examples")
     monkeypatch.chdir(tmp_path)
     assert cli.main(shlex.split(show)[3:]) == 0

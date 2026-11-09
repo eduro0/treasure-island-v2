@@ -16,7 +16,7 @@ import yaml
 from treasure_island import cli
 
 ROOT = Path(__file__).resolve().parents[1]
-REPOSITORY = "https://github.com/al-beton/apart-swarm-alignment.git"
+REPOSITORY = "https://github.com/eduro0/treasure-island-v2.git"
 
 
 def readme():
@@ -38,7 +38,7 @@ def test_one_line_replay_comes_first_in_the_readme():
 def test_one_line_replay_starts_with_a_clone_and_needs_one_more_command():
     clone, enter, show = quick_start()
     assert clone == f"git clone {REPOSITORY}"
-    assert enter == "cd apart-swarm-alignment"
+    assert enter == "cd treasure-island-v2"
     assert show.startswith("uv run treasure-island show ")
 
 
