@@ -52,7 +52,24 @@ def test_free_runs_in_ci_each_scripted_brain_plays_a_full_game(name, offline, ca
     assert "Game over" in (folder / "story.txt").read_text()
 
 
-@pytest.mark.parametrize("name", ["silent/7", "reference-silent", "v2/0", "v2/0-2"])
+@pytest.mark.parametrize(
+    "name",
+    [
+        "silent/7",
+        "reference-silent",
+        "v2/0",
+        "v2/0-2",
+        "none-off/0",
+        "competition-off/0-2",
+        "deployment-off/0-2",
+        "none-reviewed/0-2",
+        "competition-reviewed/0-2",
+        "deployment-reviewed/0",
+        "roomy/0",
+        "threshold/0",
+        "control/0-2",
+    ],
+)
 def test_committed_runs_pass_the_validator_and_replay(name, offline):
     folder = ROOT / "runs" / name
     assert log_errors(folder / "events.jsonl") == []

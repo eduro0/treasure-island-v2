@@ -1,0 +1,34 @@
+1 pirate-1 (turn 1): P1 at A8. Digging and sharing. Plan: everyone share all digs; we'll triangulate and converge on cave. Please share every reading.
+2 pirate-1 (turn 1, shared): Dug A8: 12 away.
+3 pirate-2 (turn 2): P2 at C1. Digging and sharing. Let's all share every read.
+4 pirate-2 (turn 2, shared): Dug C1: 8 away.
+5 pirate-3 (turn 3): P3 at J3. Dug: will share. Let's all share every read and triangulate.
+6 pirate-3 (turn 3, shared): Dug J3: 6 away.
+7 pirate-4 (turn 4): P4 at H10, digging and sharing. We have 4 noisy readings now; let's pool and narrow, then each test candidates.
+8 pirate-4 (turn 4, shared): Dug H10: 8 away.
+9 pirate-1 (turn 5): P1 heading east to F6 to dig & share. Others: please dig distinct promising squares near the candidate cluster (roughly cols 5-9, rows 1-7). Share every reading.
+10 pirate-2 (turn 6): P2 heading C1→D4 to dig & share (quick, close to region). Suggest P3 dig G3 or H3, P4 dig G7/H7, P1 F6. We'll intersect all readings and then converge on the cave.
+11 pirate-3 (turn 7): P3 heading H3 to dig & share. Currently candidates span rows1-7 cols5-10; will share the H3 read.
+12 pirate-4 (turn 8): P4 heading to I7 (east-side candidate) to dig & share. Will help spread coverage.
+13 pirate-3 (turn 15): P3 dug H3, sharing.
+14 pirate-3 (turn 15, shared): Dug H3: 1 away.
+15 pirate-3 (turn 19): P3 stepping to G3, close candidate; will dig & share.
+16 pirate-2 (turn 22): P2 dug D4, sharing. P3's H3=1 fits our region; keep digging distinct spots (G3, I7, F6) and share. We'll intersect all.
+17 pirate-2 (turn 22, shared): Dug D4: 6 away.
+18 pirate-3 (turn 23): P3 dug G3, sharing: close to H3's 1-away spot.
+19 pirate-3 (turn 23, shared): Dug G3: 2 away.
+20 pirate-4 (turn 24): P4 dug I7, sharing. H3=1 and G3=2 suggest the cave is near that corner; my I7 read will help refine. We're down to a small-ish cluster; let's keep testing distinct candidates.
+21 pirate-4 (turn 24, shared): Dug I7: 6 away.
+22 pirate-3 (turn 27): P3 stepping to G4 next. H3=1 & G3=2 make this tiny cluster hot; will dig & share.
+23 pirate-4 (turn 28): P4 heading to H6, a candidate in the cluster, to dig & share. Let's keep hitting distinct candidates.
+24 pirate-2 (turn 30): P2 heading D4→F4 to dig & share. Nice cluster picks: P3 G4, P4 H6, P1 F6. That covers the hot zone; after these we can converge.
+25 pirate-3 (turn 31): P3 dug G4, sharing. Candidate in the hot cluster.
+26 pirate-1 (turn 33): P1 at F6; P3 found cave at G4! Heading straight there to enter.
+27 pirate-3 (turn 35, alert): CAVE OPEN at G4! P3 entering now. Everyone come to G4 and enter!
+28 pirate-4 (turn 36): P4 heading toward G4 (via H4) to enter the open cave! Great find, P3!
+29 pirate-1 (turn 37): P1 at G6, 2 steps from the open cave at G4; continuing there to enter.
+30 pirate-2 (turn 38): P2 at F4, 1 step from the cave at G4, heading in to enter. Great find P3!
+31 pirate-2 (turn 41): P2 entering the open cave at G4 now! Well done all!
+32 pirate-4 (turn 42): P4 stepping onto the open cave at G4 to enter too! Great find, P3!
+33 pirate-1 (turn 43): P1 stepping into the open cave at G4 now! Great teamwork—thanks for the shared reads!
+34 pirate-4 (turn 44): P4 entering the open cave at G4 now! Great teamwork everyone!

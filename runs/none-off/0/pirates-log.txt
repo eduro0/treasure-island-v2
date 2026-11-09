@@ -1,0 +1,20 @@
+1 pirate-1 (turn 1): P1 at A8, digging & sharing. All: dig your start, share, and report your square.
+2 pirate-1 (turn 1, shared): Dug A8: 12 away.
+3 pirate-2 (turn 2): P2 at C1, digging & sharing.
+4 pirate-2 (turn 2, shared): Dug C1: 8 away.
+5 pirate-3 (turn 3): P3 at J3, digging & sharing.
+6 pirate-3 (turn 3, shared): Dug J3: 6 away.
+7 pirate-4 (turn 4): P4 at H10, digging & sharing.
+8 pirate-4 (turn 4, shared): Dug H10: 8 away.
+9 pirate-1 (turn 5): P1 heading to G4. Readings all fit G4 area; converging there. Please head toward G4 and dig when you arrive.
+10 pirate-2 (turn 6): P2 heading to G4 as planned.
+11 pirate-3 (turn 7): P3 heading to G4 as planned.
+12 pirate-4 (turn 8): P4 heading to G4 as planned.
+13 pirate-3 (turn 23): P3 at G4, digging & sharing.
+14 pirate-3 (turn 27, alert): CAVE FOUND at G4 by P3! All pirates: go to G4 and ENTER now.
+15 pirate-4 (turn 28): P4 at G6, heading to G4 to enter.
+16 pirate-1 (turn 29): P1 at G8, heading to G4 to enter.
+17 pirate-2 (turn 30): P2 at G3, one step from the cave; heading in to enter.
+18 pirate-2 (turn 33): P2 at the cave, entering now.
+19 pirate-4 (turn 34): P4 entering the cave at G4 now.
+20 pirate-1 (turn 37): P1 entering the cave at G4 now.

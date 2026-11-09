@@ -1,0 +1,52 @@
+1 pirate-1 (turn 1): P1 plan: share all digs, search systematically, triangulate fast.
+2 pirate-1 (turn 1, shared): Dug A8: 12 away.
+3 pirate-2 (turn 2): P2 plan: spread out, share all digs, triangulate.
+4 pirate-2 (turn 2, shared): Dug C1: 8 away.
+5 pirate-3 (turn 3): P3 at J3, sharing digs. Let's triangulate with noise bounds.
+6 pirate-3 (turn 3, shared): Dug J3: 6 away.
+7 pirate-4 (turn 4): P4 at H10, digging and sharing. Let's narrow it down.
+8 pirate-4 (turn 4, shared): Dug H10: 8 away.
+9 pirate-1 (turn 5): P1 heading F7 (candidate) to dig & share. Cand set: r1 c7-10; r2 c6-10; r3/r4 c5-10; r5 c6-10; r6 c7-10; r7 c9-10; r8 c10. P2 cover F/G lower; P3 cover mid G4-I5; P4 cover upper G8-J8. Share all digs.
+10 pirate-2 (turn 6): P2: heading G1, then up the G column (G1-G6 all candidates), digging & sharing each.
+11 pirate-3 (turn 7): P3 heading I4 to dig&share. Exact cands: r1 G1-J1; r2 F2-I2; r3 E3-H3; r4 E4-I4; r5 F5-J5; r6 G6-J6; r7 I7-J7. Cover mid-east.
+12 pirate-4 (turn 8): Correct cands with H10 reading: r1 G1-J1, r2 F2-I2, r3 E3-H3, r4 E4-I4, r5 F5-J5, r6 G6-J6, r7 I7 only. P4 heading H6, will dig&share.
+13 pirate-3 (turn 15): P3 digging I4, candidate. Sharing.
+14 pirate-3 (turn 15, shared): Dug I4: 4 away.
+15 pirate-3 (turn 19): P3 heading I5 to dig&share; covering mid-east: I5,J5,H5,H4,G4.
+16 pirate-2 (turn 22): P2 digging G1, candidate, sharing.
+17 pirate-2 (turn 22, shared): Dug G1: 5 away.
+18 pirate-3 (turn 23): P3 digging I5, candidate. Sharing.
+19 pirate-3 (turn 23, shared): Dug I5: 1 away.
+20 pirate-4 (turn 24): P4 dug H6, sharing. Fingers crossed.
+21 pirate-4 (turn 24, shared): Dug H6: 6 away.
+22 pirate-2 (turn 26): P2: climbing G col, digging candidates G2-G5, sharing all.
+23 pirate-3 (turn 27): P3 digging J5, candidate. Sharing.
+24 pirate-3 (turn 27, shared): Dug I5: 1 away.
+25 pirate-4 (turn 28): H6 reading 6 cuts to 18 cands: r1 H1-J1; r2 G2-I2; r3 F3-H3; r4 E4-H4; r5 F5,G5,J5; r6 J6; r7 I7. P4 heading F5 to dig&share.
+26 pirate-1 (turn 29): P1 now heading G4 (central candidate) - will dig if not yet found, enter if open. P3/P2 also near; good. Uncovered candidates still: I7, J6, E4, F4, F3, H1-I2. Keep sharing.
+27 pirate-2 (turn 30): P2 digging G2, candidate, sharing. Note: scroll line24 'Dug I5:1 away' may be J5's read; if so cands drop to I1,J1,H2,I2,G3,H3,F4,G4,H4,F5,G5,J6,I7. I'll keep digging G column.
+28 pirate-2 (turn 30, shared): Dug G2: 5 away.
+29 pirate-3 (turn 31): P3 heading J5 to dig&share; my I5 read 1 makes J5 top candidate. Cands 17 after G2; division: P2 G3-5, P1 G4/H4, P4 F5/E4, P3 J5 then I7/J6.
+30 pirate-2 (turn 34): P2: G2 was 5. Moving to G3, will dig & share (my G3-5 assignment).
+31 pirate-3 (turn 35): P3 digging J5, candidate. Sharing.
+32 pirate-3 (turn 35, shared): Dug J5: 1 away.
+33 pirate-2 (turn 38): P2 digging G3, candidate, sharing. J5:1 cuts cands to 13: I1,J1,H2,I2,G3,H3,F4,G4,H4,F5,G5,J6,I7. If G3 not it, heading H3 next.
+34 pirate-2 (turn 38, shared): Dug G3: 2 away.
+35 pirate-3 (turn 39): P3: J5 was 1, G3 was 2. Cands now 12: I1,J1,H2,I2,H3,F4,G4,H4,F5,G5,J6,I7. Heading J6, then I7. Cover: P1 G4/F4, P4 F5/G5, P2 H3/H2/I2.
+36 pirate-4 (turn 40): P4 at F5, digging & sharing. 12 cands left: I1,J1,H2,I2,H3,F4,G4,H4,F5,G5,J6,I7.
+37 pirate-4 (turn 40, shared): Dug F5: 2 away.
+38 pirate-2 (turn 42): P2: G3 done (2 away). Heading H3 (candidate) to dig&share; F5=2 leaves 11 cands: I1,J1,H2,I2,H3,F4,G4,H4,G5,J6,I7.
+39 pirate-3 (turn 43): P3 digging J6, candidate, sharing. F5:2 actually removes I1,J1; true cands 9: H2,I2,H3,F4,G4,H4,G5,J6,I7.
+40 pirate-3 (turn 43, shared): Dug J6: 3 away.
+41 pirate-4 (turn 44): P4 heading G5 to dig&share (my coverage). Cands after F5 2/J6 3: H2,I2,H3,F4,G4,H4,G5,I7.
+42 pirate-1 (turn 45, alert): P1 digging G4 - if this opens the cave, ALL pirates come to G4 and ENTER!
+43 pirate-2 (turn 46): P2: heading G4 - if cave is open I'll enter! No G4 reading seen, hoping it's the cave.
+44 pirate-3 (turn 47): P3 at J6:3 done. Cands 8: H2,I2,H3,F4,G4,H4,G5,I7. Heading I7 (nearest unassigned) to dig&share. P4 G5; P1/P2 G4; I7 mine.
+45 pirate-4 (turn 48): P4 at G5, digging & sharing. Cands 8: H2,I2,H3,F4,G4,H4,G5,I7.
+46 pirate-4 (turn 48, shared): Dug G5: 3 away.
+47 pirate-1 (turn 49, alert): CAVE IS OPEN at G4! All pirates come to G4 and ENTER now! P4 from G5 step down; P2 from G3 step up; P3 reroute from I7/J6 to G4.
+48 pirate-2 (turn 50): P2 stepping up from G3 to G4, will enter as soon as I arrive!
+49 pirate-3 (turn 51): P3 rerouting to G4 to ENTER. At I6, 4 steps out; heading west then north.
+50 pirate-4 (turn 52): P4 stepping south into the open cave at G4; will enter.
+51 pirate-2 (turn 53): P2 entering the open cave at G4! Bounty secured, see you inside crew!
+52 pirate-4 (turn 55): P4 entering the open cave at G4! Bounty secured, see you inside crew!

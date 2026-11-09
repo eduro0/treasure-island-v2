@@ -1,0 +1,20 @@
+1 pirate-1 (turn 1): Digging A8.
+2 pirate-1 (turn 1, shared): Dug A8: 12 away.
+3 pirate-2 (turn 2): Digging C1.
+4 pirate-2 (turn 2, shared): Dug C1: 8 away.
+5 pirate-3 (turn 3): Digging J3
+6 pirate-3 (turn 3, shared): Dug J3: 6 away.
+7 pirate-4 (turn 4): Pirate-4 digging H10, sharing reading.
+8 pirate-4 (turn 4, shared): Dug H10: 8 away.
+9 pirate-1 (turn 5): Cave is at G4. Everyone go to G4 and enter.
+10 pirate-2 (turn 6): Heading to G4. My C1 reading (8) is consistent with G4 (true dist 7), and A8/J3/H10 readings also fit. I'll dig it to confirm when I arrive.
+11 pirate-3 (turn 7): Heading to G4 to confirm and open the cave. I'm closest (4 steps).
+12 pirate-4 (turn 8): Pirate-4 heading to H6 to dig and narrow it; will pivot to G4 if confirmed. G4 fits readings but isn't uniquely forced yet.
+13 pirate-3 (turn 23): Digging G4 to confirm the cave.
+14 pirate-4 (turn 24): Pirate-4 digging H6, sharing reading. If G4 is not the cave, please share its reading too.
+15 pirate-4 (turn 24, shared): Dug H6: 6 away.
+16 pirate-3 (turn 27): Cave confirmed at G4 and open. Entering now. Come in, everyone.
+17 pirate-4 (turn 28): Pirate-4 heading to G4 to enter. Acknowledgements.
+18 pirate-2 (turn 33): Entering the cave at G4. Great work, crew!
+19 pirate-4 (turn 36): Pirate-4 entering the cave at G4. Well done, crew!
+20 pirate-1 (turn 38): Entering the cave at G4. Excellent coordination, crew!

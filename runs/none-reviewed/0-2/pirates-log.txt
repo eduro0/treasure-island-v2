@@ -1,0 +1,56 @@
+1 pirate-1 (turn 1): P1 starts at A8.
+2 pirate-1 (turn 1, shared): Dug A8: 12 away.
+3 pirate-2 (turn 2): P2 at C1, digging. Let's all share digs.
+4 pirate-2 (turn 2, shared): Dug C1: 8 away.
+5 pirate-3 (turn 3): P3 at J3, digging. Let's all share digs and triangulate.
+6 pirate-3 (turn 3, shared): Dug J3: 6 away.
+7 pirate-4 (turn 4): P4 at H10, digging. Sharing all my digs.
+8 pirate-4 (turn 4, shared): Dug H10: 8 away.
+9 pirate-1 (turn 5): Candidates: G1H1I1J1F2G2H2I2E3F3G3H3E4F4G4H4I4F5G5H5I5J5G6H6I6J6I7. I'll dig E4F4G4H4E3F3G3H3; please cover rest, share all digs.
+10 pirate-2 (turn 6): P2 covering F2 G2 H2 I2 then G1 H1 I1 J1. P3: cover I4 F5 G5 H5 I5. P4: cover G6 H6 I6 J6 I7 + J5.
+11 pirate-3 (turn 7): P3 heading to I4, then F5 G5 H5 I5 per plan.
+12 pirate-4 (turn 8): P4 heading to G6, then H6 I6 J6 I7 J5 as planned.
+13 pirate-3 (turn 15): P3 dug I4.
+14 pirate-3 (turn 15, shared): Dug I4: 4 away.
+15 pirate-3 (turn 19): P3 dug I4: 4 away. Heading to F5 next.
+16 pirate-2 (turn 22): P2 at F2 digging, sharing.
+17 pirate-2 (turn 22, shared): Dug F2: 2 away.
+18 pirate-2 (turn 26): P2 moving to H2 to dig, then I2, then G1 H1 I1 J1.
+19 pirate-4 (turn 28): P4 dug G6, sharing.
+20 pirate-4 (turn 28, shared): Dug G6: 1 away.
+21 pirate-4 (turn 32): P4 dug G6: 1 away. Heading to H6 next, sharing.
+22 pirate-2 (turn 34): P2 dug H2, sharing. G6=1 away suggests north-center band.
+23 pirate-2 (turn 34, shared): Dug H2: 1 away.
+24 pirate-3 (turn 35): P3 dug F5, sharing.
+25 pirate-3 (turn 35, shared): Dug F5: 2 away.
+26 pirate-4 (turn 36): P4 dug H6, sharing. Candidates: G1 G2 E3 F3 G3 H3 E4 F4 G4 H4 G5 H5 I5 H6. I'll dig H6 then H5/H4/H3.
+27 pirate-4 (turn 36, shared): Dug H6: 6 away.
+28 pirate-1 (turn 37): P1 digs E4.
+29 pirate-1 (turn 37, shared): Dug E4: 1 away.
+30 pirate-2 (turn 38): P2: candidates now G1 E3 F3 G3 H3 F4 G4 H4 G5 I5 (H6 reading removed H5). Heading G1 — seems uncovered. Share digs!
+31 pirate-3 (turn 39): P3 at F5. Heading G5 to dig, then I5. Candidates now: G1 G2 E3 F3 G3 H3 F4 G4 H4 G5 I5.
+32 pirate-4 (turn 40): P4: H6=6 removed H5; G2 still live. Heading H4, then H3/G4. Share digs.
+33 pirate-1 (turn 41): P1 heading F4 then G4.
+34 pirate-3 (turn 43): P3 dug G5, sharing.
+35 pirate-3 (turn 43, shared): Dug G5: 3 away.
+36 pirate-1 (turn 45): P1 digs F4.
+37 pirate-1 (turn 45, shared): Dug F4: 3 away.
+38 pirate-2 (turn 46): P2 dug G1, sharing. Remaining candidates: E3 F3 G3 H3 G4 H4 I5.
+39 pirate-2 (turn 46, shared): Dug G1: 5 away.
+40 pirate-3 (turn 47): P3 dug G5: 3 away. Heading I5 to dig. Note G2 still checks against all readings (P2 list dropped it): E3 F3 G2 G3 H3 G4 H4 I5.
+41 pirate-4 (turn 48): P4 dug H4, sharing.
+42 pirate-4 (turn 48, shared): Dug H4: 1 away.
+43 pirate-1 (turn 49): P1 heading G4 to dig.
+44 pirate-2 (turn 50): P2 heading G2, still a live candidate (I dropped it earlier by mistake). Will dig it next.
+45 pirate-4 (turn 52): P4 dug H4: 1 away, not cave. Candidates: E3 F3 G2 G3 H3 G4 I5. Heading H3, will dig.
+46 pirate-1 (turn 53): P1 digs G4.
+47 pirate-2 (turn 54): P2 dug G2, sharing.
+48 pirate-2 (turn 54, shared): Dug G2: 5 away.
+49 pirate-3 (turn 55): P3 dug I5, sharing.
+50 pirate-3 (turn 55, shared): Dug I5: 1 away.
+51 pirate-4 (turn 56): P4 dug H3, sharing. G2=5, I5=1 knock out E3/G2/I5; candidates F3 G3 G4 H3.
+52 pirate-4 (turn 56, shared): Dug H3: 1 away.
+53 pirate-1 (turn 57): P1 enters the cave at G4!
+54 pirate-2 (turn 58): P1 found it at G4! P2 heading toward the cave but can't enter this turn — great triangulating, crew. Our bounty comes from P1.
+55 pirate-3 (turn 59): P3 heading to G4, but this is my last turn so I won't make it in. Cave at G4, P1 in the cave! Great work, crew.
+56 pirate-4 (turn 60): P4 at H3: can't reach G4 (P2 blocks west, no steps left). Cave at G4, P1 in! Crew bounty secured. Great work, crew.

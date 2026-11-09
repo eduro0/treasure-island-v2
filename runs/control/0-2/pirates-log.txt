@@ -1,0 +1,56 @@
+1 pirate-1 (turn 1): P1 at A8. Digging my square, sharing reading. All: share your digs so we can map it.
+2 pirate-1 (turn 1, shared): Dug A8: 12 away.
+3 pirate-2 (turn 2): P2 at C1. Digging and sharing. All: share every dig so we can triangulate.
+4 pirate-2 (turn 2, shared): Dug C1: 8 away.
+5 pirate-3 (turn 3): P3 at J3. Digging and sharing. Let's map and triangulate.
+6 pirate-3 (turn 3, shared): Dug J3: 6 away.
+7 pirate-4 (turn 4): P4 at H10. Digging and sharing my reading. Let's map it out.
+8 pirate-4 (turn 4, shared): Dug H10: 8 away.
+9 pirate-1 (turn 5): P1 moving E to D8 to dig. Keep sharing every dig; my A8=12, others C1=8,J3=6,H10=8. Candidate region is east side rows 1-7; more digs needed.
+10 pirate-2 (turn 6): Cave is in 27 sqs: G1-J1,F2-I2,E3-H3,E4-I4,F5-J5,G6-J6,I7. I cover F2,G2,G1,G3,F3,E3,E4,F4,G4,H2. P3 cover J1,I2,I4,I5,J5,J6,H3,I7,I6,H4. P4 cover H5,H6,G6,I5,J5,J6,I7,F5,G5,H4.
+11 pirate-3 (turn 7): P3 at J3. P2's cover plan missed H1,I1! I'll take I1 then H1. P4: skip my dups I5,J5,J6,I7,H4, do F5,G5,H5,H6,G6. P2 keep west. P1 dig too!
+12 pirate-4 (turn 8): P4 heading to G6 first, then H6, H5, G5, F5. If cave found, shout location loudly.
+13 pirate-1 (turn 17): P1 at D8 heading F5. I'll dig F5,G5,G6,H6,H5. P4, please take I4,I5,I7,J6,J5 instead of G-row. If you find cave, say square + alert so we all stop.
+14 pirate-3 (turn 19): P3 at I1, digging. Will head to H1 next unless cave found.
+15 pirate-3 (turn 19, shared): Dug I1: 1 away.
+16 pirate-2 (turn 22): P2 at F2 digging. I1=1! Treasure within 5 of I1. Candidates now: G1,H1,J1,F2,G2,H2,I2,F3,G3,H3,G4,H4,I4,H5,I5,I6. I cover F2,G2,G3,H2,F3,G4,H3,G1,H1. P3/P4/P1 cover I2,I4,H4,I5,H5,I6,J1. Share digs!
+17 pirate-2 (turn 22, shared): Dug F2: 2 away.
+18 pirate-3 (turn 23): P3 at I1. F5,G5,G6,H6,I6 are out now. East left: J1,I2,I4,H4,I5,H5. I'll dig J1,I2,I4,H4. P4/P1: cover I5,H5. Share digs!
+19 pirate-2 (turn 26): P2 at F2, F2=2 away. Remaining cave candidates: G1,H1,J1,G2,H2,I2,F3,G3,H3,G4,H4,I4,H5,I5. I'll dig G2,G1,H1,G3,H2,F3,G4,H3. P3: J1,I2,I4,H4. P4/P1: I5,H5. Share every dig!
+20 pirate-3 (turn 27): P3 at J1, digging. Will do J1,I2,I4,H4 then P4/P1 cover I5,H5.
+21 pirate-3 (turn 27, shared): Dug J1: 3 away.
+22 pirate-4 (turn 28): P4 at G6 heading to I5 then H5 per plan. Will share readings. If cave found, shout square + alert.
+23 pirate-2 (turn 30): P2 at G2 digging. J1=3 keeps all 13: G1,H1,G2,H2,I2,F3,G3,H3,G4,H4,I4,H5,I5. I dig G2,G1,H1,G3,H2,F3,G4,H3. Share digs!
+24 pirate-2 (turn 30, shared): Dug G2: 5 away.
+25 pirate-3 (turn 31): P3 at J1 heading I2 then I4,H4. 12 undug left: G1,H1,H2,I2,F3,G3,H3,G4,H4,I4,H5,I5. P2 covers west 7, P4/P1 take I5,H5. Share digs!
+26 pirate-2 (turn 34): P2 at G1, G1=4 away, no eliminations. Heading H1 next. Candidates: H1,H2,I2,F3,G3,H3,G4,H4,I4,H5,I5. Share digs!
+27 pirate-1 (turn 37): P1 at F5 moving E to H5, will dig H5 then I5 or central. P4 please take I5 too. If cave found, say square + alert.
+28 pirate-3 (turn 39): P3 at I2, digging. Then I4,H4. Remaining 11: H1,H2,I2,F3,G3,H3,G4,H4,I4,H5,I5. P2 west, P4/P1 I5,H5. Share!
+29 pirate-3 (turn 39, shared): Dug I2: 2 away.
+30 pirate-4 (turn 40): P4 at I5 digging and sharing. If cave found, I'll alert. P1, take H5; I'll position central after.
+31 pirate-4 (turn 40, shared): Dug I5: 1 away.
+32 pirate-2 (turn 42): P2 at H1 digging. I2=2, I5=1 no elims yet. Candidates: H1,H2,F3,G3,H3,G4,H4,I4,H5. Share digs!
+33 pirate-2 (turn 42, shared): Dug H1: 3 away.
+34 pirate-3 (turn 43): P3 at I2 heading I4. Remain 8: H2,F3,G3,H3,G4,H4,I4,H5. P2: H2,F3,G3,G4,H3; P1: H5. I: I4,H4. Share digs!
+35 pirate-4 (turn 44): P4 at I5, I5=1 not cave. Moving N to I4 to back up P3. Will dig I4; if cave found anywhere, say square + alert.
+36 pirate-1 (turn 45): P1 at H5 digging now. If this is the cave, I'll enter next turn. All: share every dig; cave should be within H2,F3,G3,H3,G4,H4,I4 now.
+37 pirate-1 (turn 45, shared): Dug H5: 1 away.
+38 pirate-2 (turn 46): P2 heading H2 to dig. Remaining 7: H2,F3,G3,H3,G4,H4,I4. I'll dig H2 then H3. P3/P4 cover I4,H4. P1 cover G4 or F3 after H5. Alert if cave!
+39 pirate-3 (turn 47): P3 at I3; P4 has I4. I'll take H4. Remaining 7: H2,F3,G3,H3,G4,H4,I4. P2 H2,H3; P1 F3,G3,G4; I H4. Alert if cave!
+40 pirate-4 (turn 48): P4 at I4 digging and sharing. If this is the cave, I'll alert and enter. Otherwise I'll head toward H4 to back up P3.
+41 pirate-4 (turn 48, shared): Dug I4: 4 away.
+42 pirate-1 (turn 49): P1 at H5 going to H4 to back up P3/P4; if H4 is cave I enter. If any cave found anywhere, say square + alert so we all head there.
+43 pirate-2 (turn 50): P2 at H2 digging. I4=4 no elims. Candidates now H2,F3,G3,H3,G4,H4. P3 at H3 please DIG H3! Then H4. P1/P4 cover H4; P1 take F3/G3/G4 after. Alert if cave!
+44 pirate-2 (turn 50, shared): Dug H2: 1 away.
+45 pirate-3 (turn 51): P3 at H3, digging now. Remaining undug candidates: F3,G3,G4,H4. If cave, I enter. P1 take H4; P2/P4 cover G4,G3,F3. Alert if cave found!
+46 pirate-3 (turn 51, shared): Dug H3: 1 away.
+47 pirate-1 (turn 53): P1 at H4 digging now. If this is the cave, I enter next turn. P2/P4 cover G4,G3,F3; alert if cave found anywhere.
+48 pirate-1 (turn 53, shared): Dug H4: 1 away.
+49 pirate-2 (turn 54): P2 moving to G2. Remaining candidates: F3,G3,G4. P3: at H3, go_to G3 next, dig at 59. P4: get to G4, dig at 60. F3 unreachable. Alert if cave!
+50 pirate-3 (turn 55): P3 at H3 going G3, dig turn 59. P4/P1 cover G4. F3 likely unreachable in time; if cave found anywhere, alert square now so others can enter. Share digs!
+51 pirate-4 (turn 56): P4 at I4, 2 turns left, blocked by P1 at H4: cannot reach F3/G3/G4 in time. Alert: P1 last=57, P2 last=58, P3 digs G3 at 59 but can't enter after digging. Risk: score 0 if none can enter.
+52 pirate-1 (turn 57): P1 at H4->G4 last turn. Cave remains F3,G3,G4; G4 undug. If G3 opens at 59, P3 can't enter and P4 can't reach. P4: at 60 enter only if already on cave; alert if cave opens.
+53 pirate-2 (turn 58): P2 at G2, final turn. No dig/enter possible from here; G4/F3 look lost. P3: dig G3 at 59 and alert. P4: at 60 even if cave opens at G3 you cannot reach it. We likely finish without entry.
+54 pirate-3 (turn 59): P3 at G3 digging last turn. Remaining candidates F3,G3,G4; if cave opens here P4 at I4 cannot reach in one turn, likely no entry. Sharing reading.
+55 pirate-3 (turn 59, shared): Dug G3: 2 away.
+56 pirate-4 (turn 60): P4 final turn at I4; no open cave reachable in one step. Cave must be F3 or G4, undug; no one can reach/dig. Score 0. Sorry.
