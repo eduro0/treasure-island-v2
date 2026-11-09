@@ -169,6 +169,12 @@ A team of coding agents builds this, directed by one person. People start at [`C
 4. One draft pull request per issue, with CI green.
 5. One review round, then whoever opened it merges.
 
+## Authors
+
+- Al ([@al-beton](https://github.com/al-beton))
+- Eduard Rodriguez Lopez ([@eduro0](https://github.com/eduro0))
+- Built with [Claude Code](https://claude.com/claude-code), co-author of most commits
+
 ## License
 
 [MIT](LICENSE).
